@@ -832,7 +832,7 @@ async function createShareImage(achievements, result, school) {
   const width = 1080;
   const listStartY = 650;
   const rowHeight = 132;
-  const footerSpace = 150;
+  const footerSpace = 190;
   const height = Math.max(1920, listStartY + list.length * rowHeight + footerSpace);
   const scale = window.devicePixelRatio || 1;
   canvas.width = width * scale;
@@ -899,9 +899,13 @@ async function createShareImage(achievements, result, school) {
 
   ctx.fillStyle = "#8f98a0";
   ctx.font = "26px Trebuchet MS, sans-serif";
-  ctx.fillText("由毕业成就馆生成", 76, height - 76);
+  ctx.fillText("由毕业成就馆生成", 76, height - 92);
   ctx.textAlign = "right";
-  ctx.fillText(new Intl.DateTimeFormat("zh-CN").format(new Date()), width - 76, height - 76);
+  ctx.fillText(new Intl.DateTimeFormat("zh-CN").format(new Date()), width - 76, height - 92);
+  ctx.textAlign = "center";
+  ctx.fillStyle = "#66c0f4";
+  ctx.font = "700 28px Trebuchet MS, sans-serif";
+  ctx.fillText("achieve.wulei.org", width / 2, height - 38);
   ctx.textAlign = "left";
 
   return canvas.toDataURL("image/png");
