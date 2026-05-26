@@ -841,6 +841,8 @@ async function createShareImage(achievements, result, school) {
   canvas.style.height = `${height}px`;
   const ctx = canvas.getContext("2d");
   ctx.scale(scale, scale);
+  ctx.imageSmoothingEnabled = true;
+  ctx.imageSmoothingQuality = "high";
 
   const gradient = ctx.createLinearGradient(0, 0, width, height);
   gradient.addColorStop(0, "#263f55");
@@ -861,7 +863,7 @@ async function createShareImage(achievements, result, school) {
   ctx.font = "900 38px Trebuchet MS, Noto Sans SC, sans-serif";
   drawFittedText(ctx, school.shareName || school.displayName, 76, 96, 470, 38, 24, "900");
 
-  const logo = await loadImage(getLogoSrc(school));
+  const logo = await loadCanvasLogo(getLogoSrc(school));
   ctx.save();
   ctx.shadowColor = "rgba(0, 0, 0, 0.58)";
   ctx.shadowBlur = 34;
@@ -918,6 +920,57 @@ function loadImage(src) {
     image.onerror = reject;
     image.src = src;
   });
+}
+
+async function loadCanvasLogo(src) {
+  if (!src.split("?")[0].toLowerCase().endsWith(".svg")) return loadImage(src);
+
+  try {
+    const response = await fetch(src, { cache: "no-store" });
+    if (!response.ok) throw new Error(`Failed to load logo: ${response.status}`);
+    const svgText = await response.text();
+    const objectUrl = URL.createObjectURL(new Blob([scaleSvgForCanvas(svgText, 1024)], { type: "image/svg+xml" }));
+
+    try {
+      return await loadImage(objectUrl);
+    } finally {
+      URL.revokeObjectURL(objectUrl);
+    }
+  } catch {
+    return loadImage(src);
+  }
+}
+
+function scaleSvgForCanvas(svgText, maxSize) {
+  const dimensions = getSvgDimensions(svgText);
+  const ratio = dimensions.width && dimensions.height ? dimensions.width / dimensions.height : 1;
+  const width = ratio >= 1 ? maxSize : Math.round(maxSize * ratio);
+  const height = ratio >= 1 ? Math.round(maxSize / ratio) : maxSize;
+
+  return svgText.replace(/<svg\b([^>]*)>/i, (_match, attrs) => {
+    const hasViewBox = /\sviewBox=(["']).*?\1/i.test(attrs);
+    const cleanedAttrs = attrs
+      .replace(/\swidth=(["']).*?\1/i, "")
+      .replace(/\sheight=(["']).*?\1/i, "");
+    const viewBox = hasViewBox ? "" : ` viewBox="0 0 ${dimensions.width || 1} ${dimensions.height || 1}"`;
+    return `<svg${cleanedAttrs}${viewBox} width="${width}" height="${height}">`;
+  });
+}
+
+function getSvgDimensions(svgText) {
+  const viewBoxMatch = svgText.match(/\sviewBox=(["'])(.*?)\1/i);
+  if (viewBoxMatch) {
+    const parts = viewBoxMatch[2].trim().split(/[\s,]+/).map(Number);
+    if (parts.length === 4 && parts.every(Number.isFinite) && parts[2] > 0 && parts[3] > 0) {
+      return { width: parts[2], height: parts[3] };
+    }
+  }
+
+  const widthMatch = svgText.match(/\swidth=(["'])([\d.]+)/i);
+  const heightMatch = svgText.match(/\sheight=(["'])([\d.]+)/i);
+  const width = widthMatch ? Number(widthMatch[2]) : 1;
+  const height = heightMatch ? Number(heightMatch[2]) : 1;
+  return { width, height };
 }
 
 function drawFittedText(ctx, text, x, y, maxWidth, maxSize, minSize, weight = "700") {
