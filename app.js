@@ -398,19 +398,23 @@ function normalizeAchievement(item) {
 }
 
 function cleanSchoolName(value) {
-  return String(value || "学校")
+  return String(value ?? "")
     .replace(/[-_\s]*logo$/i, "")
     .replace(/[-_\s]*校徽$/i, "")
     .trim();
 }
 
-function normalizeSchool(item) {
-  const name = cleanSchoolName(item.name || item.displayName);
+function normalizeSchool(item, options = {}) {
+  const preserveCustomNames = Boolean(options.preserveCustomNames);
+  const name = cleanSchoolName(item.name || item.displayName) || "学校";
+  const displayName = cleanSchoolName(item.displayName);
+  const shareName = cleanSchoolName(item.shareName);
+
   return {
-    id: cleanSchoolName(item.id || name),
+    id: cleanSchoolName(item.id || name) || name,
     name,
-    displayName: cleanSchoolName(item.displayName || name),
-    shareName: cleanSchoolName(item.shareName || item.displayName || name),
+    displayName: preserveCustomNames ? displayName : displayName || name,
+    shareName: preserveCustomNames ? shareName : shareName || displayName || name,
     logo: String(item.logo || defaultSchools[0].logo).trim(),
     logoVersion: item.logoVersion ? String(item.logoVersion) : "",
     logoTone: item.logoTone === "white" ? "white" : "original",
@@ -537,25 +541,37 @@ function initHome() {
     });
   }
 
-  function applyLogoTone(image) {
-    image.classList.toggle("logo-white", currentSchool.logoTone === "white");
+  function getSelectedLogoTone() {
+    return [...logoToneInputs].find((input) => input.checked)?.value || "original";
+  }
+
+  function applyLogoTone(image, tone = currentSchool.logoTone) {
+    image.classList.toggle("logo-white", tone === "white");
   }
 
   function syncProfilePreview() {
     profilePreviewLogo.src = getLogoSrc(currentSchool);
-    applyLogoTone(profilePreviewLogo);
-    profilePreviewName.textContent = currentSchool.displayName;
+    applyLogoTone(profilePreviewLogo, currentSchool.logoTone);
+    profilePreviewName.textContent = currentSchool.displayName || "等待填写校名";
     profilePreviewNickname.textContent = nicknameInput.value.trim() || "等待填写昵称";
   }
 
-  function applySchool(school) {
-    currentSchool = normalizeSchool(school);
-    schoolTitle.textContent = currentSchool.displayName;
-    schoolTitle.setAttribute("aria-label", currentSchool.displayName);
-    document.title = `${currentSchool.displayName} · 毕业成就馆`;
+  function syncDraftProfilePreview() {
+    profilePreviewLogo.src = getLogoSrc(currentSchool);
+    applyLogoTone(profilePreviewLogo, getSelectedLogoTone());
+    profilePreviewName.textContent = cleanSchoolName(displaySchoolNameInput.value) || "等待填写校名";
+    profilePreviewNickname.textContent = nicknameInput.value.trim() || "等待填写昵称";
+  }
+
+  function applySchool(school, options = {}) {
+    currentSchool = normalizeSchool(school, options);
+    const titleName = currentSchool.displayName || currentSchool.name;
+    schoolTitle.textContent = titleName;
+    schoolTitle.setAttribute("aria-label", titleName);
+    document.title = `${titleName} · 毕业成就馆`;
     schoolLogo.src = getLogoSrc(currentSchool);
     schoolLogo.alt = "";
-    applyLogoTone(schoolLogo);
+    applyLogoTone(schoolLogo, currentSchool.logoTone);
     syncLogoToneControls();
     displaySchoolNameInput.value = currentSchool.displayName;
     shareSchoolNameInput.value = currentSchool.shareName;
@@ -596,12 +612,12 @@ function initHome() {
   }
 
   function collectSchoolFromInputs() {
-    return normalizeSchool({
+    return {
       ...currentSchool,
-      displayName: displaySchoolNameInput.value,
-      shareName: shareSchoolNameInput.value,
-      logoTone: [...logoToneInputs].find((input) => input.checked)?.value || "original",
-    });
+      displayName: cleanSchoolName(displaySchoolNameInput.value),
+      shareName: cleanSchoolName(shareSchoolNameInput.value),
+      logoTone: getSelectedLogoTone(),
+    };
   }
 
   function renderSurvey() {
@@ -669,7 +685,7 @@ function initHome() {
 
   profileForm.addEventListener("submit", (event) => {
     event.preventDefault();
-    applySchool(collectSchoolFromInputs());
+    applySchool(collectSchoolFromInputs(), { preserveCustomNames: true });
     showSurvey();
   });
 
@@ -733,21 +749,21 @@ function initHome() {
   });
 
   displaySchoolNameInput.addEventListener("input", () => {
-    applySchool(collectSchoolFromInputs());
+    syncDraftProfilePreview();
   });
 
   shareSchoolNameInput.addEventListener("input", () => {
-    applySchool(collectSchoolFromInputs());
+    syncDraftProfilePreview();
   });
 
   logoToneInputs.forEach((input) => {
     input.addEventListener("change", () => {
-      applySchool(collectSchoolFromInputs());
+      syncDraftProfilePreview();
     });
   });
 
   nicknameInput.addEventListener("input", () => {
-    syncProfilePreview();
+    syncDraftProfilePreview();
   });
 
   Promise.all([

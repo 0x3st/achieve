@@ -351,7 +351,7 @@ h1 {
   padding: 24px;
   overflow: hidden;
   background:
-    radial-gradient(circle at 50% 36%, rgba(102, 192, 244, 0.2), transparent 132px),
+    radial-gradient(ellipse 62% 44% at 50% 36%, rgba(102, 192, 244, 0.18) 0%, rgba(102, 192, 244, 0.08) 42%, rgba(102, 192, 244, 0) 78%),
     linear-gradient(160deg, #2a465e, #111a24 70%);
   border: 1px solid rgba(103, 193, 245, 0.16);
 }
@@ -373,8 +373,10 @@ h1 {
 }
 
 .preview-logo-stage::before {
-  inset: 20% 0 3%;
-  filter: blur(16px);
+  inset: 10% 4% 0;
+  background: radial-gradient(ellipse at 50% 58%, rgba(102, 192, 244, 0.18) 0%, rgba(102, 192, 244, 0.08) 42%, rgba(102, 192, 244, 0) 76%);
+  filter: blur(18px);
+  opacity: 0.72;
 }
 
 .preview-logo-stage img {
