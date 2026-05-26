@@ -365,6 +365,29 @@ const rarityLabels = {
   legendary: "传说",
 };
 
+const rarityRanks = {
+  common: 1,
+  uncommon: 2,
+  rare: 3,
+  legendary: 4,
+};
+
+function compareAchievements(a, b) {
+  const unlockedDelta = Number(Boolean(b.unlocked)) - Number(Boolean(a.unlocked));
+  if (unlockedDelta) return unlockedDelta;
+
+  const rarityDelta = (rarityRanks[b.rarity] || 0) - (rarityRanks[a.rarity] || 0);
+  if (rarityDelta) return rarityDelta;
+
+  return (a.index || 0) - (b.index || 0);
+}
+
+function sortAchievementsForDisplay(items, unlockedIds) {
+  return items
+    .map((item, index) => ({ ...item, index, unlocked: unlockedIds.has(item.id) }))
+    .sort(compareAchievements);
+}
+
 async function getAchievements(url, fallback) {
   try {
     const response = await fetch(url, { cache: "no-store" });
@@ -642,15 +665,13 @@ function initHome() {
   function renderResult() {
     const unlockedIds = new Set(result?.unlockedIds || []);
     const unlocked = achievements.filter((item) => unlockedIds.has(item.id)).length;
-    const filtered = achievements
-      .map((item) => ({ ...item, unlocked: unlockedIds.has(item.id) }))
+    const filtered = sortAchievementsForDisplay(achievements, unlockedIds)
       .filter((item) => {
         if (activeFilter === "unlocked") return item.unlocked;
         if (activeFilter === "locked") return !item.unlocked;
         if (activeFilter === "rare") return ["rare", "legendary"].includes(item.rarity);
         return true;
-      })
-      .sort((a, b) => Number(b.unlocked) - Number(a.unlocked));
+      });
 
     resultName.textContent = result?.nickname || "您";
     unlockedCount.textContent = unlocked;
@@ -804,11 +825,15 @@ function initHome() {
 async function createShareImage(achievements, result, school) {
   const unlockedIds = new Set(result?.unlockedIds || []);
   const unlockedAchievements = achievements.filter((item) => unlockedIds.has(item.id));
+  const list = sortAchievementsForDisplay(achievements, unlockedIds);
   const nickname = result?.nickname || "你";
   const percent = achievements.length ? Math.round((unlockedAchievements.length / achievements.length) * 100) : 0;
   const canvas = document.createElement("canvas");
   const width = 1080;
-  const height = 1920;
+  const listStartY = 650;
+  const rowHeight = 132;
+  const footerSpace = 150;
+  const height = Math.max(1920, listStartY + list.length * rowHeight + footerSpace);
   const scale = window.devicePixelRatio || 1;
   canvas.width = width * scale;
   canvas.height = height * scale;
@@ -862,13 +887,12 @@ async function createShareImage(achievements, result, school) {
   ctx.font = "700 54px Trebuchet MS, sans-serif";
   ctx.fillText(`${percent}%`, 76, 555);
 
-  const list = [...unlockedAchievements, ...achievements.filter((item) => !unlockedIds.has(item.id))].slice(0, 8);
-  let y = 650;
+  let y = listStartY;
   list.forEach((achievement) => {
     const unlocked = unlockedIds.has(achievement.id);
     const dateText = formatShareDate(result?.unlockedDates?.[achievement.id], unlocked);
     drawShareAchievement(ctx, achievement, unlocked, dateText, 76, y, 928);
-    y += 132;
+    y += rowHeight;
   });
 
   ctx.fillStyle = "#8f98a0";
