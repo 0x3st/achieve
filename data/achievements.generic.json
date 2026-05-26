@@ -1,0 +1,170 @@
+[
+  {
+    "id": "change-major",
+    "title": "后悔药",
+    "description": "完成一次转专业、转方向或培养方案调整",
+    "rarity": "rare",
+    "icon": "CM"
+  },
+  {
+    "id": "late-drop",
+    "title": "明年再战",
+    "description": "退选、重修或放弃一门课",
+    "rarity": "rare",
+    "icon": "LD"
+  },
+  {
+    "id": "campus-run",
+    "title": "跑步健将",
+    "description": "完成 30 次体育打卡或运动记录",
+    "rarity": "uncommon",
+    "icon": "CR"
+  },
+  {
+    "id": "competition-entry",
+    "title": "重在参与",
+    "description": "参与一次比赛、竞赛或校园挑战",
+    "rarity": "common",
+    "icon": "CP"
+  },
+  {
+    "id": "campus-expedition",
+    "title": "校园远征",
+    "description": "徒步走完一次很长的校园路线",
+    "rarity": "uncommon",
+    "icon": "EX"
+  },
+  {
+    "id": "parallel-campus",
+    "title": "平行宇宙",
+    "description": "前往另一个校区、园区或城市参加活动",
+    "rarity": "common",
+    "icon": "PC"
+  },
+  {
+    "id": "research-or-internship",
+    "title": "初出茅庐",
+    "description": "加入科研项目或开始一段实习",
+    "rarity": "common",
+    "icon": "RI"
+  },
+  {
+    "id": "student-assistant",
+    "title": "勤工俭学",
+    "description": "担任助教、助研或学生助理并拿到补贴",
+    "rarity": "uncommon",
+    "icon": "SA"
+  },
+  {
+    "id": "library-overnight",
+    "title": "图书馆之夜",
+    "description": "期末在图书馆通宵复习",
+    "rarity": "rare",
+    "icon": "LO"
+  },
+  {
+    "id": "closing-signal",
+    "title": "闭馆信号",
+    "description": "学到图书馆闭馆才离开",
+    "rarity": "uncommon",
+    "icon": "CL"
+  },
+  {
+    "id": "formal-dinner",
+    "title": "正式饭局",
+    "description": "参加一次学校晚宴、学院晚餐或正式聚餐",
+    "rarity": "rare",
+    "icon": "FD"
+  },
+  {
+    "id": "delivery-misroute",
+    "title": "外卖迷航",
+    "description": "外卖送错校门、楼栋、宿舍区或取餐点",
+    "rarity": "rare",
+    "icon": "DG"
+  },
+  {
+    "id": "volunteer-trip",
+    "title": "周游列国",
+    "description": "参与一次支教、志愿、交流或社会实践项目",
+    "rarity": "rare",
+    "icon": "VT"
+  },
+  {
+    "id": "club-join",
+    "title": "找到组织",
+    "description": "加入一个社团、学会或学生组织",
+    "rarity": "common",
+    "icon": "CJ"
+  },
+  {
+    "id": "stage-star",
+    "title": "校园明星",
+    "description": "参与一场大型演出、晚会或才艺表演",
+    "rarity": "rare",
+    "icon": "SS"
+  },
+  {
+    "id": "new-beginning",
+    "title": "新的开始",
+    "description": "开学报道时认识新同学",
+    "rarity": "common",
+    "icon": "NB"
+  },
+  {
+    "id": "campus-art-photo",
+    "title": "文化打卡",
+    "description": "与校园展览、书法、雕塑或艺术作品合影",
+    "rarity": "uncommon",
+    "icon": "CA"
+  },
+  {
+    "id": "phone-pillar",
+    "title": "低头族警告",
+    "description": "走路看手机撞到柱子、门或其他障碍物",
+    "rarity": "legendary",
+    "icon": "PP"
+  },
+  {
+    "id": "campus-animal",
+    "title": "最好的伙伴",
+    "description": "和校园里的猫、狗、鸟或其他动物互动",
+    "rarity": "common",
+    "icon": "AN"
+  },
+  {
+    "id": "campus-vehicle",
+    "title": "风驰电掣",
+    "description": "乘坐校车、电瓶车或其他校园交通工具",
+    "rarity": "common",
+    "icon": "CV"
+  },
+  {
+    "id": "exam-donation",
+    "title": "大慈善家",
+    "description": "参加语言考试、GRE 或其他高价考试",
+    "rarity": "uncommon",
+    "icon": "GE"
+  },
+  {
+    "id": "last-day-review",
+    "title": "大冒险家",
+    "description": "考试前一天才开始系统复习",
+    "rarity": "rare",
+    "icon": "AR"
+  },
+  {
+    "id": "business-presentation",
+    "title": "商业精英",
+    "description": "穿着正装完成一次 presentation 或正式汇报",
+    "rarity": "uncommon",
+    "icon": "BP"
+  },
+  {
+    "id": "long-name-master",
+    "title": "口才大师",
+    "description": "快速完整说出学校某个超长建筑、学院或机构名称",
+    "rarity": "legendary",
+    "icon": "LN"
+  }
+]

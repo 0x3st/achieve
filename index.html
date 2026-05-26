@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>毕业成就馆</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="home">
+    <header class="steam-bar">
+      <div class="steam-inner">
+        <a class="steam-logo" id="school-display-title" href="index.html" aria-label="香港中文大学（深圳）">香港中文大学（深圳）</a>
+      </div>
+    </header>
+
+    <main class="steam-page">
+      <section class="game-header">
+        <div class="capsule-art" aria-hidden="true">
+          <span class="logo-stage">
+            <img id="school-logo" src="svg/香港中文大学（深圳）-logo.svg" alt="" />
+          </span>
+          <span class="class-lockup">
+            <span class="class-word">CLASS</span>
+            <span class="year-word">
+              <span>2</span>
+              <span>0</span>
+              <span>2</span>
+              <span>6</span>
+            </span>
+          </span>
+        </div>
+        <div class="game-summary">
+          <p class="steam-breadcrumb">个人资料 / 毕业纪念 / 成就</p>
+          <h1>毕业生成就</h1>
+          <p class="hero-text">
+            把那些熬夜、答辩、合照、离校和终于说出口的告别，做成一页可以慢慢点亮的毕业纪念。
+          </p>
+          <div class="summary-meta hidden" id="summary-meta" aria-label="毕业进度">
+            <p class="unlock-summary"><strong id="result-name">您</strong> 已解锁 <strong id="unlocked-count">0</strong>/<strong id="total-count">0</strong> 个成就</p>
+            <div class="summary-progress">
+              <span class="progress-track" aria-hidden="true">
+                <span id="progress-bar"></span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-layout">
+        <section class="profile-panel" id="profile-panel">
+          <form class="register-card" id="profile-form">
+            <div class="register-top">
+              <p class="steam-breadcrumb">创建账户 / 毕业成就档案</p>
+              <h2>创建你的毕业档案</h2>
+            </div>
+            <div class="register-body">
+              <div class="register-fields">
+                <label>
+                  <span>学校 Logo</span>
+                  <select id="school-select"></select>
+                </label>
+                <fieldset class="logo-tone-field">
+                  <legend>Logo 显示</legend>
+                  <span class="segmented-control" id="logo-tone-control">
+                    <label>
+                      <input type="radio" name="logo-tone" value="original" checked />
+                      <span>原色</span>
+                    </label>
+                    <label>
+                      <input type="radio" name="logo-tone" value="white" />
+                      <span>白色</span>
+                    </label>
+                  </span>
+                </fieldset>
+                <label>
+                  <span>页面显示校名</span>
+                  <input id="display-school-name" maxlength="36" required />
+                </label>
+                <label>
+                  <span>分享图校名</span>
+                  <input id="share-school-name" maxlength="24" required />
+                </label>
+                <label>
+                  <span>姓名 / 昵称</span>
+                  <input id="nickname" maxlength="18" required placeholder="比如：小陈 / Alex" />
+                </label>
+              </div>
+              <aside class="register-preview" aria-label="毕业档案预览">
+                <span class="preview-logo-stage">
+                  <img id="profile-preview-logo" src="svg/香港中文大学（深圳）-logo.svg" alt="" />
+                </span>
+                <span>CLASS 2026</span>
+                <strong id="profile-preview-name">香港中文大学（深圳）</strong>
+                <small id="profile-preview-nickname">等待填写昵称</small>
+              </aside>
+            </div>
+            <button class="primary-button" type="submit">继续选择成就</button>
+          </form>
+        </section>
+
+        <section class="survey-panel hidden" id="survey-panel">
+          <div class="survey-head">
+            <div>
+              <p class="steam-breadcrumb">问卷生成 / 个人成就报告</p>
+              <h2>勾选你的毕业经历</h2>
+            </div>
+            <div class="survey-head-actions">
+              <button class="ghost-button compact-button" id="edit-profile" type="button">修改资料</button>
+              <span id="survey-count">0 项</span>
+            </div>
+          </div>
+          <form id="survey-form">
+            <div class="survey-list" id="survey-list"></div>
+            <button class="primary-button" type="submit">生成我的毕业成就</button>
+          </form>
+        </section>
+
+        <section class="achievement-board hidden" id="result-panel">
+          <div class="tab-strip" aria-label="筛选成就">
+            <button class="filter active" data-filter="all" type="button">全部</button>
+            <button class="filter" data-filter="unlocked" type="button">已解锁</button>
+            <button class="filter" data-filter="locked" type="button">未解锁</button>
+            <button class="filter" data-filter="rare" type="button">稀有</button>
+          </div>
+          <div class="section-heading">
+            <span id="visible-count">0 项</span>
+          </div>
+          <div class="achievement-grid" id="achievement-grid"></div>
+          <div class="result-actions">
+            <button class="primary-button" id="make-share-image" type="button">生成分享图</button>
+            <button class="ghost-button" id="retake-survey" type="button">重新填写</button>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <div class="share-modal hidden" id="share-modal" role="dialog" aria-modal="true" aria-label="分享图预览">
+      <div class="share-dialog">
+        <div class="form-title">
+          <h2>分享图预览</h2>
+          <button class="ghost-button" id="close-share-modal" type="button">关闭</button>
+        </div>
+        <img id="share-preview" alt="毕业成就分享图" />
+        <a class="primary-button share-download" id="download-share-image" href="#" download="毕业成就分享图.png">下载图片</a>
+      </div>
+    </div>
+
+    <template id="survey-template">
+      <label class="survey-item">
+        <input type="checkbox" />
+        <span class="survey-check" aria-hidden="true"></span>
+        <span class="survey-copy">
+          <strong></strong>
+          <small></small>
+          <span class="survey-date-field">
+            <span>解锁时间</span>
+            <input type="date" />
+          </span>
+        </span>
+      </label>
+    </template>
+
+    <template id="achievement-template">
+      <article class="achievement-card">
+        <div class="badge" aria-hidden="true"></div>
+        <div class="achievement-copy">
+          <div class="achievement-topline">
+            <h3></h3>
+            <span class="rarity"></span>
+          </div>
+          <p></p>
+          <time></time>
+        </div>
+        <div class="global-stat">
+          <strong></strong>
+          <span>全球完成率</span>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>

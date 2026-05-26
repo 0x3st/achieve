@@ -1,0 +1,170 @@
+[
+  {
+    "id": "change-major",
+    "title": "后悔药",
+    "description": "转一次专业",
+    "rarity": "rare",
+    "icon": "后悔"
+  },
+  {
+    "id": "late-drop",
+    "title": "明年再战",
+    "description": "进行一次latedrop",
+    "rarity": "rare",
+    "icon": "明年"
+  },
+  {
+    "id": "campus-run",
+    "title": "跑步健将",
+    "description": "完成30次校园跑打卡",
+    "rarity": "uncommon",
+    "icon": "跑步"
+  },
+  {
+    "id": "competition-entry",
+    "title": "重在参与",
+    "description": "参与一次比赛",
+    "rarity": "common",
+    "icon": "重在"
+  },
+  {
+    "id": "campus-expedition",
+    "title": "山上风儿好喧嚣",
+    "description": "从下园徒步去上园",
+    "rarity": "uncommon",
+    "icon": "山上"
+  },
+  {
+    "id": "parallel-campus",
+    "title": "平行宇宙",
+    "description": "成坐校巴前往另一个校园参加活动",
+    "rarity": "common",
+    "icon": "平行"
+  },
+  {
+    "id": "research-or-internship",
+    "title": "初出茅庐",
+    "description": "加入科研项目或开始一段实习",
+    "rarity": "common",
+    "icon": "初出"
+  },
+  {
+    "id": "student-assistant",
+    "title": "勤工俭学",
+    "description": "担任学助拿到补贴",
+    "rarity": "uncommon",
+    "icon": "勤工"
+  },
+  {
+    "id": "library-overnight",
+    "title": "图书馆之夜",
+    "description": "期末在图书馆通宵复习",
+    "rarity": "rare",
+    "icon": "图书"
+  },
+  {
+    "id": "closing-signal",
+    "title": "归家的信号",
+    "description": "学到图书馆闭馆才离开",
+    "rarity": "uncommon",
+    "icon": "归家"
+  },
+  {
+    "id": "formal-dinner",
+    "title": "大美食家",
+    "description": "参加一次高桌晚宴并只吃前菜",
+    "rarity": "rare",
+    "icon": "美食"
+  },
+  {
+    "id": "delivery-misroute",
+    "title": "真假美猴王",
+    "description": "老南门的外卖点到新南门；vice versa",
+    "rarity": "rare",
+    "icon": "真假"
+  },
+  {
+    "id": "volunteer-trip",
+    "title": "周游列国",
+    "description": "参与一次支教任务",
+    "rarity": "rare",
+    "icon": "周游"
+  },
+  {
+    "id": "club-join",
+    "title": "找到组织",
+    "description": "加入一个学会或社团",
+    "rarity": "common",
+    "icon": "组织"
+  },
+  {
+    "id": "stage-star",
+    "title": "校园明星",
+    "description": "参与一场大型演出/才艺表演",
+    "rarity": "rare",
+    "icon": "明星"
+  },
+  {
+    "id": "new-beginning",
+    "title": "新的开始",
+    "description": "开学报道认识新同学",
+    "rarity": "common",
+    "icon": "新的"
+  },
+  {
+    "id": "campus-art-photo",
+    "title": "大书法家",
+    "description": "与墨宝战士的作品合影",
+    "rarity": "uncommon",
+    "icon": "书法"
+  },
+  {
+    "id": "phone-pillar",
+    "title": "走路呆看手机",
+    "description": "走路看手机撞到柱子",
+    "rarity": "legendary",
+    "icon": "手机"
+  },
+  {
+    "id": "campus-animal",
+    "title": "最好的伙伴",
+    "description": "和校内小猫进行互动",
+    "rarity": "common",
+    "icon": "伙伴"
+  },
+  {
+    "id": "campus-vehicle",
+    "title": "风驰电掣",
+    "description": "在校园内乘坐电瓶车",
+    "rarity": "common",
+    "icon": "风驰"
+  },
+  {
+    "id": "exam-donation",
+    "title": "大慈善家",
+    "description": "参加语言考试或者GRE考试",
+    "rarity": "uncommon",
+    "icon": "慈善"
+  },
+  {
+    "id": "last-day-review",
+    "title": "大冒险家",
+    "description": "期末考前一天开始复习",
+    "rarity": "rare",
+    "icon": "冒险"
+  },
+  {
+    "id": "business-presentation",
+    "title": "商业精英",
+    "description": "穿着商务套装进行一次pre",
+    "rarity": "uncommon",
+    "icon": "商业"
+  },
+  {
+    "id": "long-name-master",
+    "title": "口才大师",
+    "description": "快速完整说出旧图的全称",
+    "rarity": "legendary",
+    "icon": "口才"
+  }
+]

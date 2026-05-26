@@ -1,0 +1,6146 @@
+[
+  {
+    "id": "香港中文大学-深圳",
+    "name": "香港中文大学（深圳）",
+    "displayName": "香港中文大学（深圳）",
+    "shareName": "香港中文大学（深圳）",
+    "logo": "svg/香港中文大学（深圳）-logo.svg",
+    "logoVersion": 1779744722028
+  },
+  {
+    "id": "阿坝师范学院",
+    "name": "阿坝师范学院",
+    "displayName": "阿坝师范学院",
+    "shareName": "阿坝师范学院",
+    "logo": "svg/阿坝师范学院-logo.svg",
+    "logoVersion": 1779744897480
+  },
+  {
+    "id": "安徽财经大学",
+    "name": "安徽财经大学",
+    "displayName": "安徽财经大学",
+    "shareName": "安徽财经大学",
+    "logo": "svg/安徽财经大学-logo.svg",
+    "logoVersion": 1779744024007
+  },
+  {
+    "id": "安徽大学",
+    "name": "安徽大学",
+    "displayName": "安徽大学",
+    "shareName": "安徽大学",
+    "logo": "svg/安徽大学-logo.svg",
+    "logoVersion": 1779743953100
+  },
+  {
+    "id": "安徽电气工程职业技术学院",
+    "name": "安徽电气工程职业技术学院",
+    "displayName": "安徽电气工程职业技术学院",
+    "shareName": "安徽电气工程职业技术学院",
+    "logo": "svg/安徽电气工程职业技术学院-logo.svg",
+    "logoVersion": 1779744046491
+  },
+  {
+    "id": "安徽工程大学",
+    "name": "安徽工程大学",
+    "displayName": "安徽工程大学",
+    "shareName": "安徽工程大学",
+    "logo": "svg/安徽工程大学-logo.svg",
+    "logoVersion": 1779743960836
+  },
+  {
+    "id": "安徽建筑大学",
+    "name": "安徽建筑大学",
+    "displayName": "安徽建筑大学",
+    "shareName": "安徽建筑大学",
+    "logo": "svg/安徽建筑大学-logo.svg",
+    "logoVersion": 1779744031789
+  },
+  {
+    "id": "安徽交通职业技术学院",
+    "name": "安徽交通职业技术学院",
+    "displayName": "安徽交通职业技术学院",
+    "shareName": "安徽交通职业技术学院",
+    "logo": "svg/安徽交通职业技术学院-logo.svg",
+    "logoVersion": 1779744042485
+  },
+  {
+    "id": "安徽科技学院",
+    "name": "安徽科技学院",
+    "displayName": "安徽科技学院",
+    "shareName": "安徽科技学院",
+    "logo": "svg/安徽科技学院-logo.svg",
+    "logoVersion": 1779744034004
+  },
+  {
+    "id": "安徽理工大学",
+    "name": "安徽理工大学",
+    "displayName": "安徽理工大学",
+    "shareName": "安徽理工大学",
+    "logo": "svg/安徽理工大学-logo.svg",
+    "logoVersion": 1779743959031
+  },
+  {
+    "id": "安徽农业大学",
+    "name": "安徽农业大学",
+    "displayName": "安徽农业大学",
+    "shareName": "安徽农业大学",
+    "logo": "svg/安徽农业大学-logo.svg",
+    "logoVersion": 1779743963175
+  },
+  {
+    "id": "安徽三联学院",
+    "name": "安徽三联学院",
+    "displayName": "安徽三联学院",
+    "shareName": "安徽三联学院",
+    "logo": "svg/安徽三联学院-logo.svg",
+    "logoVersion": 1779744036118
+  },
+  {
+    "id": "安徽师范大学",
+    "name": "安徽师范大学",
+    "displayName": "安徽师范大学",
+    "shareName": "安徽师范大学",
+    "logo": "svg/安徽师范大学-logo.svg",
+    "logoVersion": 1779745561966
+  },
+  {
+    "id": "安徽医科大学",
+    "name": "安徽医科大学",
+    "displayName": "安徽医科大学",
+    "shareName": "安徽医科大学",
+    "logo": "svg/安徽医科大学-logo.svg",
+    "logoVersion": 1779743965798
+  },
+  {
+    "id": "安徽艺术学院",
+    "name": "安徽艺术学院",
+    "displayName": "安徽艺术学院",
+    "shareName": "安徽艺术学院",
+    "logo": "svg/安徽艺术学院-logo.svg",
+    "logoVersion": 1779748974599
+  },
+  {
+    "id": "安徽职业技术学院",
+    "name": "安徽职业技术学院",
+    "displayName": "安徽职业技术学院",
+    "shareName": "安徽职业技术学院",
+    "logo": "svg/安徽职业技术学院-logo.svg",
+    "logoVersion": 1779744030147
+  },
+  {
+    "id": "安康学院",
+    "name": "安康学院",
+    "displayName": "安康学院",
+    "shareName": "安康学院",
+    "logo": "svg/安康学院-logo.svg",
+    "logoVersion": 1779745087985
+  },
+  {
+    "id": "安庆师范大学",
+    "name": "安庆师范大学",
+    "displayName": "安庆师范大学",
+    "shareName": "安庆师范大学",
+    "logo": "svg/安庆师范大学-logo.svg",
+    "logoVersion": 1779744006629
+  },
+  {
+    "id": "安阳师范学院",
+    "name": "安阳师范学院",
+    "displayName": "安阳师范学院",
+    "shareName": "安阳师范学院",
+    "logo": "svg/安阳师范学院-logo.svg",
+    "logoVersion": 1779744317462
+  },
+  {
+    "id": "白城师范学院",
+    "name": "白城师范学院",
+    "displayName": "白城师范学院",
+    "shareName": "白城师范学院",
+    "logo": "svg/白城师范学院-logo.svg",
+    "logoVersion": 1779743461941
+  },
+  {
+    "id": "蚌埠学院",
+    "name": "蚌埠学院",
+    "displayName": "蚌埠学院",
+    "shareName": "蚌埠学院",
+    "logo": "svg/蚌埠学院-logo.svg",
+    "logoVersion": 1779744039337
+  },
+  {
+    "id": "蚌埠医科大学",
+    "name": "蚌埠医科大学",
+    "displayName": "蚌埠医科大学",
+    "shareName": "蚌埠医科大学",
+    "logo": "svg/蚌埠医科大学-logo.svg",
+    "logoVersion": 1779743967969
+  },
+  {
+    "id": "保定学院",
+    "name": "保定学院",
+    "displayName": "保定学院",
+    "shareName": "保定学院",
+    "logo": "svg/保定学院-logo.svg",
+    "logoVersion": 1779743177834
+  },
+  {
+    "id": "保定职业技术学院",
+    "name": "保定职业技术学院",
+    "displayName": "保定职业技术学院",
+    "shareName": "保定职业技术学院",
+    "logo": "svg/保定职业技术学院-logo.svg",
+    "logoVersion": 1779743236080
+  },
+  {
+    "id": "北方工业大学",
+    "name": "北方工业大学",
+    "displayName": "北方工业大学",
+    "shareName": "北方工业大学",
+    "logo": "svg/北方工业大学-logo.svg",
+    "logoVersion": 1779742745560
+  },
+  {
+    "id": "北方民族大学",
+    "name": "北方民族大学",
+    "displayName": "北方民族大学",
+    "shareName": "北方民族大学",
+    "logo": "svg/北方民族大学-logo.svg",
+    "logoVersion": 1779745154012
+  },
+  {
+    "id": "北海艺术设计学院",
+    "name": "北海艺术设计学院",
+    "displayName": "北海艺术设计学院",
+    "shareName": "北海艺术设计学院",
+    "logo": "svg/北海艺术设计学院-logo.svg",
+    "logoVersion": 1779744781366
+  },
+  {
+    "id": "北华大学",
+    "name": "北华大学",
+    "displayName": "北华大学",
+    "shareName": "北华大学",
+    "logo": "svg/北华大学-logo.svg",
+    "logoVersion": 1779743450107
+  },
+  {
+    "id": "北京城市学院",
+    "name": "北京城市学院",
+    "displayName": "北京城市学院",
+    "shareName": "北京城市学院",
+    "logo": "svg/北京城市学院-logo.svg",
+    "logoVersion": 1779743029077
+  },
+  {
+    "id": "北京大学",
+    "name": "北京大学",
+    "displayName": "北京大学",
+    "shareName": "北京大学",
+    "logo": "svg/北京大学-logo.svg",
+    "logoVersion": 1779742728706
+  },
+  {
+    "id": "北京服装学院",
+    "name": "北京服装学院",
+    "displayName": "北京服装学院",
+    "shareName": "北京服装学院",
+    "logo": "svg/北京服装学院-logo.svg",
+    "logoVersion": 1779742753424
+  },
+  {
+    "id": "北京工商大学",
+    "name": "北京工商大学",
+    "displayName": "北京工商大学",
+    "shareName": "北京工商大学",
+    "logo": "svg/北京工商大学-logo.svg",
+    "logoVersion": 1779742752655
+  },
+  {
+    "id": "北京工商大学嘉华学院",
+    "name": "北京工商大学嘉华学院",
+    "displayName": "北京工商大学嘉华学院",
+    "shareName": "北京工商大学嘉华学院",
+    "logo": "svg/北京工商大学嘉华学院-logo.svg",
+    "logoVersion": 1779743047692
+  },
+  {
+    "id": "北京工业大学",
+    "name": "北京工业大学",
+    "displayName": "北京工业大学",
+    "shareName": "北京工业大学",
+    "logo": "svg/北京工业大学-logo.svg",
+    "logoVersion": 1779742737906
+  },
+  {
+    "id": "北京工业大学耿丹学院",
+    "name": "北京工业大学耿丹学院",
+    "displayName": "北京工业大学耿丹学院",
+    "shareName": "北京工业大学耿丹学院",
+    "logo": "svg/北京工业大学耿丹学院-logo.svg",
+    "logoVersion": 1779743075713
+  },
+  {
+    "id": "北京航空航天大学",
+    "name": "北京航空航天大学",
+    "displayName": "北京航空航天大学",
+    "shareName": "北京航空航天大学",
+    "logo": "svg/北京航空航天大学-logo.svg",
+    "logoVersion": 1779742740515
+  },
+  {
+    "id": "北京航空航天大学北海学院",
+    "name": "北京航空航天大学北海学院",
+    "displayName": "北京航空航天大学北海学院",
+    "shareName": "北京航空航天大学北海学院",
+    "logo": "svg/北京航空航天大学北海学院-logo.svg",
+    "logoVersion": 1779744784387
+  },
+  {
+    "id": "北京化工大学",
+    "name": "北京化工大学",
+    "displayName": "北京化工大学",
+    "shareName": "北京化工大学",
+    "logo": "svg/北京化工大学-logo.svg",
+    "logoVersion": 1779742750237
+  },
+  {
+    "id": "北京建筑大学",
+    "name": "北京建筑大学",
+    "displayName": "北京建筑大学",
+    "shareName": "北京建筑大学",
+    "logo": "svg/北京建筑大学-logo.svg",
+    "logoVersion": 1779742763466
+  },
+  {
+    "id": "北京交通大学",
+    "name": "北京交通大学",
+    "displayName": "北京交通大学",
+    "shareName": "北京交通大学",
+    "logo": "svg/北京交通大学-logo.svg",
+    "logoVersion": 1779742737147
+  },
+  {
+    "id": "北京交通职业技术学院",
+    "name": "北京交通职业技术学院",
+    "displayName": "北京交通职业技术学院",
+    "shareName": "北京交通职业技术学院",
+    "logo": "svg/北京交通职业技术学院-logo.svg",
+    "logoVersion": 1779743005184
+  },
+  {
+    "id": "北京警察学院",
+    "name": "北京警察学院",
+    "displayName": "北京警察学院",
+    "shareName": "北京警察学院",
+    "logo": "svg/北京警察学院-logo.svg",
+    "logoVersion": 1779743079617
+  },
+  {
+    "id": "北京科技大学",
+    "name": "北京科技大学",
+    "displayName": "北京科技大学",
+    "shareName": "北京科技大学",
+    "logo": "svg/北京科技大学-logo.svg",
+    "logoVersion": 1779742743758
+  },
+  {
+    "id": "北京科技职业学院",
+    "name": "北京科技职业学院",
+    "displayName": "北京科技职业学院",
+    "shareName": "北京科技职业学院",
+    "logo": "svg/北京科技职业学院-logo.svg",
+    "logoVersion": 1779743050544
+  },
+  {
+    "id": "北京理工大学",
+    "name": "北京理工大学",
+    "displayName": "北京理工大学",
+    "shareName": "北京理工大学",
+    "logo": "svg/北京理工大学-logo.svg",
+    "logoVersion": 1779742742916
+  },
+  {
+    "id": "北京联合大学",
+    "name": "北京联合大学",
+    "displayName": "北京联合大学",
+    "shareName": "北京联合大学",
+    "logo": "svg/北京联合大学-logo.svg",
+    "logoVersion": 1779743021459
+  },
+  {
+    "id": "北京林业大学",
+    "name": "北京林业大学",
+    "displayName": "北京林业大学",
+    "shareName": "北京林业大学",
+    "logo": "svg/北京林业大学-logo.svg",
+    "logoVersion": 1779742770132
+  },
+  {
+    "id": "北京师范大学",
+    "name": "北京师范大学",
+    "displayName": "北京师范大学",
+    "shareName": "北京师范大学",
+    "logo": "svg/北京师范大学-logo.svg",
+    "logoVersion": 1779742940323
+  },
+  {
+    "id": "北京石油化工学院",
+    "name": "北京石油化工学院",
+    "displayName": "北京石油化工学院",
+    "shareName": "北京石油化工学院",
+    "logo": "svg/北京石油化工学院-logo.svg",
+    "logoVersion": 1779742766078
+  },
+  {
+    "id": "北京体育大学",
+    "name": "北京体育大学",
+    "displayName": "北京体育大学",
+    "shareName": "北京体育大学",
+    "logo": "svg/北京体育大学-logo.svg",
+    "logoVersion": 1779742973755
+  },
+  {
+    "id": "北京外国语大学",
+    "name": "北京外国语大学",
+    "displayName": "北京外国语大学",
+    "shareName": "北京外国语大学",
+    "logo": "svg/北京外国语大学-logo.svg",
+    "logoVersion": 1779742945780
+  },
+  {
+    "id": "北京网络职业学院",
+    "name": "北京网络职业学院",
+    "displayName": "北京网络职业学院",
+    "shareName": "北京网络职业学院",
+    "logo": "svg/北京网络职业学院-logo.svg",
+    "logoVersion": 1779743085556
+  },
+  {
+    "id": "北京舞蹈学院",
+    "name": "北京舞蹈学院",
+    "displayName": "北京舞蹈学院",
+    "shareName": "北京舞蹈学院",
+    "logo": "svg/北京舞蹈学院-logo.svg",
+    "logoVersion": 1779742994315
+  },
+  {
+    "id": "北京物资学院",
+    "name": "北京物资学院",
+    "displayName": "北京物资学院",
+    "shareName": "北京物资学院",
+    "logo": "svg/北京物资学院-logo.svg",
+    "logoVersion": 1779742961978
+  },
+  {
+    "id": "北京协和医学院",
+    "name": "北京协和医学院",
+    "displayName": "北京协和医学院",
+    "shareName": "北京协和医学院",
+    "logo": "svg/北京协和医学院-logo.svg",
+    "logoVersion": 1779745386310
+  },
+  {
+    "id": "北京信息科技大学",
+    "name": "北京信息科技大学",
+    "displayName": "北京信息科技大学",
+    "shareName": "北京信息科技大学",
+    "logo": "svg/北京信息科技大学-logo.svg",
+    "logoVersion": 1779743010044
+  },
+  {
+    "id": "北京邮电大学",
+    "name": "北京邮电大学",
+    "displayName": "北京邮电大学",
+    "shareName": "北京邮电大学",
+    "logo": "svg/北京邮电大学-logo.svg",
+    "logoVersion": 1779742754625
+  },
+  {
+    "id": "北京邮电大学世纪学院",
+    "name": "北京邮电大学世纪学院",
+    "displayName": "北京邮电大学世纪学院",
+    "shareName": "北京邮电大学世纪学院",
+    "logo": "svg/北京邮电大学世纪学院-logo.svg",
+    "logoVersion": 1779743067270
+  },
+  {
+    "id": "北京语言大学",
+    "name": "北京语言大学",
+    "displayName": "北京语言大学",
+    "shareName": "北京语言大学",
+    "logo": "svg/北京语言大学-logo.svg",
+    "logoVersion": 1779742949509
+  },
+  {
+    "id": "北京中医药大学",
+    "name": "北京中医药大学",
+    "displayName": "北京中医药大学",
+    "shareName": "北京中医药大学",
+    "logo": "svg/北京中医药大学-logo.svg",
+    "logoVersion": 1779742937724
+  },
+  {
+    "id": "北师香港浸会大学",
+    "name": "北师香港浸会大学",
+    "displayName": "北师香港浸会大学",
+    "shareName": "北师香港浸会大学",
+    "logo": "svg/北师香港浸会大学-logo.svg",
+    "logoVersion": 1779744720317
+  },
+  {
+    "id": "滨州医学院",
+    "name": "滨州医学院",
+    "displayName": "滨州医学院",
+    "shareName": "滨州医学院",
+    "logo": "svg/滨州医学院-logo.svg",
+    "logoVersion": 1779744233793
+  },
+  {
+    "id": "亳州学院",
+    "name": "亳州学院",
+    "displayName": "亳州学院",
+    "shareName": "亳州学院",
+    "logo": "svg/亳州学院-logo.svg",
+    "logoVersion": 1779744044198
+  },
+  {
+    "id": "渤海大学",
+    "name": "渤海大学",
+    "displayName": "渤海大学",
+    "shareName": "渤海大学",
+    "logo": "svg/渤海大学-logo.svg",
+    "logoVersion": 1779743375738
+  },
+  {
+    "id": "沧州师范学院",
+    "name": "沧州师范学院",
+    "displayName": "沧州师范学院",
+    "shareName": "沧州师范学院",
+    "logo": "svg/沧州师范学院-logo.svg",
+    "logoVersion": 1779743216592
+  },
+  {
+    "id": "常州大学",
+    "name": "常州大学",
+    "displayName": "常州大学",
+    "shareName": "常州大学",
+    "logo": "svg/常州大学-logo.svg",
+    "logoVersion": 1779743704354
+  },
+  {
+    "id": "常州纺织服装职业技术学院",
+    "name": "常州纺织服装职业技术学院",
+    "displayName": "常州纺织服装职业技术学院",
+    "shareName": "常州纺织服装职业技术学院",
+    "logo": "svg/常州纺织服装职业技术学院-logo.svg",
+    "logoVersion": 1779743800672
+  },
+  {
+    "id": "巢湖学院",
+    "name": "巢湖学院",
+    "displayName": "巢湖学院",
+    "shareName": "巢湖学院",
+    "logo": "svg/巢湖学院-logo.svg",
+    "logoVersion": 1779744027718
+  },
+  {
+    "id": "朝阳师范学院",
+    "name": "朝阳师范学院",
+    "displayName": "朝阳师范学院",
+    "shareName": "朝阳师范学院",
+    "logo": "svg/朝阳师范学院-logo.svg",
+    "logoVersion": 1779743379498
+  },
+  {
+    "id": "成都大学",
+    "name": "成都大学",
+    "displayName": "成都大学",
+    "shareName": "成都大学",
+    "logo": "svg/成都大学-logo.svg",
+    "logoVersion": 1779744911579
+  },
+  {
+    "id": "成都东软学院",
+    "name": "成都东软学院",
+    "displayName": "成都东软学院",
+    "shareName": "成都东软学院",
+    "logo": "svg/成都东软学院-logo.svg",
+    "logoVersion": 1779744944955
+  },
+  {
+    "id": "成都工业学院",
+    "name": "成都工业学院",
+    "displayName": "成都工业学院",
+    "shareName": "成都工业学院",
+    "logo": "svg/成都工业学院-logo.svg",
+    "logoVersion": 1779744927560
+  },
+  {
+    "id": "成都工业职业技术学院",
+    "name": "成都工业职业技术学院",
+    "displayName": "成都工业职业技术学院",
+    "shareName": "成都工业职业技术学院",
+    "logo": "svg/成都工业职业技术学院-logo.svg",
+    "logoVersion": 1779744956061
+  },
+  {
+    "id": "成都航空职业技术大学",
+    "name": "成都航空职业技术大学",
+    "displayName": "成都航空职业技术大学",
+    "shareName": "成都航空职业技术大学",
+    "logo": "svg/成都航空职业技术大学-logo.svg",
+    "logoVersion": 1779744937250
+  },
+  {
+    "id": "成都理工大学",
+    "name": "成都理工大学",
+    "displayName": "成都理工大学",
+    "shareName": "成都理工大学",
+    "logo": "svg/成都理工大学-logo.svg",
+    "logoVersion": 1779744863870
+  },
+  {
+    "id": "成都体育学院",
+    "name": "成都体育学院",
+    "displayName": "成都体育学院",
+    "shareName": "成都体育学院",
+    "logo": "svg/成都体育学院-logo.svg",
+    "logoVersion": 1779744906864
+  },
+  {
+    "id": "成都信息工程大学",
+    "name": "成都信息工程大学",
+    "displayName": "成都信息工程大学",
+    "shareName": "成都信息工程大学",
+    "logo": "svg/成都信息工程大学-logo.svg",
+    "logoVersion": 1779744870421
+  },
+  {
+    "id": "成都医学院",
+    "name": "成都医学院",
+    "displayName": "成都医学院",
+    "shareName": "成都医学院",
+    "logo": "svg/成都医学院-logo.svg",
+    "logoVersion": 1779744948945
+  },
+  {
+    "id": "承德医学院",
+    "name": "承德医学院",
+    "displayName": "承德医学院",
+    "shareName": "承德医学院",
+    "logo": "svg/承德医学院-logo.svg",
+    "logoVersion": 1779743174021
+  },
+  {
+    "id": "池州学院",
+    "name": "池州学院",
+    "displayName": "池州学院",
+    "shareName": "池州学院",
+    "logo": "svg/池州学院-logo.svg",
+    "logoVersion": 1779744040846
+  },
+  {
+    "id": "赤峰学院",
+    "name": "赤峰学院",
+    "displayName": "赤峰学院",
+    "shareName": "赤峰学院",
+    "logo": "svg/赤峰学院-logo.svg",
+    "logoVersion": 1779743308561
+  },
+  {
+    "id": "重庆安全技术职业学院",
+    "name": "重庆安全技术职业学院",
+    "displayName": "重庆安全技术职业学院",
+    "shareName": "重庆安全技术职业学院",
+    "logo": "svg/重庆安全技术职业学院-logo.svg",
+    "logoVersion": 1779744845114
+  },
+  {
+    "id": "重庆城市管理职业学院",
+    "name": "重庆城市管理职业学院",
+    "displayName": "重庆城市管理职业学院",
+    "shareName": "重庆城市管理职业学院",
+    "logo": "svg/重庆城市管理职业学院-logo.svg",
+    "logoVersion": 1779744837770
+  },
+  {
+    "id": "重庆大学",
+    "name": "重庆大学",
+    "displayName": "重庆大学",
+    "shareName": "重庆大学",
+    "logo": "svg/重庆大学-logo.svg",
+    "logoVersion": 1779744799715
+  },
+  {
+    "id": "重庆第二师范学院",
+    "name": "重庆第二师范学院",
+    "displayName": "重庆第二师范学院",
+    "shareName": "重庆第二师范学院",
+    "logo": "svg/重庆第二师范学院-logo.svg",
+    "logoVersion": 1779744846915
+  },
+  {
+    "id": "重庆工商大学",
+    "name": "重庆工商大学",
+    "displayName": "重庆工商大学",
+    "shareName": "重庆工商大学",
+    "logo": "svg/重庆工商大学-logo.svg",
+    "logoVersion": 1779744834464
+  },
+  {
+    "id": "重庆工商大学派斯学院",
+    "name": "重庆工商大学派斯学院",
+    "displayName": "重庆工商大学派斯学院",
+    "shareName": "重庆工商大学派斯学院",
+    "logo": "svg/重庆工商大学派斯学院-logo.svg",
+    "logoVersion": 1779744840484
+  },
+  {
+    "id": "重庆建筑工程职业学院",
+    "name": "重庆建筑工程职业学院",
+    "displayName": "重庆建筑工程职业学院",
+    "shareName": "重庆建筑工程职业学院",
+    "logo": "svg/重庆建筑工程职业学院-logo.svg",
+    "logoVersion": 1779744842516
+  },
+  {
+    "id": "重庆交通大学",
+    "name": "重庆交通大学",
+    "displayName": "重庆交通大学",
+    "shareName": "重庆交通大学",
+    "logo": "svg/重庆交通大学-logo.svg",
+    "logoVersion": 1779744804352
+  },
+  {
+    "id": "重庆科技大学",
+    "name": "重庆科技大学",
+    "displayName": "重庆科技大学",
+    "shareName": "重庆科技大学",
+    "logo": "svg/重庆科技大学-logo.svg",
+    "logoVersion": 1779744829847
+  },
+  {
+    "id": "重庆理工大学",
+    "name": "重庆理工大学",
+    "displayName": "重庆理工大学",
+    "shareName": "重庆理工大学",
+    "logo": "svg/重庆理工大学-logo.svg",
+    "logoVersion": 1779744832343
+  },
+  {
+    "id": "重庆师范大学",
+    "name": "重庆师范大学",
+    "displayName": "重庆师范大学",
+    "shareName": "重庆师范大学",
+    "logo": "svg/重庆师范大学-logo.svg",
+    "logoVersion": 1779744815023
+  },
+  {
+    "id": "重庆文理学院",
+    "name": "重庆文理学院",
+    "displayName": "重庆文理学院",
+    "shareName": "重庆文理学院",
+    "logo": "svg/重庆文理学院-logo.svg",
+    "logoVersion": 1779744817158
+  },
+  {
+    "id": "重庆医科大学",
+    "name": "重庆医科大学",
+    "displayName": "重庆医科大学",
+    "shareName": "重庆医科大学",
+    "logo": "svg/重庆医科大学-logo.svg",
+    "logoVersion": 1779744812195
+  },
+  {
+    "id": "重庆邮电大学",
+    "name": "重庆邮电大学",
+    "displayName": "重庆邮电大学",
+    "shareName": "重庆邮电大学",
+    "logo": "svg/重庆邮电大学-logo.svg",
+    "logoVersion": 1779748976809
+  },
+  {
+    "id": "重庆中医药学院",
+    "name": "重庆中医药学院",
+    "displayName": "重庆中医药学院",
+    "shareName": "重庆中医药学院",
+    "logo": "svg/重庆中医药学院-logo.svg",
+    "logoVersion": 1779744850793
+  },
+  {
+    "id": "滁州学院",
+    "name": "滁州学院",
+    "displayName": "滁州学院",
+    "shareName": "滁州学院",
+    "logo": "svg/滁州学院-logo.svg",
+    "logoVersion": 1779744022337
+  },
+  {
+    "id": "楚雄师范学院",
+    "name": "楚雄师范学院",
+    "displayName": "楚雄师范学院",
+    "shareName": "楚雄师范学院",
+    "logo": "svg/楚雄师范学院-logo.svg",
+    "logoVersion": 1779745021060
+  },
+  {
+    "id": "大理大学",
+    "name": "大理大学",
+    "displayName": "大理大学",
+    "shareName": "大理大学",
+    "logo": "svg/大理大学-logo.svg",
+    "logoVersion": 1779744994994
+  },
+  {
+    "id": "大连财经学院",
+    "name": "大连财经学院",
+    "displayName": "大连财经学院",
+    "shareName": "大连财经学院",
+    "logo": "svg/大连财经学院-logo.svg",
+    "logoVersion": 1779743416291
+  },
+  {
+    "id": "大连大学",
+    "name": "大连大学",
+    "displayName": "大连大学",
+    "shareName": "大连大学",
+    "logo": "svg/大连大学-logo.svg",
+    "logoVersion": 1779743392927
+  },
+  {
+    "id": "大连工业大学艺术与信息工程学院",
+    "name": "大连工业大学艺术与信息工程学院",
+    "displayName": "大连工业大学艺术与信息工程学院",
+    "shareName": "大连工业大学艺术与信息工程学院",
+    "logo": "svg/大连工业大学艺术与信息工程学院-logo.svg",
+    "logoVersion": 1779743405236
+  },
+  {
+    "id": "大连海事大学",
+    "name": "大连海事大学",
+    "displayName": "大连海事大学",
+    "shareName": "大连海事大学",
+    "logo": "svg/大连海事大学-logo.svg",
+    "logoVersion": 1779743355069
+  },
+  {
+    "id": "大连交通大学",
+    "name": "大连交通大学",
+    "displayName": "大连交通大学",
+    "shareName": "大连交通大学",
+    "logo": "svg/大连交通大学-logo.svg",
+    "logoVersion": 1779743350673
+  },
+  {
+    "id": "大连科技学院",
+    "name": "大连科技学院",
+    "displayName": "大连科技学院",
+    "shareName": "大连科技学院",
+    "logo": "svg/大连科技学院-logo.svg",
+    "logoVersion": 1779743408434
+  },
+  {
+    "id": "大连理工大学",
+    "name": "大连理工大学",
+    "displayName": "大连理工大学",
+    "shareName": "大连理工大学",
+    "logo": "svg/大连理工大学-logo.svg",
+    "logoVersion": 1779743331562
+  },
+  {
+    "id": "大连民族大学",
+    "name": "大连民族大学",
+    "displayName": "大连民族大学",
+    "shareName": "大连民族大学",
+    "logo": "svg/大连民族大学-logo.svg",
+    "logoVersion": 1779743398535
+  },
+  {
+    "id": "大连外国语大学",
+    "name": "大连外国语大学",
+    "displayName": "大连外国语大学",
+    "shareName": "大连外国语大学",
+    "logo": "svg/大连外国语大学-logo.svg",
+    "logoVersion": 1779743381219
+  },
+  {
+    "id": "大连医科大学",
+    "name": "大连医科大学",
+    "displayName": "大连医科大学",
+    "shareName": "大连医科大学",
+    "logo": "svg/大连医科大学-logo.svg",
+    "logoVersion": 1779743364819
+  },
+  {
+    "id": "大连艺术学院",
+    "name": "大连艺术学院",
+    "displayName": "大连艺术学院",
+    "shareName": "大连艺术学院",
+    "logo": "svg/大连艺术学院-logo.svg",
+    "logoVersion": 1779743423633
+  },
+  {
+    "id": "大庆师范学院",
+    "name": "大庆师范学院",
+    "displayName": "大庆师范学院",
+    "shareName": "大庆师范学院",
+    "logo": "svg/大庆师范学院-logo.svg",
+    "logoVersion": 1779743518651
+  },
+  {
+    "id": "电子科技大学",
+    "name": "电子科技大学",
+    "displayName": "电子科技大学",
+    "shareName": "电子科技大学",
+    "logo": "svg/电子科技大学-logo.svg",
+    "logoVersion": 1779744858626
+  },
+  {
+    "id": "电子科技大学中山学院",
+    "name": "电子科技大学中山学院",
+    "displayName": "电子科技大学中山学院",
+    "shareName": "电子科技大学中山学院",
+    "logo": "svg/电子科技大学中山学院-logo.svg",
+    "logoVersion": 1779744608989
+  },
+  {
+    "id": "东北财经大学",
+    "name": "东北财经大学",
+    "displayName": "东北财经大学",
+    "shareName": "东北财经大学",
+    "logo": "svg/东北财经大学-logo.svg",
+    "logoVersion": 1779743383370
+  },
+  {
+    "id": "东北大学",
+    "name": "东北大学",
+    "displayName": "东北大学",
+    "shareName": "东北大学",
+    "logo": "svg/东北大学-logo.svg",
+    "logoVersion": 1779743342172
+  },
+  {
+    "id": "东北电力大学",
+    "name": "东北电力大学",
+    "displayName": "东北电力大学",
+    "shareName": "东北电力大学",
+    "logo": "svg/东北电力大学-logo.svg",
+    "logoVersion": 1779743438054
+  },
+  {
+    "id": "东北林业大学",
+    "name": "东北林业大学",
+    "displayName": "东北林业大学",
+    "shareName": "东北林业大学",
+    "logo": "svg/东北林业大学-logo.svg",
+    "logoVersion": 1779743506809
+  },
+  {
+    "id": "东北农业大学",
+    "name": "东北农业大学",
+    "displayName": "东北农业大学",
+    "shareName": "东北农业大学",
+    "logo": "svg/东北农业大学-logo.svg",
+    "logoVersion": 1779743504954
+  },
+  {
+    "id": "东北师范大学",
+    "name": "东北师范大学",
+    "displayName": "东北师范大学",
+    "shareName": "东北师范大学",
+    "logo": "svg/东北师范大学-logo.svg",
+    "logoVersion": 1779743448422
+  },
+  {
+    "id": "东莞城市学院",
+    "name": "东莞城市学院",
+    "displayName": "东莞城市学院",
+    "shareName": "东莞城市学院",
+    "logo": "svg/东莞城市学院-logo.svg",
+    "logoVersion": 1779744707733
+  },
+  {
+    "id": "东莞理工学院",
+    "name": "东莞理工学院",
+    "displayName": "东莞理工学院",
+    "shareName": "东莞理工学院",
+    "logo": "svg/东莞理工学院-logo.svg",
+    "logoVersion": 1779744616493
+  },
+  {
+    "id": "东莞职业技术学院",
+    "name": "东莞职业技术学院",
+    "displayName": "东莞职业技术学院",
+    "shareName": "东莞职业技术学院",
+    "logo": "svg/东莞职业技术学院-logo.svg",
+    "logoVersion": 1779744709832
+  },
+  {
+    "id": "东华大学",
+    "name": "东华大学",
+    "displayName": "东华大学",
+    "shareName": "东华大学",
+    "logo": "svg/东华大学-logo.svg",
+    "logoVersion": 1779743560700
+  },
+  {
+    "id": "东华理工大学",
+    "name": "东华理工大学",
+    "displayName": "东华理工大学",
+    "shareName": "东华理工大学",
+    "logo": "svg/东华理工大学-logo.svg",
+    "logoVersion": 1779744108064
+  },
+  {
+    "id": "东南大学",
+    "name": "东南大学",
+    "displayName": "东南大学",
+    "shareName": "东南大学",
+    "logo": "svg/东南大学-logo.svg",
+    "logoVersion": 1779743689390
+  },
+  {
+    "id": "对外经济贸易大学",
+    "name": "对外经济贸易大学",
+    "displayName": "对外经济贸易大学",
+    "shareName": "对外经济贸易大学",
+    "logo": "svg/对外经济贸易大学-logo.svg",
+    "logoVersion": 1779742957972
+  },
+  {
+    "id": "鄂尔多斯应用技术学院",
+    "name": "鄂尔多斯应用技术学院",
+    "displayName": "鄂尔多斯应用技术学院",
+    "shareName": "鄂尔多斯应用技术学院",
+    "logo": "svg/鄂尔多斯应用技术学院-logo.svg",
+    "logoVersion": 1779743328735
+  },
+  {
+    "id": "防灾科技学院",
+    "name": "防灾科技学院",
+    "displayName": "防灾科技学院",
+    "shareName": "防灾科技学院",
+    "logo": "svg/防灾科技学院-logo.svg",
+    "logoVersion": 1779743232384
+  },
+  {
+    "id": "佛山大学",
+    "name": "佛山大学",
+    "displayName": "佛山大学",
+    "shareName": "佛山大学",
+    "logo": "svg/佛山大学-logo.svg",
+    "logoVersion": 1779744623808
+  },
+  {
+    "id": "福建理工大学",
+    "name": "福建理工大学",
+    "displayName": "福建理工大学",
+    "shareName": "福建理工大学",
+    "logo": "svg/福建理工大学-logo.svg",
+    "logoVersion": 1779744062363
+  },
+  {
+    "id": "福建农林大学",
+    "name": "福建农林大学",
+    "displayName": "福建农林大学",
+    "shareName": "福建农林大学",
+    "logo": "svg/福建农林大学-logo.svg",
+    "logoVersion": 1779744065093
+  },
+  {
+    "id": "福建商学院",
+    "name": "福建商学院",
+    "displayName": "福建商学院",
+    "shareName": "福建商学院",
+    "logo": "svg/福建商学院-logo.svg",
+    "logoVersion": 1779744096743
+  },
+  {
+    "id": "福建师范大学",
+    "name": "福建师范大学",
+    "displayName": "福建师范大学",
+    "shareName": "福建师范大学",
+    "logo": "svg/福建师范大学-logo.svg",
+    "logoVersion": 1779744071980
+  },
+  {
+    "id": "福建医科大学",
+    "name": "福建医科大学",
+    "displayName": "福建医科大学",
+    "shareName": "福建医科大学",
+    "logo": "svg/福建医科大学-logo.svg",
+    "logoVersion": 1779744069264
+  },
+  {
+    "id": "福州大学",
+    "name": "福州大学",
+    "displayName": "福州大学",
+    "shareName": "福州大学",
+    "logo": "svg/福州大学-logo.svg",
+    "logoVersion": 1779744060565
+  },
+  {
+    "id": "福州工商学院",
+    "name": "福州工商学院",
+    "displayName": "福州工商学院",
+    "shareName": "福州工商学院",
+    "logo": "svg/福州工商学院-logo.svg",
+    "logoVersion": 1779744100505
+  },
+  {
+    "id": "阜阳师范大学",
+    "name": "阜阳师范大学",
+    "displayName": "阜阳师范大学",
+    "shareName": "阜阳师范大学",
+    "logo": "svg/阜阳师范大学-logo.svg",
+    "logoVersion": 1779744004005
+  },
+  {
+    "id": "复旦大学",
+    "name": "复旦大学",
+    "displayName": "复旦大学",
+    "shareName": "复旦大学",
+    "logo": "svg/复旦大学-logo.svg",
+    "logoVersion": 1779743541875
+  },
+  {
+    "id": "甘肃农业大学",
+    "name": "甘肃农业大学",
+    "displayName": "甘肃农业大学",
+    "shareName": "甘肃农业大学",
+    "logo": "svg/甘肃农业大学-logo.svg",
+    "logoVersion": 1779745115055
+  },
+  {
+    "id": "甘肃农业职业技术学院",
+    "name": "甘肃农业职业技术学院",
+    "displayName": "甘肃农业职业技术学院",
+    "shareName": "甘肃农业职业技术学院",
+    "logo": "svg/甘肃农业职业技术学院-logo.svg",
+    "logoVersion": 1779745140245
+  },
+  {
+    "id": "赣南师范大学",
+    "name": "赣南师范大学",
+    "displayName": "赣南师范大学",
+    "shareName": "赣南师范大学",
+    "logo": "svg/赣南师范大学-logo.svg",
+    "logoVersion": 1779744128458
+  },
+  {
+    "id": "广东白云学院",
+    "name": "广东白云学院",
+    "displayName": "广东白云学院",
+    "shareName": "广东白云学院",
+    "logo": "svg/广东白云学院-logo.svg",
+    "logoVersion": 1779744577411
+  },
+  {
+    "id": "广东财经大学",
+    "name": "广东财经大学",
+    "displayName": "广东财经大学",
+    "shareName": "广东财经大学",
+    "logo": "svg/广东财经大学-logo.svg",
+    "logoVersion": 1779744575571
+  },
+  {
+    "id": "广东第二师范学院",
+    "name": "广东第二师范学院",
+    "displayName": "广东第二师范学院",
+    "shareName": "广东第二师范学院",
+    "logo": "svg/广东第二师范学院-logo.svg",
+    "logoVersion": 1779744713834
+  },
+  {
+    "id": "广东东软学院",
+    "name": "广东东软学院",
+    "displayName": "广东东软学院",
+    "shareName": "广东东软学院",
+    "logo": "svg/广东东软学院-logo.svg",
+    "logoVersion": 1779744659359
+  },
+  {
+    "id": "广东工业大学",
+    "name": "广东工业大学",
+    "displayName": "广东工业大学",
+    "shareName": "广东工业大学",
+    "logo": "svg/广东工业大学-logo.svg",
+    "logoVersion": 1779744619235
+  },
+  {
+    "id": "广东海洋大学",
+    "name": "广东海洋大学",
+    "displayName": "广东海洋大学",
+    "shareName": "广东海洋大学",
+    "logo": "svg/广东海洋大学-logo.svg",
+    "logoVersion": 1779744531270
+  },
+  {
+    "id": "广东技术师范大学",
+    "name": "广东技术师范大学",
+    "displayName": "广东技术师范大学",
+    "shareName": "广东技术师范大学",
+    "logo": "svg/广东技术师范大学-logo.svg",
+    "logoVersion": 1779744567992
+  },
+  {
+    "id": "广东金融学院",
+    "name": "广东金融学院",
+    "displayName": "广东金融学院",
+    "shareName": "广东金融学院",
+    "logo": "svg/广东金融学院-logo.svg",
+    "logoVersion": 1779744606513
+  },
+  {
+    "id": "广东科技学院",
+    "name": "广东科技学院",
+    "displayName": "广东科技学院",
+    "shareName": "广东科技学院",
+    "logo": "svg/广东科技学院-logo.svg",
+    "logoVersion": 1779744676085
+  },
+  {
+    "id": "广东理工学院",
+    "name": "广东理工学院",
+    "displayName": "广东理工学院",
+    "shareName": "广东理工学院",
+    "logo": "svg/广东理工学院-logo.svg",
+    "logoVersion": 1779744678481
+  },
+  {
+    "id": "广东培正学院",
+    "name": "广东培正学院",
+    "displayName": "广东培正学院",
+    "shareName": "广东培正学院",
+    "logo": "svg/广东培正学院-logo.svg",
+    "logoVersion": 1779744625587
+  },
+  {
+    "id": "广东轻工职业技术大学",
+    "name": "广东轻工职业技术大学",
+    "displayName": "广东轻工职业技术大学",
+    "shareName": "广东轻工职业技术大学",
+    "logo": "svg/广东轻工职业技术大学-logo.svg",
+    "logoVersion": 1779744579472
+  },
+  {
+    "id": "广东石油化工学院",
+    "name": "广东石油化工学院",
+    "displayName": "广东石油化工学院",
+    "shareName": "广东石油化工学院",
+    "logo": "svg/广东石油化工学院-logo.svg",
+    "logoVersion": 1779744614247
+  },
+  {
+    "id": "广东水利电力职业技术学院",
+    "name": "广东水利电力职业技术学院",
+    "displayName": "广东水利电力职业技术学院",
+    "shareName": "广东水利电力职业技术学院",
+    "logo": "svg/广东水利电力职业技术学院-logo.svg",
+    "logoVersion": 1779744587493
+  },
+  {
+    "id": "广东外语外贸大学",
+    "name": "广东外语外贸大学",
+    "displayName": "广东外语外贸大学",
+    "shareName": "广东外语外贸大学",
+    "logo": "svg/广东外语外贸大学-logo.svg",
+    "logoVersion": 1779744622095
+  },
+  {
+    "id": "广东文艺职业学院",
+    "name": "广东文艺职业学院",
+    "displayName": "广东文艺职业学院",
+    "shareName": "广东文艺职业学院",
+    "logo": "svg/广东文艺职业学院-logo.svg",
+    "logoVersion": 1779744671239
+  },
+  {
+    "id": "广东药科大学",
+    "name": "广东药科大学",
+    "displayName": "广东药科大学",
+    "shareName": "广东药科大学",
+    "logo": "svg/广东药科大学-logo.svg",
+    "logoVersion": 1779744547129
+  },
+  {
+    "id": "广东医科大学",
+    "name": "广东医科大学",
+    "displayName": "广东医科大学",
+    "shareName": "广东医科大学",
+    "logo": "svg/广东医科大学-logo.svg",
+    "logoVersion": 1779745748237
+  },
+  {
+    "id": "广西财经学院",
+    "name": "广西财经学院",
+    "displayName": "广西财经学院",
+    "shareName": "广西财经学院",
+    "logo": "svg/广西财经学院-logo.svg",
+    "logoVersion": 1779744774047
+  },
+  {
+    "id": "广西大学",
+    "name": "广西大学",
+    "displayName": "广西大学",
+    "shareName": "广西大学",
+    "logo": "svg/广西大学-logo.svg",
+    "logoVersion": 1779744729881
+  },
+  {
+    "id": "广西交通职业技术学院",
+    "name": "广西交通职业技术学院",
+    "displayName": "广西交通职业技术学院",
+    "shareName": "广西交通职业技术学院",
+    "logo": "svg/广西交通职业技术学院-logo.svg",
+    "logoVersion": 1779744780334
+  },
+  {
+    "id": "广西科技大学",
+    "name": "广西科技大学",
+    "displayName": "广西科技大学",
+    "shareName": "广西科技大学",
+    "logo": "svg/广西科技大学-logo.svg",
+    "logoVersion": 1779744736157
+  },
+  {
+    "id": "广西民族大学",
+    "name": "广西民族大学",
+    "displayName": "广西民族大学",
+    "shareName": "广西民族大学",
+    "logo": "svg/广西民族大学-logo.svg",
+    "logoVersion": 1779744769648
+  },
+  {
+    "id": "广西医科大学",
+    "name": "广西医科大学",
+    "displayName": "广西医科大学",
+    "shareName": "广西医科大学",
+    "logo": "svg/广西医科大学-logo.svg",
+    "logoVersion": 1779744760200
+  },
+  {
+    "id": "广西职业师范学院",
+    "name": "广西职业师范学院",
+    "displayName": "广西职业师范学院",
+    "shareName": "广西职业师范学院",
+    "logo": "svg/广西职业师范学院-logo.svg",
+    "logoVersion": 1779744787360
+  },
+  {
+    "id": "广州大学",
+    "name": "广州大学",
+    "displayName": "广州大学",
+    "shareName": "广州大学",
+    "logo": "svg/广州大学-logo.svg",
+    "logoVersion": 1779744590715
+  },
+  {
+    "id": "广州工商学院",
+    "name": "广州工商学院",
+    "displayName": "广州工商学院",
+    "shareName": "广州工商学院",
+    "logo": "svg/广州工商学院-logo.svg",
+    "logoVersion": 1779744673988
+  },
+  {
+    "id": "广州华商学院",
+    "name": "广州华商学院",
+    "displayName": "广州华商学院",
+    "shareName": "广州华商学院",
+    "logo": "svg/广州华商学院-logo.svg",
+    "logoVersion": 1779744663238
+  },
+  {
+    "id": "广州华夏职业学院",
+    "name": "广州华夏职业学院",
+    "displayName": "广州华夏职业学院",
+    "shareName": "广州华夏职业学院",
+    "logo": "svg/广州华夏职业学院-logo.svg",
+    "logoVersion": 1779744711727
+  },
+  {
+    "id": "广州美术学院",
+    "name": "广州美术学院",
+    "displayName": "广州美术学院",
+    "shareName": "广州美术学院",
+    "logo": "svg/广州美术学院-logo.svg",
+    "logoVersion": 1779744562502
+  },
+  {
+    "id": "广州南方学院",
+    "name": "广州南方学院",
+    "displayName": "广州南方学院",
+    "shareName": "广州南方学院",
+    "logo": "svg/广州南方学院-logo.svg",
+    "logoVersion": 1779744661450
+  },
+  {
+    "id": "广州医科大学",
+    "name": "广州医科大学",
+    "displayName": "广州医科大学",
+    "shareName": "广州医科大学",
+    "logo": "svg/广州医科大学-logo.svg",
+    "logoVersion": 1779744532780
+  },
+  {
+    "id": "广州中医药大学",
+    "name": "广州中医药大学",
+    "displayName": "广州中医药大学",
+    "shareName": "广州中医药大学",
+    "logo": "svg/广州中医药大学-logo.svg",
+    "logoVersion": 1779744543283
+  },
+  {
+    "id": "贵阳学院",
+    "name": "贵阳学院",
+    "displayName": "贵阳学院",
+    "shareName": "贵阳学院",
+    "logo": "svg/贵阳学院-logo.svg",
+    "logoVersion": 1779748978166
+  },
+  {
+    "id": "贵州财经大学",
+    "name": "贵州财经大学",
+    "displayName": "贵州财经大学",
+    "shareName": "贵州财经大学",
+    "logo": "svg/贵州财经大学-logo.svg",
+    "logoVersion": 1779744974932
+  },
+  {
+    "id": "贵州大学",
+    "name": "贵州大学",
+    "displayName": "贵州大学",
+    "shareName": "贵州大学",
+    "logo": "svg/贵州大学-logo.svg",
+    "logoVersion": 1779744958471
+  },
+  {
+    "id": "贵州民族大学",
+    "name": "贵州民族大学",
+    "displayName": "贵州民族大学",
+    "shareName": "贵州民族大学",
+    "logo": "svg/贵州民族大学-logo.svg",
+    "logoVersion": 1779744977109
+  },
+  {
+    "id": "贵州师范大学",
+    "name": "贵州师范大学",
+    "displayName": "贵州师范大学",
+    "shareName": "贵州师范大学",
+    "logo": "svg/贵州师范大学-logo.svg",
+    "logoVersion": 1779744966707
+  },
+  {
+    "id": "贵州师范学院",
+    "name": "贵州师范学院",
+    "displayName": "贵州师范学院",
+    "shareName": "贵州师范学院",
+    "logo": "svg/贵州师范学院-logo.svg",
+    "logoVersion": 1779744983456
+  },
+  {
+    "id": "贵州医科大学",
+    "name": "贵州医科大学",
+    "displayName": "贵州医科大学",
+    "shareName": "贵州医科大学",
+    "logo": "svg/贵州医科大学-logo.svg",
+    "logoVersion": 1779744961103
+  },
+  {
+    "id": "桂林电子科技大学",
+    "name": "桂林电子科技大学",
+    "displayName": "桂林电子科技大学",
+    "shareName": "桂林电子科技大学",
+    "logo": "svg/桂林电子科技大学-logo.svg",
+    "logoVersion": 1779744755677
+  },
+  {
+    "id": "桂林航天工业学院",
+    "name": "桂林航天工业学院",
+    "displayName": "桂林航天工业学院",
+    "shareName": "桂林航天工业学院",
+    "logo": "svg/桂林航天工业学院-logo.svg",
+    "logoVersion": 1779744776207
+  },
+  {
+    "id": "桂林理工大学",
+    "name": "桂林理工大学",
+    "displayName": "桂林理工大学",
+    "shareName": "桂林理工大学",
+    "logo": "svg/桂林理工大学-logo.svg",
+    "logoVersion": 1779744758481
+  },
+  {
+    "id": "桂林医科大学",
+    "name": "桂林医科大学",
+    "displayName": "桂林医科大学",
+    "shareName": "桂林医科大学",
+    "logo": "svg/桂林医科大学-logo.svg",
+    "logoVersion": 1779744762594
+  },
+  {
+    "id": "哈尔滨工程大学",
+    "name": "哈尔滨工程大学",
+    "displayName": "哈尔滨工程大学",
+    "shareName": "哈尔滨工程大学",
+    "logo": "svg/哈尔滨工程大学-logo.svg",
+    "logoVersion": 1779743493327
+  },
+  {
+    "id": "哈尔滨工业大学",
+    "name": "哈尔滨工业大学",
+    "displayName": "哈尔滨工业大学",
+    "shareName": "哈尔滨工业大学",
+    "logo": "svg/哈尔滨工业大学-logo.svg",
+    "logoVersion": 1779743487229
+  },
+  {
+    "id": "哈尔滨华德学院",
+    "name": "哈尔滨华德学院",
+    "displayName": "哈尔滨华德学院",
+    "shareName": "哈尔滨华德学院",
+    "logo": "svg/哈尔滨华德学院-logo.svg",
+    "logoVersion": 1779743539216
+  },
+  {
+    "id": "哈尔滨理工大学",
+    "name": "哈尔滨理工大学",
+    "displayName": "哈尔滨理工大学",
+    "shareName": "哈尔滨理工大学",
+    "logo": "svg/哈尔滨理工大学-logo.svg",
+    "logoVersion": 1779743489299
+  },
+  {
+    "id": "哈尔滨商业大学",
+    "name": "哈尔滨商业大学",
+    "displayName": "哈尔滨商业大学",
+    "shareName": "哈尔滨商业大学",
+    "logo": "svg/哈尔滨商业大学-logo.svg",
+    "logoVersion": 1779743521339
+  },
+  {
+    "id": "哈尔滨体育学院",
+    "name": "哈尔滨体育学院",
+    "displayName": "哈尔滨体育学院",
+    "shareName": "哈尔滨体育学院",
+    "logo": "svg/哈尔滨体育学院-logo.svg",
+    "logoVersion": 1779743524338
+  },
+  {
+    "id": "哈尔滨学院",
+    "name": "哈尔滨学院",
+    "displayName": "哈尔滨学院",
+    "shareName": "哈尔滨学院",
+    "logo": "svg/哈尔滨学院-logo.svg",
+    "logoVersion": 1779743514962
+  },
+  {
+    "id": "哈尔滨医科大学",
+    "name": "哈尔滨医科大学",
+    "displayName": "哈尔滨医科大学",
+    "shareName": "哈尔滨医科大学",
+    "logo": "svg/哈尔滨医科大学-logo.svg",
+    "logoVersion": 1779743508749
+  },
+  {
+    "id": "海南经贸职业技术学院",
+    "name": "海南经贸职业技术学院",
+    "displayName": "海南经贸职业技术学院",
+    "shareName": "海南经贸职业技术学院",
+    "logo": "svg/海南经贸职业技术学院-logo.svg",
+    "logoVersion": 1779744796581
+  },
+  {
+    "id": "海南热带海洋学院",
+    "name": "海南热带海洋学院",
+    "displayName": "海南热带海洋学院",
+    "shareName": "海南热带海洋学院",
+    "logo": "svg/海南热带海洋学院-logo.svg",
+    "logoVersion": 1779744789759
+  },
+  {
+    "id": "海南师范大学",
+    "name": "海南师范大学",
+    "displayName": "海南师范大学",
+    "shareName": "海南师范大学",
+    "logo": "svg/海南师范大学-logo.svg",
+    "logoVersion": 1779748979422
+  },
+  {
+    "id": "海南医科大学",
+    "name": "海南医科大学",
+    "displayName": "海南医科大学",
+    "shareName": "海南医科大学",
+    "logo": "svg/海南医科大学-logo.svg",
+    "logoVersion": 1779744793694
+  },
+  {
+    "id": "邯郸学院",
+    "name": "邯郸学院",
+    "displayName": "邯郸学院",
+    "shareName": "邯郸学院",
+    "logo": "svg/邯郸学院-logo.svg",
+    "logoVersion": 1779743211785
+  },
+  {
+    "id": "韩山师范学院",
+    "name": "韩山师范学院",
+    "displayName": "韩山师范学院",
+    "shareName": "韩山师范学院",
+    "logo": "svg/韩山师范学院-logo.svg",
+    "logoVersion": 1779744554025
+  },
+  {
+    "id": "杭州电子科技大学",
+    "name": "杭州电子科技大学",
+    "displayName": "杭州电子科技大学",
+    "shareName": "杭州电子科技大学",
+    "logo": "svg/杭州电子科技大学-logo.svg",
+    "logoVersion": 1779743833142
+  },
+  {
+    "id": "杭州科技职业技术学院",
+    "name": "杭州科技职业技术学院",
+    "displayName": "杭州科技职业技术学院",
+    "shareName": "杭州科技职业技术学院",
+    "logo": "svg/杭州科技职业技术学院-logo.svg",
+    "logoVersion": 1779743923201
+  },
+  {
+    "id": "杭州师范大学",
+    "name": "杭州师范大学",
+    "displayName": "杭州师范大学",
+    "shareName": "杭州师范大学",
+    "logo": "svg/杭州师范大学-logo.svg",
+    "logoVersion": 1779743852616
+  },
+  {
+    "id": "杭州医学院",
+    "name": "杭州医学院",
+    "displayName": "杭州医学院",
+    "shareName": "杭州医学院",
+    "logo": "svg/杭州医学院校徽.svg",
+    "logoVersion": 1779750703810
+  },
+  {
+    "id": "合肥大学",
+    "name": "合肥大学",
+    "displayName": "合肥大学",
+    "shareName": "合肥大学",
+    "logo": "svg/合肥大学-logo.svg",
+    "logoVersion": 1779744037497
+  },
+  {
+    "id": "合肥工业大学",
+    "name": "合肥工业大学",
+    "displayName": "合肥工业大学",
+    "shareName": "合肥工业大学",
+    "logo": "svg/合肥工业大学-logo.svg",
+    "logoVersion": 1779743956835
+  },
+  {
+    "id": "合肥师范学院",
+    "name": "合肥师范学院",
+    "displayName": "合肥师范学院",
+    "shareName": "合肥师范学院",
+    "logo": "svg/合肥师范学院-logo.svg",
+    "logoVersion": 1779744052019
+  },
+  {
+    "id": "河北北方学院",
+    "name": "河北北方学院",
+    "displayName": "河北北方学院",
+    "shareName": "河北北方学院",
+    "logo": "svg/河北北方学院-logo.svg",
+    "logoVersion": 1779743171680
+  },
+  {
+    "id": "河北传媒学院",
+    "name": "河北传媒学院",
+    "displayName": "河北传媒学院",
+    "shareName": "河北传媒学院",
+    "logo": "svg/河北传媒学院-logo.svg",
+    "logoVersion": 1779743238703
+  },
+  {
+    "id": "河北大学",
+    "name": "河北大学",
+    "displayName": "河北大学",
+    "shareName": "河北大学",
+    "logo": "svg/河北大学-logo.svg",
+    "logoVersion": 1779743155268
+  },
+  {
+    "id": "河北地质大学",
+    "name": "河北地质大学",
+    "displayName": "河北地质大学",
+    "shareName": "河北地质大学",
+    "logo": "svg/河北地质大学-logo.svg",
+    "logoVersion": 1779743156709
+  },
+  {
+    "id": "河北工程技术学院",
+    "name": "河北工程技术学院",
+    "displayName": "河北工程技术学院",
+    "shareName": "河北工程技术学院",
+    "logo": "svg/河北工程技术学院-logo.svg",
+    "logoVersion": 1779743241222
+  },
+  {
+    "id": "河北工业大学",
+    "name": "河北工业大学",
+    "displayName": "河北工业大学",
+    "shareName": "河北工业大学",
+    "logo": "svg/河北工业大学-logo.svg",
+    "logoVersion": 1779743159374
+  },
+  {
+    "id": "河北环境工程学院",
+    "name": "河北环境工程学院",
+    "displayName": "河北环境工程学院",
+    "shareName": "河北环境工程学院",
+    "logo": "svg/河北环境工程学院-logo.svg",
+    "logoVersion": 1779745167635
+  },
+  {
+    "id": "河北建筑工程学院",
+    "name": "河北建筑工程学院",
+    "displayName": "河北建筑工程学院",
+    "shareName": "河北建筑工程学院",
+    "logo": "svg/河北建筑工程学院-logo.svg",
+    "logoVersion": 1779743164703
+  },
+  {
+    "id": "河北金融学院",
+    "name": "河北金融学院",
+    "displayName": "河北金融学院",
+    "shareName": "河北金融学院",
+    "logo": "svg/河北金融学院-logo.svg",
+    "logoVersion": 1779743229716
+  },
+  {
+    "id": "河北经贸大学",
+    "name": "河北经贸大学",
+    "displayName": "河北经贸大学",
+    "shareName": "河北经贸大学",
+    "logo": "svg/河北经贸大学-logo.svg",
+    "logoVersion": 1779743234399
+  },
+  {
+    "id": "河北科技大学",
+    "name": "河北科技大学",
+    "displayName": "河北科技大学",
+    "shareName": "河北科技大学",
+    "logo": "svg/河北科技大学-logo.svg",
+    "logoVersion": 1779743162849
+  },
+  {
+    "id": "河北科技师范学院",
+    "name": "河北科技师范学院",
+    "displayName": "河北科技师范学院",
+    "shareName": "河北科技师范学院",
+    "logo": "svg/河北科技师范学院-logo.svg",
+    "logoVersion": 1779743222248
+  },
+  {
+    "id": "河北美术学院",
+    "name": "河北美术学院",
+    "displayName": "河北美术学院",
+    "shareName": "河北美术学院",
+    "logo": "svg/河北美术学院-logo.svg",
+    "logoVersion": 1779743243366
+  },
+  {
+    "id": "河北民族师范学院",
+    "name": "河北民族师范学院",
+    "displayName": "河北民族师范学院",
+    "shareName": "河北民族师范学院",
+    "logo": "svg/河北民族师范学院-logo.svg",
+    "logoVersion": 1779743183088
+  },
+  {
+    "id": "河北农业大学",
+    "name": "河北农业大学",
+    "displayName": "河北农业大学",
+    "shareName": "河北农业大学",
+    "logo": "svg/河北农业大学-logo.svg",
+    "logoVersion": 1779743169131
+  },
+  {
+    "id": "河北师范大学",
+    "name": "河北师范大学",
+    "displayName": "河北师范大学",
+    "shareName": "河北师范大学",
+    "logo": "svg/河北师范大学-logo.svg",
+    "logoVersion": 1779743176631
+  },
+  {
+    "id": "河北水利电力学院",
+    "name": "河北水利电力学院",
+    "displayName": "河北水利电力学院",
+    "shareName": "河北水利电力学院",
+    "logo": "svg/河北水利电力学院-logo.svg",
+    "logoVersion": 1779743167215
+  },
+  {
+    "id": "河北体育学院",
+    "name": "河北体育学院",
+    "displayName": "河北体育学院",
+    "shareName": "河北体育学院",
+    "logo": "svg/河北体育学院-logo.svg",
+    "logoVersion": 1779743227488
+  },
+  {
+    "id": "河北医科大学",
+    "name": "河北医科大学",
+    "displayName": "河北医科大学",
+    "shareName": "河北医科大学",
+    "logo": "svg/河北医科大学-logo.svg",
+    "logoVersion": 1779743170893
+  },
+  {
+    "id": "河海大学",
+    "name": "河海大学",
+    "displayName": "河海大学",
+    "shareName": "河海大学",
+    "logo": "svg/河海大学-logo.svg",
+    "logoVersion": 1779743708918
+  },
+  {
+    "id": "河南财经政法大学",
+    "name": "河南财经政法大学",
+    "displayName": "河南财经政法大学",
+    "shareName": "河南财经政法大学",
+    "logo": "svg/河南财经政法大学-logo.svg",
+    "logoVersion": 1779744332149
+  },
+  {
+    "id": "河南工程学院",
+    "name": "河南工程学院",
+    "displayName": "河南工程学院",
+    "shareName": "河南工程学院",
+    "logo": "svg/河南工程学院-logo.svg",
+    "logoVersion": 1779744349333
+  },
+  {
+    "id": "河南工学院",
+    "name": "河南工学院",
+    "displayName": "河南工学院",
+    "shareName": "河南工学院",
+    "logo": "svg/河南工学院-logo.svg",
+    "logoVersion": 1779744347648
+  },
+  {
+    "id": "河南工业大学",
+    "name": "河南工业大学",
+    "displayName": "河南工业大学",
+    "shareName": "河南工业大学",
+    "logo": "svg/河南工业大学-logo.svg",
+    "logoVersion": 1779744299142
+  },
+  {
+    "id": "河南警察学院",
+    "name": "河南警察学院",
+    "displayName": "河南警察学院",
+    "shareName": "河南警察学院",
+    "logo": "svg/河南警察学院-logo.svg",
+    "logoVersion": 1779744353505
+  },
+  {
+    "id": "河南科技学院",
+    "name": "河南科技学院",
+    "displayName": "河南科技学院",
+    "shareName": "河南科技学院",
+    "logo": "svg/河南科技学院-logo.svg",
+    "logoVersion": 1779744302657
+  },
+  {
+    "id": "河南理工大学",
+    "name": "河南理工大学",
+    "displayName": "河南理工大学",
+    "shareName": "河南理工大学",
+    "logo": "svg/河南理工大学-logo.svg",
+    "logoVersion": 1779744295100
+  },
+  {
+    "id": "河南牧业经济学院",
+    "name": "河南牧业经济学院",
+    "displayName": "河南牧业经济学院",
+    "shareName": "河南牧业经济学院",
+    "logo": "svg/河南牧业经济学院-logo.svg",
+    "logoVersion": 1779744305643
+  },
+  {
+    "id": "河南师范大学",
+    "name": "河南师范大学",
+    "displayName": "河南师范大学",
+    "shareName": "河南师范大学",
+    "logo": "svg/河南师范大学-logo.svg",
+    "logoVersion": 1779744311613
+  },
+  {
+    "id": "河南医药大学",
+    "name": "河南医药大学",
+    "displayName": "河南医药大学",
+    "shareName": "河南医药大学",
+    "logo": "svg/河南医药大学-logo.svg",
+    "logoVersion": 1779744309762
+  },
+  {
+    "id": "河南职业技术学院",
+    "name": "河南职业技术学院",
+    "displayName": "河南职业技术学院",
+    "shareName": "河南职业技术学院",
+    "logo": "svg/河南职业技术学院-logo.svg",
+    "logoVersion": 1779744335649
+  },
+  {
+    "id": "河南中医药大学",
+    "name": "河南中医药大学",
+    "displayName": "河南中医药大学",
+    "shareName": "河南中医药大学",
+    "logo": "svg/河南中医药大学-logo.svg",
+    "logoVersion": 1779744308276
+  },
+  {
+    "id": "菏泽学院",
+    "name": "菏泽学院",
+    "displayName": "菏泽学院",
+    "shareName": "菏泽学院",
+    "logo": "svg/菏泽学院-logo.svg",
+    "logoVersion": 1779744256641
+  },
+  {
+    "id": "贺州学院",
+    "name": "贺州学院",
+    "displayName": "贺州学院",
+    "shareName": "贺州学院",
+    "logo": "svg/贺州学院-logo.svg",
+    "logoVersion": 1779744778068
+  },
+  {
+    "id": "黑龙江建筑职业技术学院",
+    "name": "黑龙江建筑职业技术学院",
+    "displayName": "黑龙江建筑职业技术学院",
+    "shareName": "黑龙江建筑职业技术学院",
+    "logo": "svg/黑龙江建筑职业技术学院-logo.svg",
+    "logoVersion": 1779743534333
+  },
+  {
+    "id": "黑龙江科技大学",
+    "name": "黑龙江科技大学",
+    "displayName": "黑龙江科技大学",
+    "shareName": "黑龙江科技大学",
+    "logo": "svg/黑龙江科技大学-logo.svg",
+    "logoVersion": 1779743495014
+  },
+  {
+    "id": "黑龙江中医药大学",
+    "name": "黑龙江中医药大学",
+    "displayName": "黑龙江中医药大学",
+    "shareName": "黑龙江中医药大学",
+    "logo": "svg/黑龙江中医药大学-logo.svg",
+    "logoVersion": 1779743510673
+  },
+  {
+    "id": "红河学院",
+    "name": "红河学院",
+    "displayName": "红河学院",
+    "shareName": "红河学院",
+    "logo": "svg/红河学院-logo.svg",
+    "logoVersion": 1779745009055
+  },
+  {
+    "id": "湖北大学",
+    "name": "湖北大学",
+    "displayName": "湖北大学",
+    "shareName": "湖北大学",
+    "logo": "svg/湖北大学-logo.svg",
+    "logoVersion": 1779744401789
+  },
+  {
+    "id": "湖北第二师范学院",
+    "name": "湖北第二师范学院",
+    "displayName": "湖北第二师范学院",
+    "shareName": "湖北第二师范学院",
+    "logo": "svg/湖北第二师范学院-logo.svg",
+    "logoVersion": 1779744449643
+  },
+  {
+    "id": "湖北工程学院",
+    "name": "湖北工程学院",
+    "displayName": "湖北工程学院",
+    "shareName": "湖北工程学院",
+    "logo": "svg/湖北工程学院-logo.svg",
+    "logoVersion": 1779744421721
+  },
+  {
+    "id": "湖北工业大学",
+    "name": "湖北工业大学",
+    "displayName": "湖北工业大学",
+    "shareName": "湖北工业大学",
+    "logo": "svg/湖北工业大学-logo.svg",
+    "logoVersion": 1779744392447
+  },
+  {
+    "id": "湖北经济学院",
+    "name": "湖北经济学院",
+    "displayName": "湖北经济学院",
+    "shareName": "湖北经济学院",
+    "logo": "svg/湖北经济学院-logo.svg",
+    "logoVersion": 1779748981457
+  },
+  {
+    "id": "湖北科技学院",
+    "name": "湖北科技学院",
+    "displayName": "湖北科技学院",
+    "shareName": "湖北科技学院",
+    "logo": "svg/湖北科技学院-logo.svg",
+    "logoVersion": 1779744426529
+  },
+  {
+    "id": "湖北理工学院",
+    "name": "湖北理工学院",
+    "displayName": "湖北理工学院",
+    "shareName": "湖北理工学院",
+    "logo": "svg/湖北理工学院-logo.svg",
+    "logoVersion": 1779744425000
+  },
+  {
+    "id": "湖北美术学院",
+    "name": "湖北美术学院",
+    "displayName": "湖北美术学院",
+    "shareName": "湖北美术学院",
+    "logo": "svg/湖北美术学院-logo.svg",
+    "logoVersion": 1779744418024
+  },
+  {
+    "id": "湖北民族大学",
+    "name": "湖北民族大学",
+    "displayName": "湖北民族大学",
+    "shareName": "湖北民族大学",
+    "logo": "svg/湖北民族大学-logo.svg",
+    "logoVersion": 1779744408901
+  },
+  {
+    "id": "湖北师范大学",
+    "name": "湖北师范大学",
+    "displayName": "湖北师范大学",
+    "shareName": "湖北师范大学",
+    "logo": "svg/湖北师范大学-logo.svg",
+    "logoVersion": 1779744404690
+  },
+  {
+    "id": "湖北文理学院",
+    "name": "湖北文理学院",
+    "displayName": "湖北文理学院",
+    "shareName": "湖北文理学院",
+    "logo": "svg/湖北文理学院-logo.svg",
+    "logoVersion": 1779748983706
+  },
+  {
+    "id": "湖北中医药大学",
+    "name": "湖北中医药大学",
+    "displayName": "湖北中医药大学",
+    "shareName": "湖北中医药大学",
+    "logo": "svg/湖北中医药大学-logo.svg",
+    "logoVersion": 1779744396909
+  },
+  {
+    "id": "湖南城市学院",
+    "name": "湖南城市学院",
+    "displayName": "湖南城市学院",
+    "shareName": "湖南城市学院",
+    "logo": "svg/湖南城市学院-logo.svg",
+    "logoVersion": 1779744499198
+  },
+  {
+    "id": "湖南大学",
+    "name": "湖南大学",
+    "displayName": "湖南大学",
+    "shareName": "湖南大学",
+    "logo": "svg/湖南大学-logo.svg",
+    "logoVersion": 1779744459114
+  },
+  {
+    "id": "湖南第一师范学院",
+    "name": "湖南第一师范学院",
+    "displayName": "湖南第一师范学院",
+    "shareName": "湖南第一师范学院",
+    "logo": "svg/湖南第一师范学院-logo.svg",
+    "logoVersion": 1779744507659
+  },
+  {
+    "id": "湖南工程学院",
+    "name": "湖南工程学院",
+    "displayName": "湖南工程学院",
+    "shareName": "湖南工程学院",
+    "logo": "svg/湖南工程学院-logo.svg",
+    "logoVersion": 1779744493470
+  },
+  {
+    "id": "湖南工学院",
+    "name": "湖南工学院",
+    "displayName": "湖南工学院",
+    "shareName": "湖南工学院",
+    "logo": "svg/湖南工学院-logo.svg",
+    "logoVersion": 1779744501252
+  },
+  {
+    "id": "湖南工业大学",
+    "name": "湖南工业大学",
+    "displayName": "湖南工业大学",
+    "shareName": "湖南工业大学",
+    "logo": "svg/湖南工业大学-logo.svg",
+    "logoVersion": 1779744502879
+  },
+  {
+    "id": "湖南科技大学",
+    "name": "湖南科技大学",
+    "displayName": "湖南科技大学",
+    "shareName": "湖南科技大学",
+    "logo": "svg/湖南科技大学-logo.svg",
+    "logoVersion": 1779744463435
+  },
+  {
+    "id": "湖南理工学院",
+    "name": "湖南理工学院",
+    "displayName": "湖南理工学院",
+    "shareName": "湖南理工学院",
+    "logo": "svg/湖南理工学院-logo.svg",
+    "logoVersion": 1779744475794
+  },
+  {
+    "id": "湖南农业大学",
+    "name": "湖南农业大学",
+    "displayName": "湖南农业大学",
+    "shareName": "湖南农业大学",
+    "logo": "svg/湖南农业大学-logo.svg",
+    "logoVersion": 1779744468118
+  },
+  {
+    "id": "湖南女子学院",
+    "name": "湖南女子学院",
+    "displayName": "湖南女子学院",
+    "shareName": "湖南女子学院",
+    "logo": "svg/湖南女子学院-logo.svg",
+    "logoVersion": 1779744504735
+  },
+  {
+    "id": "湖南人文科技学院",
+    "name": "湖南人文科技学院",
+    "displayName": "湖南人文科技学院",
+    "shareName": "湖南人文科技学院",
+    "logo": "svg/湖南人文科技学院-logo.svg",
+    "logoVersion": 1779744487964
+  },
+  {
+    "id": "湖南师范大学",
+    "name": "湖南师范大学",
+    "displayName": "湖南师范大学",
+    "shareName": "湖南师范大学",
+    "logo": "svg/湖南师范大学-logo.svg",
+    "logoVersion": 1779744473341
+  },
+  {
+    "id": "湖南中医药大学",
+    "name": "湖南中医药大学",
+    "displayName": "湖南中医药大学",
+    "shareName": "湖南中医药大学",
+    "logo": "svg/湖南中医药大学-logo.svg",
+    "logoVersion": 1779748985580
+  },
+  {
+    "id": "湖州师范学院",
+    "name": "湖州师范学院",
+    "displayName": "湖州师范学院",
+    "shareName": "湖州师范学院",
+    "logo": "svg/湖州师范学院-logo.svg",
+    "logoVersion": 1779748988093
+  },
+  {
+    "id": "湖州学院",
+    "name": "湖州学院",
+    "displayName": "湖州学院",
+    "shareName": "湖州学院",
+    "logo": "svg/湖州学院-logo.svg",
+    "logoVersion": 1779743925362
+  },
+  {
+    "id": "华北电力大学",
+    "name": "华北电力大学",
+    "displayName": "华北电力大学",
+    "shareName": "华北电力大学",
+    "logo": "svg/华北电力大学-logo.svg",
+    "logoVersion": 1779742999644
+  },
+  {
+    "id": "华北科技学院",
+    "name": "华北科技学院",
+    "displayName": "华北科技学院",
+    "shareName": "华北科技学院",
+    "logo": "svg/华北科技学院-logo.svg",
+    "logoVersion": 1779743225469
+  },
+  {
+    "id": "华北理工大学",
+    "name": "华北理工大学",
+    "displayName": "华北理工大学",
+    "shareName": "华北理工大学",
+    "logo": "svg/华北理工大学-logo.svg",
+    "logoVersion": 1779743161430
+  },
+  {
+    "id": "华东交通大学",
+    "name": "华东交通大学",
+    "displayName": "华东交通大学",
+    "shareName": "华东交通大学",
+    "logo": "svg/华东交通大学-logo.svg",
+    "logoVersion": 1779744103735
+  },
+  {
+    "id": "华东理工大学",
+    "name": "华东理工大学",
+    "displayName": "华东理工大学",
+    "shareName": "华东理工大学",
+    "logo": "svg/华东理工大学-logo.svg",
+    "logoVersion": 1779743549465
+  },
+  {
+    "id": "华东师范大学",
+    "name": "华东师范大学",
+    "displayName": "华东师范大学",
+    "shareName": "华东师范大学",
+    "logo": "svg/华东师范大学-logo.svg",
+    "logoVersion": 1779743604642
+  },
+  {
+    "id": "华东政法大学",
+    "name": "华东政法大学",
+    "displayName": "华东政法大学",
+    "shareName": "华东政法大学",
+    "logo": "svg/华东政法大学-logo.svg",
+    "logoVersion": 1779743630141
+  },
+  {
+    "id": "华南理工大学",
+    "name": "华南理工大学",
+    "displayName": "华南理工大学",
+    "shareName": "华南理工大学",
+    "logo": "svg/华南理工大学-logo.svg",
+    "logoVersion": 1779744525928
+  },
+  {
+    "id": "华南农业大学",
+    "name": "华南农业大学",
+    "displayName": "华南农业大学",
+    "shareName": "华南农业大学",
+    "logo": "svg/华南农业大学-logo.svg",
+    "logoVersion": 1779744527999
+  },
+  {
+    "id": "华南师范大学",
+    "name": "华南师范大学",
+    "displayName": "华南师范大学",
+    "shareName": "华南师范大学",
+    "logo": "svg/华南师范大学-logo.svg",
+    "logoVersion": 1779744549521
+  },
+  {
+    "id": "华侨大学",
+    "name": "华侨大学",
+    "displayName": "华侨大学",
+    "shareName": "华侨大学",
+    "logo": "svg/华侨大学-logo.svg",
+    "logoVersion": 1779744058114
+  },
+  {
+    "id": "华中科技大学",
+    "name": "华中科技大学",
+    "displayName": "华中科技大学",
+    "shareName": "华中科技大学",
+    "logo": "svg/华中科技大学-logo.svg",
+    "logoVersion": 1779744372650
+  },
+  {
+    "id": "华中农业大学",
+    "name": "华中农业大学",
+    "displayName": "华中农业大学",
+    "shareName": "华中农业大学",
+    "logo": "svg/华中农业大学-logo.svg",
+    "logoVersion": 1779744394532
+  },
+  {
+    "id": "华中师范大学",
+    "name": "华中师范大学",
+    "displayName": "华中师范大学",
+    "shareName": "华中师范大学",
+    "logo": "svg/华中师范大学-logo.svg",
+    "logoVersion": 1779744399523
+  },
+  {
+    "id": "怀化学院",
+    "name": "怀化学院",
+    "displayName": "怀化学院",
+    "shareName": "怀化学院",
+    "logo": "svg/怀化学院-logo.svg",
+    "logoVersion": 1779744484831
+  },
+  {
+    "id": "淮北师范大学",
+    "name": "淮北师范大学",
+    "displayName": "淮北师范大学",
+    "shareName": "淮北师范大学",
+    "logo": "svg/淮北师范大学-logo.svg",
+    "logoVersion": 1779744008358
+  },
+  {
+    "id": "淮阴工学院",
+    "name": "淮阴工学院",
+    "displayName": "淮阴工学院",
+    "shareName": "淮阴工学院",
+    "logo": "svg/淮阴工学院-logo.svg",
+    "logoVersion": 1779743765663
+  },
+  {
+    "id": "黄冈师范学院",
+    "name": "黄冈师范学院",
+    "displayName": "黄冈师范学院",
+    "shareName": "黄冈师范学院",
+    "logo": "svg/黄冈师范学院-logo.svg",
+    "logoVersion": 1779744406816
+  },
+  {
+    "id": "黄山学院",
+    "name": "黄山学院",
+    "displayName": "黄山学院",
+    "shareName": "黄山学院",
+    "logo": "svg/黄山学院-logo.svg",
+    "logoVersion": 1779744010381
+  },
+  {
+    "id": "吉林财经大学",
+    "name": "吉林财经大学",
+    "displayName": "吉林财经大学",
+    "shareName": "吉林财经大学",
+    "logo": "svg/吉林财经大学-logo.svg",
+    "logoVersion": 1779743464233
+  },
+  {
+    "id": "吉林大学",
+    "name": "吉林大学",
+    "displayName": "吉林大学",
+    "shareName": "吉林大学",
+    "logo": "svg/吉林大学-logo.svg",
+    "logoVersion": 1779743427977
+  },
+  {
+    "id": "吉林工程技术师范学院",
+    "name": "吉林工程技术师范学院",
+    "displayName": "吉林工程技术师范学院",
+    "shareName": "吉林工程技术师范学院",
+    "logo": "svg/吉林工程技术师范学院-logo.svg",
+    "logoVersion": 1779743457520
+  },
+  {
+    "id": "吉林工商学院",
+    "name": "吉林工商学院",
+    "displayName": "吉林工商学院",
+    "shareName": "吉林工商学院",
+    "logo": "svg/吉林工商学院-logo.svg",
+    "logoVersion": 1779743470752
+  },
+  {
+    "id": "吉林建筑大学",
+    "name": "吉林建筑大学",
+    "displayName": "吉林建筑大学",
+    "shareName": "吉林建筑大学",
+    "logo": "svg/吉林建筑大学-logo.svg",
+    "logoVersion": 1779743442254
+  },
+  {
+    "id": "吉林建筑科技学院",
+    "name": "吉林建筑科技学院",
+    "displayName": "吉林建筑科技学院",
+    "shareName": "吉林建筑科技学院",
+    "logo": "svg/吉林建筑科技学院-logo.svg",
+    "logoVersion": 1779743484069
+  },
+  {
+    "id": "吉林师范大学",
+    "name": "吉林师范大学",
+    "displayName": "吉林师范大学",
+    "shareName": "吉林师范大学",
+    "logo": "svg/吉林师范大学-logo.svg",
+    "logoVersion": 1779743455054
+  },
+  {
+    "id": "吉林艺术学院",
+    "name": "吉林艺术学院",
+    "displayName": "吉林艺术学院",
+    "shareName": "吉林艺术学院",
+    "logo": "svg/吉林艺术学院-logo.svg",
+    "logoVersion": 1779743466301
+  },
+  {
+    "id": "集美大学",
+    "name": "集美大学",
+    "displayName": "集美大学",
+    "shareName": "集美大学",
+    "logo": "svg/集美大学-logo.svg",
+    "logoVersion": 1779744067461
+  },
+  {
+    "id": "集宁师范学院",
+    "name": "集宁师范学院",
+    "displayName": "集宁师范学院",
+    "shareName": "集宁师范学院",
+    "logo": "svg/集宁师范学院-logo.svg",
+    "logoVersion": 1779743316487
+  },
+  {
+    "id": "济南大学",
+    "name": "济南大学",
+    "displayName": "济南大学",
+    "shareName": "济南大学",
+    "logo": "svg/济南大学-logo.svg",
+    "logoVersion": 1779744182725
+  },
+  {
+    "id": "济宁学院",
+    "name": "济宁学院",
+    "displayName": "济宁学院",
+    "shareName": "济宁学院",
+    "logo": "svg/济宁学院-logo.svg",
+    "logoVersion": 1779744252573
+  },
+  {
+    "id": "济宁医学院",
+    "name": "济宁医学院",
+    "displayName": "济宁医学院",
+    "shareName": "济宁医学院",
+    "logo": "svg/济宁医学院-logo.svg",
+    "logoVersion": 1779744238855
+  },
+  {
+    "id": "暨南大学",
+    "name": "暨南大学",
+    "displayName": "暨南大学",
+    "shareName": "暨南大学",
+    "logo": "svg/暨南大学-logo.svg",
+    "logoVersion": 1779744521024
+  },
+  {
+    "id": "佳木斯大学",
+    "name": "佳木斯大学",
+    "displayName": "佳木斯大学",
+    "shareName": "佳木斯大学",
+    "logo": "svg/佳木斯大学-logo.svg",
+    "logoVersion": 1779743496961
+  },
+  {
+    "id": "嘉兴大学",
+    "name": "嘉兴大学",
+    "displayName": "嘉兴大学",
+    "shareName": "嘉兴大学",
+    "logo": "svg/嘉兴大学-logo.svg",
+    "logoVersion": 1779743867526
+  },
+  {
+    "id": "嘉兴南湖学院",
+    "name": "嘉兴南湖学院",
+    "displayName": "嘉兴南湖学院",
+    "shareName": "嘉兴南湖学院",
+    "logo": "svg/嘉兴南湖学院-logo.svg",
+    "logoVersion": 1779743932653
+  },
+  {
+    "id": "嘉应学院",
+    "name": "嘉应学院",
+    "displayName": "嘉应学院",
+    "shareName": "嘉应学院",
+    "logo": "svg/嘉应学院-logo.svg",
+    "logoVersion": 1779744559521
+  },
+  {
+    "id": "江汉大学",
+    "name": "江汉大学",
+    "displayName": "江汉大学",
+    "shareName": "江汉大学",
+    "logo": "svg/江汉大学-logo.svg",
+    "logoVersion": 1779744430199
+  },
+  {
+    "id": "江南大学",
+    "name": "江南大学",
+    "displayName": "江南大学",
+    "shareName": "江南大学",
+    "logo": "svg/江南大学-logo.svg",
+    "logoVersion": 1779743711929
+  },
+  {
+    "id": "江苏城市职业学院",
+    "name": "江苏城市职业学院",
+    "displayName": "江苏城市职业学院",
+    "shareName": "江苏城市职业学院",
+    "logo": "svg/江苏城市职业学院-logo.svg",
+    "logoVersion": 1779743821506
+  },
+  {
+    "id": "江苏大学",
+    "name": "江苏大学",
+    "displayName": "江苏大学",
+    "shareName": "江苏大学",
+    "logo": "svg/江苏大学-logo.svg",
+    "logoVersion": 1779743718409
+  },
+  {
+    "id": "江苏第二师范学院",
+    "name": "江苏第二师范学院",
+    "displayName": "江苏第二师范学院",
+    "shareName": "江苏第二师范学院",
+    "logo": "svg/江苏第二师范学院-logo.svg",
+    "logoVersion": 1779743827780
+  },
+  {
+    "id": "江苏海事职业技术学院",
+    "name": "江苏海事职业技术学院",
+    "displayName": "江苏海事职业技术学院",
+    "shareName": "江苏海事职业技术学院",
+    "logo": "svg/江苏海事职业技术学院-logo.svg",
+    "logoVersion": 1779743794225
+  },
+  {
+    "id": "江苏海洋大学",
+    "name": "江苏海洋大学",
+    "displayName": "江苏海洋大学",
+    "shareName": "江苏海洋大学",
+    "logo": "svg/江苏海洋大学-logo.svg",
+    "logoVersion": 1779743782325
+  },
+  {
+    "id": "江苏科技大学",
+    "name": "江苏科技大学",
+    "displayName": "江苏科技大学",
+    "shareName": "江苏科技大学",
+    "logo": "svg/江苏科技大学-logo.svg",
+    "logoVersion": 1779743697538
+  },
+  {
+    "id": "江苏农林职业技术学院",
+    "name": "江苏农林职业技术学院",
+    "displayName": "江苏农林职业技术学院",
+    "shareName": "江苏农林职业技术学院",
+    "logo": "svg/江苏农林职业技术学院-logo.svg",
+    "logoVersion": 1779743812375
+  },
+  {
+    "id": "江苏师范大学",
+    "name": "江苏师范大学",
+    "displayName": "江苏师范大学",
+    "shareName": "江苏师范大学",
+    "logo": "svg/江苏师范大学-logo.svg",
+    "logoVersion": 1779743748632
+  },
+  {
+    "id": "江西财经大学",
+    "name": "江西财经大学",
+    "displayName": "江西财经大学",
+    "shareName": "江西财经大学",
+    "logo": "svg/江西财经大学-logo.svg",
+    "logoVersion": 1779744137151
+  },
+  {
+    "id": "江西工业工程职业技术学院",
+    "name": "江西工业工程职业技术学院",
+    "displayName": "江西工业工程职业技术学院",
+    "shareName": "江西工业工程职业技术学院",
+    "logo": "svg/江西工业工程职业技术学院-logo.svg",
+    "logoVersion": 1779744159738
+  },
+  {
+    "id": "江西科技师范大学",
+    "name": "江西科技师范大学",
+    "displayName": "江西科技师范大学",
+    "shareName": "江西科技师范大学",
+    "logo": "svg/江西科技师范大学-logo.svg",
+    "logoVersion": 1779744139836
+  },
+  {
+    "id": "江西理工大学",
+    "name": "江西理工大学",
+    "displayName": "江西理工大学",
+    "shareName": "江西理工大学",
+    "logo": "svg/江西理工大学-logo.svg",
+    "logoVersion": 1779744112263
+  },
+  {
+    "id": "江西农业大学",
+    "name": "江西农业大学",
+    "displayName": "江西农业大学",
+    "shareName": "江西农业大学",
+    "logo": "svg/江西农业大学-logo.svg",
+    "logoVersion": 1779744114381
+  },
+  {
+    "id": "江西师范大学",
+    "name": "江西师范大学",
+    "displayName": "江西师范大学",
+    "shareName": "江西师范大学",
+    "logo": "svg/江西师范大学-logo.svg",
+    "logoVersion": 1779744121125
+  },
+  {
+    "id": "江西现代职业技术学院",
+    "name": "江西现代职业技术学院",
+    "displayName": "江西现代职业技术学院",
+    "shareName": "江西现代职业技术学院",
+    "logo": "svg/江西现代职业技术学院-logo.svg",
+    "logoVersion": 1779744157444
+  },
+  {
+    "id": "江西应用科技学院",
+    "name": "江西应用科技学院",
+    "displayName": "江西应用科技学院",
+    "shareName": "江西应用科技学院",
+    "logo": "svg/江西应用科技学院-logo.svg",
+    "logoVersion": 1779744154424
+  },
+  {
+    "id": "江西中医药大学",
+    "name": "江西中医药大学",
+    "displayName": "江西中医药大学",
+    "shareName": "江西中医药大学",
+    "logo": "svg/江西中医药大学-logo.svg",
+    "logoVersion": 1779744117200
+  },
+  {
+    "id": "金华职业技术大学",
+    "name": "金华职业技术大学",
+    "displayName": "金华职业技术大学",
+    "shareName": "金华职业技术大学",
+    "logo": "svg/金华职业技术大学-logo.svg",
+    "logoVersion": 1779743892315
+  },
+  {
+    "id": "金陵科技学院",
+    "name": "金陵科技学院",
+    "displayName": "金陵科技学院",
+    "shareName": "金陵科技学院",
+    "logo": "svg/金陵科技学院-logo.svg",
+    "logoVersion": 1779743815723
+  },
+  {
+    "id": "晋中学院",
+    "name": "晋中学院",
+    "displayName": "晋中学院",
+    "shareName": "晋中学院",
+    "logo": "svg/晋中学院-logo.svg",
+    "logoVersion": 1779743274407
+  },
+  {
+    "id": "荆州理工职业学院",
+    "name": "荆州理工职业学院",
+    "displayName": "荆州理工职业学院",
+    "shareName": "荆州理工职业学院",
+    "logo": "svg/荆州理工职业学院-logo.svg",
+    "logoVersion": 1779744433005
+  },
+  {
+    "id": "井冈山大学",
+    "name": "井冈山大学",
+    "displayName": "井冈山大学",
+    "shareName": "井冈山大学",
+    "logo": "svg/井冈山大学-logo.svg",
+    "logoVersion": 1779744130348
+  },
+  {
+    "id": "九江学院",
+    "name": "九江学院",
+    "displayName": "九江学院",
+    "shareName": "九江学院",
+    "logo": "svg/九江学院-logo.svg",
+    "logoVersion": 1779744150436
+  },
+  {
+    "id": "喀什大学",
+    "name": "喀什大学",
+    "displayName": "喀什大学",
+    "shareName": "喀什大学",
+    "logo": "svg/喀什大学-logo.svg",
+    "logoVersion": 1779745158955
+  },
+  {
+    "id": "开封大学",
+    "name": "开封大学",
+    "displayName": "开封大学",
+    "shareName": "开封大学",
+    "logo": "svg/开封大学-logo.svg",
+    "logoVersion": 1779744339615
+  },
+  {
+    "id": "凯里学院",
+    "name": "凯里学院",
+    "displayName": "凯里学院",
+    "shareName": "凯里学院",
+    "logo": "svg/凯里学院-logo.svg",
+    "logoVersion": 1779744973071
+  },
+  {
+    "id": "昆明理工大学",
+    "name": "昆明理工大学",
+    "displayName": "昆明理工大学",
+    "shareName": "昆明理工大学",
+    "logo": "svg/昆明理工大学-logo.svg",
+    "logoVersion": 1779744987505
+  },
+  {
+    "id": "昆明学院",
+    "name": "昆明学院",
+    "displayName": "昆明学院",
+    "shareName": "昆明学院",
+    "logo": "svg/昆明学院-logo.svg",
+    "logoVersion": 1779745022988
+  },
+  {
+    "id": "昆明冶金高等专科学校",
+    "name": "昆明冶金高等专科学校",
+    "displayName": "昆明冶金高等专科学校",
+    "shareName": "昆明冶金高等专科学校",
+    "logo": "svg/昆明冶金高等专科学校-logo.svg",
+    "logoVersion": 1779745026065
+  },
+  {
+    "id": "兰州财经大学",
+    "name": "兰州财经大学",
+    "displayName": "兰州财经大学",
+    "shareName": "兰州财经大学",
+    "logo": "svg/兰州财经大学-logo.svg",
+    "logoVersion": 1779745124361
+  },
+  {
+    "id": "兰州城市学院",
+    "name": "兰州城市学院",
+    "displayName": "兰州城市学院",
+    "shareName": "兰州城市学院",
+    "logo": "svg/兰州城市学院-logo.svg",
+    "logoVersion": 1779745118661
+  },
+  {
+    "id": "兰州大学",
+    "name": "兰州大学",
+    "displayName": "兰州大学",
+    "shareName": "兰州大学",
+    "logo": "svg/兰州大学-logo.svg",
+    "logoVersion": 1779745108626
+  },
+  {
+    "id": "兰州工业学院",
+    "name": "兰州工业学院",
+    "displayName": "兰州工业学院",
+    "shareName": "兰州工业学院",
+    "logo": "svg/兰州工业学院-logo.svg",
+    "logoVersion": 1779745129074
+  },
+  {
+    "id": "兰州交通大学",
+    "name": "兰州交通大学",
+    "displayName": "兰州交通大学",
+    "shareName": "兰州交通大学",
+    "logo": "svg/兰州交通大学-logo.svg",
+    "logoVersion": 1779745112495
+  },
+  {
+    "id": "兰州理工大学",
+    "name": "兰州理工大学",
+    "displayName": "兰州理工大学",
+    "shareName": "兰州理工大学",
+    "logo": "svg/兰州理工大学-logo.svg",
+    "logoVersion": 1779745110002
+  },
+  {
+    "id": "兰州文理学院",
+    "name": "兰州文理学院",
+    "displayName": "兰州文理学院",
+    "shareName": "兰州文理学院",
+    "logo": "svg/兰州文理学院-logo.svg",
+    "logoVersion": 1779745126969
+  },
+  {
+    "id": "兰州职业技术学院",
+    "name": "兰州职业技术学院",
+    "displayName": "兰州职业技术学院",
+    "shareName": "兰州职业技术学院",
+    "logo": "svg/兰州职业技术学院-logo.svg",
+    "logoVersion": 1779745133640
+  },
+  {
+    "id": "兰州资源环境职业技术大学",
+    "name": "兰州资源环境职业技术大学",
+    "displayName": "兰州资源环境职业技术大学",
+    "shareName": "兰州资源环境职业技术大学",
+    "logo": "svg/兰州资源环境职业技术大学-logo.svg",
+    "logoVersion": 1779745144001
+  },
+  {
+    "id": "廊坊师范学院",
+    "name": "廊坊师范学院",
+    "displayName": "廊坊师范学院",
+    "shareName": "廊坊师范学院",
+    "logo": "svg/廊坊师范学院-logo.svg",
+    "logoVersion": 1779743207412
+  },
+  {
+    "id": "乐山师范学院",
+    "name": "乐山师范学院",
+    "displayName": "乐山师范学院",
+    "shareName": "乐山师范学院",
+    "logo": "svg/乐山师范学院-logo.svg",
+    "logoVersion": 1779744901666
+  },
+  {
+    "id": "丽水学院",
+    "name": "丽水学院",
+    "displayName": "丽水学院",
+    "shareName": "丽水学院",
+    "logo": "svg/丽水学院-logo.svg",
+    "logoVersion": 1779743863078
+  },
+  {
+    "id": "辽宁工程技术大学",
+    "name": "辽宁工程技术大学",
+    "displayName": "辽宁工程技术大学",
+    "shareName": "辽宁工程技术大学",
+    "logo": "svg/辽宁工程技术大学-logo.svg",
+    "logoVersion": 1779743344416
+  },
+  {
+    "id": "辽宁工业大学",
+    "name": "辽宁工业大学",
+    "displayName": "辽宁工业大学",
+    "shareName": "辽宁工业大学",
+    "logo": "svg/辽宁工业大学-logo.svg",
+    "logoVersion": 1779743357539
+  },
+  {
+    "id": "辽宁科技学院",
+    "name": "辽宁科技学院",
+    "displayName": "辽宁科技学院",
+    "shareName": "辽宁科技学院",
+    "logo": "svg/辽宁科技学院-logo.svg",
+    "logoVersion": 1779743396439
+  },
+  {
+    "id": "辽宁理工学院",
+    "name": "辽宁理工学院",
+    "displayName": "辽宁理工学院",
+    "shareName": "辽宁理工学院",
+    "logo": "svg/辽宁理工学院-logo.svg",
+    "logoVersion": 1779743414295
+  },
+  {
+    "id": "辽宁师范大学海华学院",
+    "name": "辽宁师范大学海华学院",
+    "displayName": "辽宁师范大学海华学院",
+    "shareName": "辽宁师范大学海华学院",
+    "logo": "svg/辽宁师范大学海华学院-logo.svg",
+    "logoVersion": 1779743411539
+  },
+  {
+    "id": "辽宁石油化工大学",
+    "name": "辽宁石油化工大学",
+    "displayName": "辽宁石油化工大学",
+    "shareName": "辽宁石油化工大学",
+    "logo": "svg/辽宁石油化工大学-logo.svg",
+    "logoVersion": 1779743346628
+  },
+  {
+    "id": "辽宁中医药大学",
+    "name": "辽宁中医药大学",
+    "displayName": "辽宁中医药大学",
+    "shareName": "辽宁中医药大学",
+    "logo": "svg/辽宁中医药大学-logo.svg",
+    "logoVersion": 1779743369289
+  },
+  {
+    "id": "辽宁装备制造职业技术学院",
+    "name": "辽宁装备制造职业技术学院",
+    "displayName": "辽宁装备制造职业技术学院",
+    "shareName": "辽宁装备制造职业技术学院",
+    "logo": "svg/辽宁装备制造职业技术学院-logo.svg",
+    "logoVersion": 1779743425402
+  },
+  {
+    "id": "聊城大学",
+    "name": "聊城大学",
+    "displayName": "聊城大学",
+    "shareName": "聊城大学",
+    "logo": "svg/聊城大学-logo.svg",
+    "logoVersion": 1779744244593
+  },
+  {
+    "id": "临沂大学",
+    "name": "临沂大学",
+    "displayName": "临沂大学",
+    "shareName": "临沂大学",
+    "logo": "svg/临沂大学-logo.svg",
+    "logoVersion": 1779744250694
+  },
+  {
+    "id": "六盘水师范学院",
+    "name": "六盘水师范学院",
+    "displayName": "六盘水师范学院",
+    "shareName": "六盘水师范学院",
+    "logo": "svg/六盘水师范学院-logo.svg",
+    "logoVersion": 1779744981096
+  },
+  {
+    "id": "龙岩学院",
+    "name": "龙岩学院",
+    "displayName": "龙岩学院",
+    "shareName": "龙岩学院",
+    "logo": "svg/龙岩学院-logo.svg",
+    "logoVersion": 1779744094265
+  },
+  {
+    "id": "陇东学院",
+    "name": "陇东学院",
+    "displayName": "陇东学院",
+    "shareName": "陇东学院",
+    "logo": "svg/陇东学院-logo.svg",
+    "logoVersion": 1779745120945
+  },
+  {
+    "id": "鲁东大学",
+    "name": "鲁东大学",
+    "displayName": "鲁东大学",
+    "shareName": "鲁东大学",
+    "logo": "svg/鲁东大学-logo.svg",
+    "logoVersion": 1779744248786
+  },
+  {
+    "id": "吕梁学院",
+    "name": "吕梁学院",
+    "displayName": "吕梁学院",
+    "shareName": "吕梁学院",
+    "logo": "svg/吕梁学院-logo.svg",
+    "logoVersion": 1779743284941
+  },
+  {
+    "id": "洛阳理工学院",
+    "name": "洛阳理工学院",
+    "displayName": "洛阳理工学院",
+    "shareName": "洛阳理工学院",
+    "logo": "svg/洛阳理工学院-logo.svg",
+    "logoVersion": 1779744341764
+  },
+  {
+    "id": "洛阳师范学院",
+    "name": "洛阳师范学院",
+    "displayName": "洛阳师范学院",
+    "shareName": "洛阳师范学院",
+    "logo": "svg/洛阳师范学院-logo.svg",
+    "logoVersion": 1779748989716
+  },
+  {
+    "id": "绵阳师范学院",
+    "name": "绵阳师范学院",
+    "displayName": "绵阳师范学院",
+    "shareName": "绵阳师范学院",
+    "logo": "svg/绵阳师范学院-logo.svg",
+    "logoVersion": 1779748990718
+  },
+  {
+    "id": "民政职业大学",
+    "name": "民政职业大学",
+    "displayName": "民政职业大学",
+    "shareName": "民政职业大学",
+    "logo": "svg/民政职业大学-logo.svg",
+    "logoVersion": 1779743081394
+  },
+  {
+    "id": "闽江学院",
+    "name": "闽江学院",
+    "displayName": "闽江学院",
+    "shareName": "闽江学院",
+    "logo": "svg/闽江学院-logo.svg",
+    "logoVersion": 1779744073673
+  },
+  {
+    "id": "闽南师范大学",
+    "name": "闽南师范大学",
+    "displayName": "闽南师范大学",
+    "shareName": "闽南师范大学",
+    "logo": "svg/闽南师范大学-logo.svg",
+    "logoVersion": 1779744086323
+  },
+  {
+    "id": "牡丹江大学",
+    "name": "牡丹江大学",
+    "displayName": "牡丹江大学",
+    "shareName": "牡丹江大学",
+    "logo": "svg/牡丹江大学-logo.svg",
+    "logoVersion": 1779743526215
+  },
+  {
+    "id": "牡丹江师范学院",
+    "name": "牡丹江师范学院",
+    "displayName": "牡丹江师范学院",
+    "shareName": "牡丹江师范学院",
+    "logo": "svg/牡丹江师范学院-logo.svg",
+    "logoVersion": 1779743513499
+  },
+  {
+    "id": "南昌工程学院",
+    "name": "南昌工程学院",
+    "displayName": "南昌工程学院",
+    "shareName": "南昌工程学院",
+    "logo": "svg/南昌工程学院-logo.svg",
+    "logoVersion": 1779744145858
+  },
+  {
+    "id": "南昌航空大学",
+    "name": "南昌航空大学",
+    "displayName": "南昌航空大学",
+    "shareName": "南昌航空大学",
+    "logo": "svg/南昌航空大学-logo.svg",
+    "logoVersion": 1779744109940
+  },
+  {
+    "id": "南昌交通学院",
+    "name": "南昌交通学院",
+    "displayName": "南昌交通学院",
+    "shareName": "南昌交通学院",
+    "logo": "svg/南昌交通学院-logo.svg",
+    "logoVersion": 1779744161224
+  },
+  {
+    "id": "南昌理工学院",
+    "name": "南昌理工学院",
+    "displayName": "南昌理工学院",
+    "shareName": "南昌理工学院",
+    "logo": "svg/南昌理工学院-logo.svg",
+    "logoVersion": 1779744152940
+  },
+  {
+    "id": "南昌医学院",
+    "name": "南昌医学院",
+    "displayName": "南昌医学院",
+    "shareName": "南昌医学院",
+    "logo": "svg/南昌医学院-logo.svg",
+    "logoVersion": 1779744163212
+  },
+  {
+    "id": "南方科技大学",
+    "name": "南方科技大学",
+    "displayName": "南方科技大学",
+    "shareName": "南方科技大学",
+    "logo": "svg/南方科技大学-logo.svg",
+    "logoVersion": 1779744715998
+  },
+  {
+    "id": "南方医科大学",
+    "name": "南方医科大学",
+    "displayName": "南方医科大学",
+    "shareName": "南方医科大学",
+    "logo": "svg/南方医科大学-logo.svg",
+    "logoVersion": 1779745868056
+  },
+  {
+    "id": "南华大学",
+    "name": "南华大学",
+    "displayName": "南华大学",
+    "shareName": "南华大学",
+    "logo": "svg/南华大学-logo.svg",
+    "logoVersion": 1779744489808
+  },
+  {
+    "id": "南京财经大学",
+    "name": "南京财经大学",
+    "displayName": "南京财经大学",
+    "shareName": "南京财经大学",
+    "logo": "svg/南京财经大学-logo.svg",
+    "logoVersion": 1779743752315
+  },
+  {
+    "id": "南京大学",
+    "name": "南京大学",
+    "displayName": "南京大学",
+    "shareName": "南京大学",
+    "logo": "svg/南京大学-logo.svg",
+    "logoVersion": 1779743684033
+  },
+  {
+    "id": "南京工程学院",
+    "name": "南京工程学院",
+    "displayName": "南京工程学院",
+    "shareName": "南京工程学院",
+    "logo": "svg/南京工程学院-logo.svg",
+    "logoVersion": 1779743772353
+  },
+  {
+    "id": "南京工业大学",
+    "name": "南京工业大学",
+    "displayName": "南京工业大学",
+    "shareName": "南京工业大学",
+    "logo": "svg/南京工业大学-logo.svg",
+    "logoVersion": 1779743702131
+  },
+  {
+    "id": "南京工业职业技术大学",
+    "name": "南京工业职业技术大学",
+    "displayName": "南京工业职业技术大学",
+    "shareName": "南京工业职业技术大学",
+    "logo": "svg/南京工业职业技术大学-logo.svg",
+    "logoVersion": 1779743763805
+  },
+  {
+    "id": "南京航空航天大学",
+    "name": "南京航空航天大学",
+    "displayName": "南京航空航天大学",
+    "shareName": "南京航空航天大学",
+    "logo": "svg/南京航空航天大学-logo.svg",
+    "logoVersion": 1779743692080
+  },
+  {
+    "id": "南京理工大学",
+    "name": "南京理工大学",
+    "displayName": "南京理工大学",
+    "shareName": "南京理工大学",
+    "logo": "svg/南京理工大学-logo.svg",
+    "logoVersion": 1779743693610
+  },
+  {
+    "id": "南京林业大学",
+    "name": "南京林业大学",
+    "displayName": "南京林业大学",
+    "shareName": "南京林业大学",
+    "logo": "svg/南京林业大学-logo.svg",
+    "logoVersion": 1779743716638
+  },
+  {
+    "id": "南京农业大学",
+    "name": "南京农业大学",
+    "displayName": "南京农业大学",
+    "shareName": "南京农业大学",
+    "logo": "svg/南京农业大学-logo.svg",
+    "logoVersion": 1779743731504
+  },
+  {
+    "id": "南京审计大学",
+    "name": "南京审计大学",
+    "displayName": "南京审计大学",
+    "shareName": "南京审计大学",
+    "logo": "svg/南京审计大学-logo.svg",
+    "logoVersion": 1779743776746
+  },
+  {
+    "id": "南京师范大学",
+    "name": "南京师范大学",
+    "displayName": "南京师范大学",
+    "shareName": "南京师范大学",
+    "logo": "svg/南京师范大学-logo.svg",
+    "logoVersion": 1779743745492
+  },
+  {
+    "id": "南京体育学院",
+    "name": "南京体育学院",
+    "displayName": "南京体育学院",
+    "shareName": "南京体育学院",
+    "logo": "svg/南京体育学院-logo.svg",
+    "logoVersion": 1779743755769
+  },
+  {
+    "id": "南京晓庄学院",
+    "name": "南京晓庄学院",
+    "displayName": "南京晓庄学院",
+    "shareName": "南京晓庄学院",
+    "logo": "svg/南京晓庄学院-logo.svg",
+    "logoVersion": 1779743778649
+  },
+  {
+    "id": "南京信息工程大学",
+    "name": "南京信息工程大学",
+    "displayName": "南京信息工程大学",
+    "shareName": "南京信息工程大学",
+    "logo": "svg/南京信息工程大学-logo.svg",
+    "logoVersion": 1779743720976
+  },
+  {
+    "id": "南京医科大学",
+    "name": "南京医科大学",
+    "displayName": "南京医科大学",
+    "shareName": "南京医科大学",
+    "logo": "svg/南京医科大学-logo.svg",
+    "logoVersion": 1779743736061
+  },
+  {
+    "id": "南京艺术学院",
+    "name": "南京艺术学院",
+    "displayName": "南京艺术学院",
+    "shareName": "南京艺术学院",
+    "logo": "svg/南京艺术学院-logo.svg",
+    "logoVersion": 1779743756835
+  },
+  {
+    "id": "南京邮电大学",
+    "name": "南京邮电大学",
+    "displayName": "南京邮电大学",
+    "shareName": "南京邮电大学",
+    "logo": "svg/南京邮电大学-logo.svg",
+    "logoVersion": 1779743707458
+  },
+  {
+    "id": "南京中医药大学",
+    "name": "南京中医药大学",
+    "displayName": "南京中医药大学",
+    "shareName": "南京中医药大学",
+    "logo": "svg/南京中医药大学-logo.svg",
+    "logoVersion": 1779743740995
+  },
+  {
+    "id": "南开大学",
+    "name": "南开大学",
+    "displayName": "南开大学",
+    "shareName": "南开大学",
+    "logo": "svg/南开大学-logo.svg",
+    "logoVersion": 1779743090935
+  },
+  {
+    "id": "南宁师范大学",
+    "name": "南宁师范大学",
+    "displayName": "南宁师范大学",
+    "shareName": "南宁师范大学",
+    "logo": "svg/南宁师范大学-logo.svg",
+    "logoVersion": 1779744766456
+  },
+  {
+    "id": "南通大学",
+    "name": "南通大学",
+    "displayName": "南通大学",
+    "shareName": "南通大学",
+    "logo": "svg/南通大学-logo.svg",
+    "logoVersion": 1779743723512
+  },
+  {
+    "id": "南通理工学院",
+    "name": "南通理工学院",
+    "displayName": "南通理工学院",
+    "shareName": "南通理工学院",
+    "logo": "svg/南通理工学院-logo.svg",
+    "logoVersion": 1779743790547
+  },
+  {
+    "id": "南阳理工学院",
+    "name": "南阳理工学院",
+    "displayName": "南阳理工学院",
+    "shareName": "南阳理工学院",
+    "logo": "svg/南阳理工学院-logo.svg",
+    "logoVersion": 1779744350905
+  },
+  {
+    "id": "内江师范学院",
+    "name": "内江师范学院",
+    "displayName": "内江师范学院",
+    "shareName": "内江师范学院",
+    "logo": "svg/内江师范学院-logo.svg",
+    "logoVersion": 1779748991708
+  },
+  {
+    "id": "内蒙古财经大学",
+    "name": "内蒙古财经大学",
+    "displayName": "内蒙古财经大学",
+    "shareName": "内蒙古财经大学",
+    "logo": "svg/内蒙古财经大学-logo.svg",
+    "logoVersion": 1779743310468
+  },
+  {
+    "id": "内蒙古大学",
+    "name": "内蒙古大学",
+    "displayName": "内蒙古大学",
+    "shareName": "内蒙古大学",
+    "logo": "svg/内蒙古大学-logo.svg",
+    "logoVersion": 1779743300719
+  },
+  {
+    "id": "内蒙古化工职业学院",
+    "name": "内蒙古化工职业学院",
+    "displayName": "内蒙古化工职业学院",
+    "shareName": "内蒙古化工职业学院",
+    "logo": "svg/内蒙古化工职业学院-logo.svg",
+    "logoVersion": 1779743320788
+  },
+  {
+    "id": "内蒙古科技大学",
+    "name": "内蒙古科技大学",
+    "displayName": "内蒙古科技大学",
+    "shareName": "内蒙古科技大学",
+    "logo": "svg/内蒙古科技大学-logo.svg",
+    "logoVersion": 1779743303153
+  },
+  {
+    "id": "内蒙古师范大学",
+    "name": "内蒙古师范大学",
+    "displayName": "内蒙古师范大学",
+    "shareName": "内蒙古师范大学",
+    "logo": "svg/内蒙古师范大学-logo.svg",
+    "logoVersion": 1779743305786
+  },
+  {
+    "id": "内蒙古艺术学院",
+    "name": "内蒙古艺术学院",
+    "displayName": "内蒙古艺术学院",
+    "shareName": "内蒙古艺术学院",
+    "logo": "svg/内蒙古艺术学院-logo.svg",
+    "logoVersion": 1779743325162
+  },
+  {
+    "id": "宁波财经学院",
+    "name": "宁波财经学院",
+    "displayName": "宁波财经学院",
+    "shareName": "宁波财经学院",
+    "logo": "svg/宁波财经学院-logo.svg",
+    "logoVersion": 1779743908233
+  },
+  {
+    "id": "宁波大学",
+    "name": "宁波大学",
+    "displayName": "宁波大学",
+    "shareName": "宁波大学",
+    "logo": "svg/宁波大学-logo.svg",
+    "logoVersion": 1779743886244
+  },
+  {
+    "id": "宁波工程学院",
+    "name": "宁波工程学院",
+    "displayName": "宁波工程学院",
+    "shareName": "宁波工程学院",
+    "logo": "svg/宁波工程学院-logo.svg",
+    "logoVersion": 1779743873945
+  },
+  {
+    "id": "宁波诺丁汉大学",
+    "name": "宁波诺丁汉大学",
+    "displayName": "宁波诺丁汉大学",
+    "shareName": "宁波诺丁汉大学",
+    "logo": "svg/宁波诺丁汉大学-logo.svg",
+    "logoVersion": 1779743947348
+  },
+  {
+    "id": "宁德师范学院",
+    "name": "宁德师范学院",
+    "displayName": "宁德师范学院",
+    "shareName": "宁德师范学院",
+    "logo": "svg/宁德师范学院-logo.svg",
+    "logoVersion": 1779744077371
+  },
+  {
+    "id": "宁夏大学",
+    "name": "宁夏大学",
+    "displayName": "宁夏大学",
+    "shareName": "宁夏大学",
+    "logo": "svg/宁夏大学-logo.svg",
+    "logoVersion": 1779745151674
+  },
+  {
+    "id": "攀枝花学院",
+    "name": "攀枝花学院",
+    "displayName": "攀枝花学院",
+    "shareName": "攀枝花学院",
+    "logo": "svg/攀枝花学院-logo.svg",
+    "logoVersion": 1779744931555
+  },
+  {
+    "id": "齐鲁工业大学",
+    "name": "齐鲁工业大学",
+    "displayName": "齐鲁工业大学",
+    "shareName": "齐鲁工业大学",
+    "logo": "svg/齐鲁工业大学-logo.svg",
+    "logoVersion": 1779744187237
+  },
+  {
+    "id": "齐鲁师范学院",
+    "name": "齐鲁师范学院",
+    "displayName": "齐鲁师范学院",
+    "shareName": "齐鲁师范学院",
+    "logo": "svg/齐鲁师范学院-logo.svg",
+    "logoVersion": 1779748992690
+  },
+  {
+    "id": "齐齐哈尔工程学院",
+    "name": "齐齐哈尔工程学院",
+    "displayName": "齐齐哈尔工程学院",
+    "shareName": "齐齐哈尔工程学院",
+    "logo": "svg/齐齐哈尔工程学院-logo.svg",
+    "logoVersion": 1779743537147
+  },
+  {
+    "id": "青岛大学",
+    "name": "青岛大学",
+    "displayName": "青岛大学",
+    "shareName": "青岛大学",
+    "logo": "svg/青岛大学-logo.svg",
+    "logoVersion": 1779744262557
+  },
+  {
+    "id": "青岛恒星科技学院",
+    "name": "青岛恒星科技学院",
+    "displayName": "青岛恒星科技学院",
+    "shareName": "青岛恒星科技学院",
+    "logo": "svg/青岛恒星科技学院-logo.svg",
+    "logoVersion": 1779744277424
+  },
+  {
+    "id": "青岛黄海学院",
+    "name": "青岛黄海学院",
+    "displayName": "青岛黄海学院",
+    "shareName": "青岛黄海学院",
+    "logo": "svg/青岛黄海学院-logo.svg",
+    "logoVersion": 1779744279822
+  },
+  {
+    "id": "青岛科技大学",
+    "name": "青岛科技大学",
+    "displayName": "青岛科技大学",
+    "shareName": "青岛科技大学",
+    "logo": "svg/青岛科技大学-logo.svg",
+    "logoVersion": 1779744178074
+  },
+  {
+    "id": "青岛理工大学",
+    "name": "青岛理工大学",
+    "displayName": "青岛理工大学",
+    "shareName": "青岛理工大学",
+    "logo": "svg/青岛理工大学-logo.svg",
+    "logoVersion": 1779744184978
+  },
+  {
+    "id": "青岛农业大学",
+    "name": "青岛农业大学",
+    "displayName": "青岛农业大学",
+    "shareName": "青岛农业大学",
+    "logo": "svg/青岛农业大学-logo.svg",
+    "logoVersion": 1779745745155
+  },
+  {
+    "id": "青海大学",
+    "name": "青海大学",
+    "displayName": "青海大学",
+    "shareName": "青海大学",
+    "logo": "svg/青海大学-logo.svg",
+    "logoVersion": 1779745145543
+  },
+  {
+    "id": "青海民族大学",
+    "name": "青海民族大学",
+    "displayName": "青海民族大学",
+    "shareName": "青海民族大学",
+    "logo": "svg/青海民族大学-logo.svg",
+    "logoVersion": 1779745149131
+  },
+  {
+    "id": "青海师范大学",
+    "name": "青海师范大学",
+    "displayName": "青海师范大学",
+    "shareName": "青海师范大学",
+    "logo": "svg/青海师范大学-logo.svg",
+    "logoVersion": 1779745146980
+  },
+  {
+    "id": "清华大学",
+    "name": "清华大学",
+    "displayName": "清华大学",
+    "shareName": "清华大学",
+    "logo": "svg/清华大学-logo.svg",
+    "logoVersion": 1779742734531
+  },
+  {
+    "id": "曲阜师范大学",
+    "name": "曲阜师范大学",
+    "displayName": "曲阜师范大学",
+    "shareName": "曲阜师范大学",
+    "logo": "svg/曲阜师范大学-logo.svg",
+    "logoVersion": 1779744243081
+  },
+  {
+    "id": "曲靖师范学院",
+    "name": "曲靖师范学院",
+    "displayName": "曲靖师范学院",
+    "shareName": "曲靖师范学院",
+    "logo": "svg/曲靖师范学院-logo.svg",
+    "logoVersion": 1779745007253
+  },
+  {
+    "id": "衢州学院",
+    "name": "衢州学院",
+    "displayName": "衢州学院",
+    "shareName": "衢州学院",
+    "logo": "svg/衢州学院-logo.svg",
+    "logoVersion": 1779743884451
+  },
+  {
+    "id": "衢州职业技术学院",
+    "name": "衢州职业技术学院",
+    "displayName": "衢州职业技术学院",
+    "shareName": "衢州职业技术学院",
+    "logo": "svg/衢州职业技术学院-logo.svg",
+    "logoVersion": 1779743907254
+  },
+  {
+    "id": "泉州师范学院",
+    "name": "泉州师范学院",
+    "displayName": "泉州师范学院",
+    "shareName": "泉州师范学院",
+    "logo": "svg/泉州师范学院-logo.svg",
+    "logoVersion": 1779744080374
+  },
+  {
+    "id": "三江学院",
+    "name": "三江学院",
+    "displayName": "三江学院",
+    "shareName": "三江学院",
+    "logo": "svg/三江学院-logo.svg",
+    "logoVersion": 1779743768729
+  },
+  {
+    "id": "三峡大学",
+    "name": "三峡大学",
+    "displayName": "三峡大学",
+    "shareName": "三峡大学",
+    "logo": "svg/三峡大学-logo.svg",
+    "logoVersion": 1779744435436
+  },
+  {
+    "id": "厦门大学",
+    "name": "厦门大学",
+    "displayName": "厦门大学",
+    "shareName": "厦门大学",
+    "logo": "svg/厦门大学-logo.svg",
+    "logoVersion": 1779744056468
+  },
+  {
+    "id": "厦门理工学院",
+    "name": "厦门理工学院",
+    "displayName": "厦门理工学院",
+    "shareName": "厦门理工学院",
+    "logo": "svg/厦门理工学院-logo.svg",
+    "logoVersion": 1779744088879
+  },
+  {
+    "id": "山东财经大学",
+    "name": "山东财经大学",
+    "displayName": "山东财经大学",
+    "shareName": "山东财经大学",
+    "logo": "svg/山东财经大学-logo.svg",
+    "logoVersion": 1779744258740
+  },
+  {
+    "id": "山东财经大学燕山学院",
+    "name": "山东财经大学燕山学院",
+    "displayName": "山东财经大学燕山学院",
+    "shareName": "山东财经大学燕山学院",
+    "logo": "svg/山东财经大学燕山学院-logo.svg",
+    "logoVersion": 1779744284570
+  },
+  {
+    "id": "山东大学",
+    "name": "山东大学",
+    "displayName": "山东大学",
+    "shareName": "山东大学",
+    "logo": "svg/山东大学-logo.svg",
+    "logoVersion": 1779744168679
+  },
+  {
+    "id": "山东第二医科大学",
+    "name": "山东第二医科大学",
+    "displayName": "山东第二医科大学",
+    "shareName": "山东第二医科大学",
+    "logo": "svg/山东第二医科大学-logo.svg",
+    "logoVersion": 1779744228761
+  },
+  {
+    "id": "山东第一医科大学",
+    "name": "山东第一医科大学",
+    "displayName": "山东第一医科大学",
+    "shareName": "山东第一医科大学",
+    "logo": "svg/山东第一医科大学-logo.svg",
+    "logoVersion": 1779744232013
+  },
+  {
+    "id": "山东航空学院",
+    "name": "山东航空学院",
+    "displayName": "山东航空学院",
+    "shareName": "山东航空学院",
+    "logo": "svg/山东航空学院-logo.svg",
+    "logoVersion": 1779744247049
+  },
+  {
+    "id": "山东交通学院",
+    "name": "山东交通学院",
+    "displayName": "山东交通学院",
+    "shareName": "山东交通学院",
+    "logo": "svg/山东交通学院-logo.svg",
+    "logoVersion": 1779744268942
+  },
+  {
+    "id": "山东科技大学",
+    "name": "山东科技大学",
+    "displayName": "山东科技大学",
+    "shareName": "山东科技大学",
+    "logo": "svg/山东科技大学-logo.svg",
+    "logoVersion": 1779744172300
+  },
+  {
+    "id": "山东理工大学",
+    "name": "山东理工大学",
+    "displayName": "山东理工大学",
+    "shareName": "山东理工大学",
+    "logo": "svg/山东理工大学-logo.svg",
+    "logoVersion": 1779744190380
+  },
+  {
+    "id": "山东农业大学",
+    "name": "山东农业大学",
+    "displayName": "山东农业大学",
+    "shareName": "山东农业大学",
+    "logo": "svg/山东农业大学-logo.svg",
+    "logoVersion": 1779744194501
+  },
+  {
+    "id": "山东女子学院",
+    "name": "山东女子学院",
+    "displayName": "山东女子学院",
+    "shareName": "山东女子学院",
+    "logo": "svg/山东女子学院-logo.svg",
+    "logoVersion": 1779744270799
+  },
+  {
+    "id": "山东外事职业大学",
+    "name": "山东外事职业大学",
+    "displayName": "山东外事职业大学",
+    "shareName": "山东外事职业大学",
+    "logo": "svg/山东外事职业大学-logo.svg",
+    "logoVersion": 1779744288463
+  },
+  {
+    "id": "山东中医药大学",
+    "name": "山东中医药大学",
+    "displayName": "山东中医药大学",
+    "shareName": "山东中医药大学",
+    "logo": "svg/山东中医药大学-logo.svg",
+    "logoVersion": 1779744236033
+  },
+  {
+    "id": "山西财经大学",
+    "name": "山西财经大学",
+    "displayName": "山西财经大学",
+    "shareName": "山西财经大学",
+    "logo": "svg/山西财经大学-logo.svg",
+    "logoVersion": 1779743280431
+  },
+  {
+    "id": "山西大同大学",
+    "name": "山西大同大学",
+    "displayName": "山西大同大学",
+    "shareName": "山西大同大学",
+    "logo": "svg/山西大同大学-logo.svg",
+    "logoVersion": 1779743272628
+  },
+  {
+    "id": "山西大学",
+    "name": "山西大学",
+    "displayName": "山西大学",
+    "shareName": "山西大学",
+    "logo": "svg/山西大学-logo.svg",
+    "logoVersion": 1779743253041
+  },
+  {
+    "id": "山西工程技术学院",
+    "name": "山西工程技术学院",
+    "displayName": "山西工程技术学院",
+    "shareName": "山西工程技术学院",
+    "logo": "svg/山西工程技术学院-logo.svg",
+    "logoVersion": 1779743296493
+  },
+  {
+    "id": "山西工商学院",
+    "name": "山西工商学院",
+    "displayName": "山西工商学院",
+    "shareName": "山西工商学院",
+    "logo": "svg/山西工商学院-logo.svg",
+    "logoVersion": 1779743289321
+  },
+  {
+    "id": "山西旅游职业学院",
+    "name": "山西旅游职业学院",
+    "displayName": "山西旅游职业学院",
+    "shareName": "山西旅游职业学院",
+    "logo": "svg/山西旅游职业学院-logo.svg",
+    "logoVersion": 1779743292160
+  },
+  {
+    "id": "山西农业大学",
+    "name": "山西农业大学",
+    "displayName": "山西农业大学",
+    "shareName": "山西农业大学",
+    "logo": "svg/山西农业大学-logo.svg",
+    "logoVersion": 1779743259849
+  },
+  {
+    "id": "山西师范大学",
+    "name": "山西师范大学",
+    "displayName": "山西师范大学",
+    "shareName": "山西师范大学",
+    "logo": "svg/山西师范大学-logo.svg",
+    "logoVersion": 1779743265324
+  },
+  {
+    "id": "山西医科大学",
+    "name": "山西医科大学",
+    "displayName": "山西医科大学",
+    "shareName": "山西医科大学",
+    "logo": "svg/山西医科大学-logo.svg",
+    "logoVersion": 1779743261192
+  },
+  {
+    "id": "山西中医药大学",
+    "name": "山西中医药大学",
+    "displayName": "山西中医药大学",
+    "shareName": "山西中医药大学",
+    "logo": "svg/山西中医药大学-logo.svg",
+    "logoVersion": 1779743283276
+  },
+  {
+    "id": "陕西科技大学",
+    "name": "陕西科技大学",
+    "displayName": "陕西科技大学",
+    "shareName": "陕西科技大学",
+    "logo": "svg/陕西科技大学-logo.svg",
+    "logoVersion": 1779745603506
+  },
+  {
+    "id": "陕西理工大学",
+    "name": "陕西理工大学",
+    "displayName": "陕西理工大学",
+    "shareName": "陕西理工大学",
+    "logo": "svg/陕西理工大学-logo.svg",
+    "logoVersion": 1779745070355
+  },
+  {
+    "id": "陕西师范大学",
+    "name": "陕西师范大学",
+    "displayName": "陕西师范大学",
+    "shareName": "陕西师范大学",
+    "logo": "svg/陕西师范大学-logo.svg",
+    "logoVersion": 1779745065830
+  },
+  {
+    "id": "陕西学前师范学院",
+    "name": "陕西学前师范学院",
+    "displayName": "陕西学前师范学院",
+    "shareName": "陕西学前师范学院",
+    "logo": "svg/陕西学前师范学院-logo.svg",
+    "logoVersion": 1779745106646
+  },
+  {
+    "id": "陕西中医药大学",
+    "name": "陕西中医药大学",
+    "displayName": "陕西中医药大学",
+    "shareName": "陕西中医药大学",
+    "logo": "svg/陕西中医药大学-logo.svg",
+    "logoVersion": 1779745061781
+  },
+  {
+    "id": "汕头大学",
+    "name": "汕头大学",
+    "displayName": "汕头大学",
+    "shareName": "汕头大学",
+    "logo": "svg/汕头大学-logo.svg",
+    "logoVersion": 1779744523224
+  },
+  {
+    "id": "汕尾职业技术学院",
+    "name": "汕尾职业技术学院",
+    "displayName": "汕尾职业技术学院",
+    "shareName": "汕尾职业技术学院",
+    "logo": "svg/汕尾职业技术学院-logo.svg",
+    "logoVersion": 1779744664875
+  },
+  {
+    "id": "商洛学院",
+    "name": "商洛学院",
+    "displayName": "商洛学院",
+    "shareName": "商洛学院",
+    "logo": "svg/商洛学院-logo.svg",
+    "logoVersion": 1779745084945
+  },
+  {
+    "id": "商丘工学院",
+    "name": "商丘工学院",
+    "displayName": "商丘工学院",
+    "shareName": "商丘工学院",
+    "logo": "svg/商丘工学院-logo.svg",
+    "logoVersion": 1779744357890
+  },
+  {
+    "id": "商丘师范学院",
+    "name": "商丘师范学院",
+    "displayName": "商丘师范学院",
+    "shareName": "商丘师范学院",
+    "logo": "svg/商丘师范学院-logo.svg",
+    "logoVersion": 1779744323844
+  },
+  {
+    "id": "上海财经大学",
+    "name": "上海财经大学",
+    "displayName": "上海财经大学",
+    "shareName": "上海财经大学",
+    "logo": "svg/上海财经大学-logo.svg",
+    "logoVersion": 1779743622346
+  },
+  {
+    "id": "上海城建职业学院",
+    "name": "上海城建职业学院",
+    "displayName": "上海城建职业学院",
+    "shareName": "上海城建职业学院",
+    "logo": "svg/上海城建职业学院-logo.svg",
+    "logoVersion": 1779743670835
+  },
+  {
+    "id": "上海出版印刷高等专科学校",
+    "name": "上海出版印刷高等专科学校",
+    "displayName": "上海出版印刷高等专科学校",
+    "shareName": "上海出版印刷高等专科学校",
+    "logo": "svg/上海出版印刷高等专科学校-logo.svg",
+    "logoVersion": 1779743654672
+  },
+  {
+    "id": "上海大学",
+    "name": "上海大学",
+    "displayName": "上海大学",
+    "shareName": "上海大学",
+    "logo": "svg/上海大学-logo.svg",
+    "logoVersion": 1779743642004
+  },
+  {
+    "id": "上海第二工业大学",
+    "name": "上海第二工业大学",
+    "displayName": "上海第二工业大学",
+    "shareName": "上海第二工业大学",
+    "logo": "svg/上海第二工业大学-logo.svg",
+    "logoVersion": 1779743663050
+  },
+  {
+    "id": "上海电机学院",
+    "name": "上海电机学院",
+    "displayName": "上海电机学院",
+    "shareName": "上海电机学院",
+    "logo": "svg/上海电机学院-logo.svg",
+    "logoVersion": 1779743652955
+  },
+  {
+    "id": "上海电力大学",
+    "name": "上海电力大学",
+    "displayName": "上海电力大学",
+    "shareName": "上海电力大学",
+    "logo": "svg/上海电力大学-logo.svg",
+    "logoVersion": 1779743562493
+  },
+  {
+    "id": "上海东海职业技术学院",
+    "name": "上海东海职业技术学院",
+    "displayName": "上海东海职业技术学院",
+    "shareName": "上海东海职业技术学院",
+    "logo": "svg/上海东海职业技术学院-logo.svg",
+    "logoVersion": 1779743643745
+  },
+  {
+    "id": "上海对外经贸大学",
+    "name": "上海对外经贸大学",
+    "displayName": "上海对外经贸大学",
+    "shareName": "上海对外经贸大学",
+    "logo": "svg/上海对外经贸大学-logo.svg",
+    "logoVersion": 1779743626309
+  },
+  {
+    "id": "上海工程技术大学",
+    "name": "上海工程技术大学",
+    "displayName": "上海工程技术大学",
+    "shareName": "上海工程技术大学",
+    "logo": "svg/上海工程技术大学-logo.svg",
+    "logoVersion": 1779743647803
+  },
+  {
+    "id": "上海海关学院",
+    "name": "上海海关学院",
+    "displayName": "上海海关学院",
+    "shareName": "上海海关学院",
+    "logo": "svg/上海海关学院-logo.svg",
+    "logoVersion": 1779743629151
+  },
+  {
+    "id": "上海海事大学",
+    "name": "上海海事大学",
+    "displayName": "上海海事大学",
+    "shareName": "上海海事大学",
+    "logo": "svg/上海海事大学-logo.svg",
+    "logoVersion": 1779743557420
+  },
+  {
+    "id": "上海海洋大学",
+    "name": "上海海洋大学",
+    "displayName": "上海海洋大学",
+    "shareName": "上海海洋大学",
+    "logo": "svg/上海海洋大学-logo.svg",
+    "logoVersion": 1779743570351
+  },
+  {
+    "id": "上海建桥学院",
+    "name": "上海建桥学院",
+    "displayName": "上海建桥学院",
+    "shareName": "上海建桥学院",
+    "logo": "svg/上海建桥学院-logo.svg",
+    "logoVersion": 1779743673139
+  },
+  {
+    "id": "上海健康医学院",
+    "name": "上海健康医学院",
+    "displayName": "上海健康医学院",
+    "shareName": "上海健康医学院",
+    "logo": "svg/上海健康医学院-logo.svg",
+    "logoVersion": 1779743566838
+  },
+  {
+    "id": "上海交通大学",
+    "name": "上海交通大学",
+    "displayName": "上海交通大学",
+    "shareName": "上海交通大学",
+    "logo": "svg/上海交通大学-logo.svg",
+    "logoVersion": 1779743547376
+  },
+  {
+    "id": "上海科技大学",
+    "name": "上海科技大学",
+    "displayName": "上海科技大学",
+    "shareName": "上海科技大学",
+    "logo": "svg/上海科技大学-logo.svg",
+    "logoVersion": 1779743676315
+  },
+  {
+    "id": "上海理工大学",
+    "name": "上海理工大学",
+    "displayName": "上海理工大学",
+    "shareName": "上海理工大学",
+    "logo": "svg/上海理工大学-logo.svg",
+    "logoVersion": 1779743555260
+  },
+  {
+    "id": "上海立信会计金融学院",
+    "name": "上海立信会计金融学院",
+    "displayName": "上海立信会计金融学院",
+    "shareName": "上海立信会计金融学院",
+    "logo": "svg/上海立信会计金融学院-logo.svg",
+    "logoVersion": 1779743651084
+  },
+  {
+    "id": "上海民航职业技术学院",
+    "name": "上海民航职业技术学院",
+    "displayName": "上海民航职业技术学院",
+    "shareName": "上海民航职业技术学院",
+    "logo": "svg/上海民航职业技术学院-logo.svg",
+    "logoVersion": 1779743674365
+  },
+  {
+    "id": "上海纽约大学",
+    "name": "上海纽约大学",
+    "displayName": "上海纽约大学",
+    "shareName": "上海纽约大学",
+    "logo": "svg/上海纽约大学-logo.svg",
+    "logoVersion": 1779743681514
+  },
+  {
+    "id": "上海杉达学院",
+    "name": "上海杉达学院",
+    "displayName": "上海杉达学院",
+    "shareName": "上海杉达学院",
+    "logo": "svg/上海杉达学院-logo.svg",
+    "logoVersion": 1779743656754
+  },
+  {
+    "id": "上海商学院",
+    "name": "上海商学院",
+    "displayName": "上海商学院",
+    "shareName": "上海商学院",
+    "logo": "svg/上海商学院-logo.svg",
+    "logoVersion": 1779743665275
+  },
+  {
+    "id": "上海师范大学",
+    "name": "上海师范大学",
+    "displayName": "上海师范大学",
+    "shareName": "上海师范大学",
+    "logo": "svg/上海师范大学-logo.svg",
+    "logoVersion": 1779743607989
+  },
+  {
+    "id": "上海体育大学",
+    "name": "上海体育大学",
+    "displayName": "上海体育大学",
+    "shareName": "上海体育大学",
+    "logo": "svg/上海体育大学-logo.svg",
+    "logoVersion": 1779743636098
+  },
+  {
+    "id": "上海外国语大学",
+    "name": "上海外国语大学",
+    "displayName": "上海外国语大学",
+    "shareName": "上海外国语大学",
+    "logo": "svg/上海外国语大学-logo.svg",
+    "logoVersion": 1779743609544
+  },
+  {
+    "id": "上海戏剧学院",
+    "name": "上海戏剧学院",
+    "displayName": "上海戏剧学院",
+    "shareName": "上海戏剧学院",
+    "logo": "svg/上海戏剧学院-logo.svg",
+    "logoVersion": 1779743639377
+  },
+  {
+    "id": "上海现代化工职业学院",
+    "name": "上海现代化工职业学院",
+    "displayName": "上海现代化工职业学院",
+    "shareName": "上海现代化工职业学院",
+    "logo": "svg/上海现代化工职业学院-logo.svg",
+    "logoVersion": 1779743680170
+  },
+  {
+    "id": "上海音乐学院",
+    "name": "上海音乐学院",
+    "displayName": "上海音乐学院",
+    "shareName": "上海音乐学院",
+    "logo": "svg/上海音乐学院-logo.svg",
+    "logoVersion": 1779743638290
+  },
+  {
+    "id": "上海应用技术大学",
+    "name": "上海应用技术大学",
+    "displayName": "上海应用技术大学",
+    "shareName": "上海应用技术大学",
+    "logo": "svg/上海应用技术大学-logo.svg",
+    "logoVersion": 1779743564348
+  },
+  {
+    "id": "上海政法学院",
+    "name": "上海政法学院",
+    "displayName": "上海政法学院",
+    "shareName": "上海政法学院",
+    "logo": "svg/上海政法学院-logo.svg",
+    "logoVersion": 1779743659306
+  },
+  {
+    "id": "上海中医药大学",
+    "name": "上海中医药大学",
+    "displayName": "上海中医药大学",
+    "shareName": "上海中医药大学",
+    "logo": "svg/上海中医药大学-logo.svg",
+    "logoVersion": 1779745391930
+  },
+  {
+    "id": "上饶师范学院",
+    "name": "上饶师范学院",
+    "displayName": "上饶师范学院",
+    "shareName": "上饶师范学院",
+    "logo": "svg/上饶师范学院-logo.svg",
+    "logoVersion": 1779744123116
+  },
+  {
+    "id": "韶关学院",
+    "name": "韶关学院",
+    "displayName": "韶关学院",
+    "shareName": "韶关学院",
+    "logo": "svg/韶关学院-logo.svg",
+    "logoVersion": 1779744551915
+  },
+  {
+    "id": "邵阳学院",
+    "name": "邵阳学院",
+    "displayName": "邵阳学院",
+    "shareName": "邵阳学院",
+    "logo": "svg/邵阳学院-logo.svg",
+    "logoVersion": 1779744482398
+  },
+  {
+    "id": "深圳北理莫斯科大学",
+    "name": "深圳北理莫斯科大学",
+    "displayName": "深圳北理莫斯科大学",
+    "shareName": "深圳北理莫斯科大学",
+    "logo": "svg/深圳北理莫斯科大学-logo.svg",
+    "logoVersion": 1779744726112
+  },
+  {
+    "id": "深圳大学",
+    "name": "深圳大学",
+    "displayName": "深圳大学",
+    "shareName": "深圳大学",
+    "logo": "svg/深圳大学-logo.svg",
+    "logoVersion": 1779744570255
+  },
+  {
+    "id": "深圳理工大学",
+    "name": "深圳理工大学",
+    "displayName": "深圳理工大学",
+    "shareName": "深圳理工大学",
+    "logo": "svg/深圳理工大学-logo.svg",
+    "logoVersion": 1779749197313
+  },
+  {
+    "id": "深圳信息职业技术大学",
+    "name": "深圳信息职业技术大学",
+    "displayName": "深圳信息职业技术大学",
+    "shareName": "深圳信息职业技术大学",
+    "logo": "svg/深圳信息职业技术大学-logo.svg",
+    "logoVersion": 1779744668032
+  },
+  {
+    "id": "深圳职业技术大学",
+    "name": "深圳职业技术大学",
+    "displayName": "深圳职业技术大学",
+    "shareName": "深圳职业技术大学",
+    "logo": "svg/深圳职业技术大学-logo.svg",
+    "logoVersion": 1779744598004
+  },
+  {
+    "id": "沈阳城市学院",
+    "name": "沈阳城市学院",
+    "displayName": "沈阳城市学院",
+    "shareName": "沈阳城市学院",
+    "logo": "svg/沈阳城市学院-logo.svg",
+    "logoVersion": 1779743421097
+  },
+  {
+    "id": "沈阳大学",
+    "name": "沈阳大学",
+    "displayName": "沈阳大学",
+    "shareName": "沈阳大学",
+    "logo": "svg/沈阳大学-logo.svg",
+    "logoVersion": 1779743390091
+  },
+  {
+    "id": "沈阳工学院",
+    "name": "沈阳工学院",
+    "displayName": "沈阳工学院",
+    "shareName": "沈阳工学院",
+    "logo": "svg/沈阳工学院-logo.svg",
+    "logoVersion": 1779743401133
+  },
+  {
+    "id": "沈阳工业大学",
+    "name": "沈阳工业大学",
+    "displayName": "沈阳工业大学",
+    "shareName": "沈阳工业大学",
+    "logo": "svg/沈阳工业大学-logo.svg",
+    "logoVersion": 1779743334497
+  },
+  {
+    "id": "沈阳航空航天大学",
+    "name": "沈阳航空航天大学",
+    "displayName": "沈阳航空航天大学",
+    "shareName": "沈阳航空航天大学",
+    "logo": "svg/沈阳航空航天大学-logo.svg",
+    "logoVersion": 1779743337566
+  },
+  {
+    "id": "沈阳化工大学",
+    "name": "沈阳化工大学",
+    "displayName": "沈阳化工大学",
+    "shareName": "沈阳化工大学",
+    "logo": "svg/沈阳化工大学-logo.svg",
+    "logoVersion": 1779743348594
+  },
+  {
+    "id": "沈阳理工大学",
+    "name": "沈阳理工大学",
+    "displayName": "沈阳理工大学",
+    "shareName": "沈阳理工大学",
+    "logo": "svg/沈阳理工大学-logo.svg",
+    "logoVersion": 1779743339494
+  },
+  {
+    "id": "沈阳农业大学",
+    "name": "沈阳农业大学",
+    "displayName": "沈阳农业大学",
+    "shareName": "沈阳农业大学",
+    "logo": "svg/沈阳农业大学-logo.svg",
+    "logoVersion": 1779743360308
+  },
+  {
+    "id": "沈阳体育学院",
+    "name": "沈阳体育学院",
+    "displayName": "沈阳体育学院",
+    "shareName": "沈阳体育学院",
+    "logo": "svg/沈阳体育学院-logo.svg",
+    "logoVersion": 1779743385622
+  },
+  {
+    "id": "沈阳药科大学",
+    "name": "沈阳药科大学",
+    "displayName": "沈阳药科大学",
+    "shareName": "沈阳药科大学",
+    "logo": "svg/沈阳药科大学-logo.svg",
+    "logoVersion": 1779743371496
+  },
+  {
+    "id": "沈阳医学院",
+    "name": "沈阳医学院",
+    "displayName": "沈阳医学院",
+    "shareName": "沈阳医学院",
+    "logo": "svg/沈阳医学院-logo.svg",
+    "logoVersion": 1779743373404
+  },
+  {
+    "id": "沈阳音乐学院",
+    "name": "沈阳音乐学院",
+    "displayName": "沈阳音乐学院",
+    "shareName": "沈阳音乐学院",
+    "logo": "svg/沈阳音乐学院-logo.svg",
+    "logoVersion": 1779743387373
+  },
+  {
+    "id": "石家庄铁道大学",
+    "name": "石家庄铁道大学",
+    "displayName": "石家庄铁道大学",
+    "shareName": "石家庄铁道大学",
+    "logo": "svg/石家庄铁道大学-logo.svg",
+    "logoVersion": 1779743218020
+  },
+  {
+    "id": "石家庄学院",
+    "name": "石家庄学院",
+    "displayName": "石家庄学院",
+    "shareName": "石家庄学院",
+    "logo": "svg/石家庄学院-logo.svg",
+    "logoVersion": 1779743210263
+  },
+  {
+    "id": "首都经济贸易大学",
+    "name": "首都经济贸易大学",
+    "displayName": "首都经济贸易大学",
+    "shareName": "首都经济贸易大学",
+    "logo": "svg/首都经济贸易大学-logo.svg",
+    "logoVersion": 1779742964335
+  },
+  {
+    "id": "首都师范大学",
+    "name": "首都师范大学",
+    "displayName": "首都师范大学",
+    "shareName": "首都师范大学",
+    "logo": "svg/首都师范大学-logo.svg",
+    "logoVersion": 1779742942974
+  },
+  {
+    "id": "首都师范大学科德学院",
+    "name": "首都师范大学科德学院",
+    "displayName": "首都师范大学科德学院",
+    "shareName": "首都师范大学科德学院",
+    "logo": "svg/首都师范大学科德学院-logo.svg",
+    "logoVersion": 1779743043223
+  },
+  {
+    "id": "首都体育学院",
+    "name": "首都体育学院",
+    "displayName": "首都体育学院",
+    "shareName": "首都体育学院",
+    "logo": "svg/首都体育学院-logo.svg",
+    "logoVersion": 1779742943842
+  },
+  {
+    "id": "首都医科大学",
+    "name": "首都医科大学",
+    "displayName": "首都医科大学",
+    "shareName": "首都医科大学",
+    "logo": "svg/首都医科大学-logo.svg",
+    "logoVersion": 1779742935424
+  },
+  {
+    "id": "四川传媒学院",
+    "name": "四川传媒学院",
+    "displayName": "四川传媒学院",
+    "shareName": "四川传媒学院",
+    "logo": "svg/四川传媒学院-logo.svg",
+    "logoVersion": 1779744946980
+  },
+  {
+    "id": "四川大学",
+    "name": "四川大学",
+    "displayName": "四川大学",
+    "shareName": "四川大学",
+    "logo": "svg/四川大学-logo.svg",
+    "logoVersion": 1779744853404
+  },
+  {
+    "id": "四川电力职业技术学院",
+    "name": "四川电力职业技术学院",
+    "displayName": "四川电力职业技术学院",
+    "shareName": "四川电力职业技术学院",
+    "logo": "svg/四川电力职业技术学院-logo.svg",
+    "logoVersion": 1779744940472
+  },
+  {
+    "id": "四川警察学院",
+    "name": "四川警察学院",
+    "displayName": "四川警察学院",
+    "shareName": "四川警察学院",
+    "logo": "svg/四川警察学院-logo.svg",
+    "logoVersion": 1779744942496
+  },
+  {
+    "id": "四川旅游学院",
+    "name": "四川旅游学院",
+    "displayName": "四川旅游学院",
+    "shareName": "四川旅游学院",
+    "logo": "svg/四川旅游学院-logo.svg",
+    "logoVersion": 1779744935086
+  },
+  {
+    "id": "四川美术学院",
+    "name": "四川美术学院",
+    "displayName": "四川美术学院",
+    "shareName": "四川美术学院",
+    "logo": "svg/四川美术学院-logo.svg",
+    "logoVersion": 1779744826630
+  },
+  {
+    "id": "四川农业大学",
+    "name": "四川农业大学",
+    "displayName": "四川农业大学",
+    "shareName": "四川农业大学",
+    "logo": "svg/四川农业大学-logo.svg",
+    "logoVersion": 1779744882818
+  },
+  {
+    "id": "四川轻化工大学",
+    "name": "四川轻化工大学",
+    "displayName": "四川轻化工大学",
+    "shareName": "四川轻化工大学",
+    "logo": "svg/四川轻化工大学-logo.svg",
+    "logoVersion": 1779744872207
+  },
+  {
+    "id": "四川师范大学",
+    "name": "四川师范大学",
+    "displayName": "四川师范大学",
+    "shareName": "四川师范大学",
+    "logo": "svg/四川师范大学-logo.svg",
+    "logoVersion": 1779744888271
+  },
+  {
+    "id": "四川外国语大学",
+    "name": "四川外国语大学",
+    "displayName": "四川外国语大学",
+    "shareName": "四川外国语大学",
+    "logo": "svg/四川外国语大学-logo.svg",
+    "logoVersion": 1779744820821
+  },
+  {
+    "id": "苏州大学",
+    "name": "苏州大学",
+    "displayName": "苏州大学",
+    "shareName": "苏州大学",
+    "logo": "svg/苏州大学-logo.svg",
+    "logoVersion": 1779743686357
+  },
+  {
+    "id": "苏州工学院",
+    "name": "苏州工学院",
+    "displayName": "苏州工学院",
+    "shareName": "苏州工学院",
+    "logo": "svg/苏州工学院-logo.svg",
+    "logoVersion": 1779743760473
+  },
+  {
+    "id": "苏州工业职业技术学院",
+    "name": "苏州工业职业技术学院",
+    "displayName": "苏州工业职业技术学院",
+    "shareName": "苏州工业职业技术学院",
+    "logo": "svg/苏州工业职业技术学院-logo.svg",
+    "logoVersion": 1779743799626
+  },
+  {
+    "id": "苏州科技大学",
+    "name": "苏州科技大学",
+    "displayName": "苏州科技大学",
+    "shareName": "苏州科技大学",
+    "logo": "svg/苏州科技大学-logo.svg",
+    "logoVersion": 1779743758608
+  },
+  {
+    "id": "苏州农业职业技术学院",
+    "name": "苏州农业职业技术学院",
+    "displayName": "苏州农业职业技术学院",
+    "shareName": "苏州农业职业技术学院",
+    "logo": "svg/苏州农业职业技术学院-logo.svg",
+    "logoVersion": 1779745344273
+  },
+  {
+    "id": "宿迁学院",
+    "name": "宿迁学院",
+    "displayName": "宿迁学院",
+    "shareName": "宿迁学院",
+    "logo": "svg/宿迁学院-logo.svg",
+    "logoVersion": 1779743823631
+  },
+  {
+    "id": "宿州学院",
+    "name": "宿州学院",
+    "displayName": "宿州学院",
+    "shareName": "宿州学院",
+    "logo": "svg/宿州学院-logo.svg",
+    "logoVersion": 1779744025859
+  },
+  {
+    "id": "塔里木大学",
+    "name": "塔里木大学",
+    "displayName": "塔里木大学",
+    "shareName": "塔里木大学",
+    "logo": "svg/塔里木大学-logo.svg",
+    "logoVersion": 1779745156506
+  },
+  {
+    "id": "台州学院",
+    "name": "台州学院",
+    "displayName": "台州学院",
+    "shareName": "台州学院",
+    "logo": "svg/台州学院-logo.svg",
+    "logoVersion": 1779743857970
+  },
+  {
+    "id": "太原工业学院",
+    "name": "太原工业学院",
+    "displayName": "太原工业学院",
+    "shareName": "太原工业学院",
+    "logo": "svg/太原工业学院-logo.svg",
+    "logoVersion": 1779743294068
+  },
+  {
+    "id": "太原科技大学",
+    "name": "太原科技大学",
+    "displayName": "太原科技大学",
+    "shareName": "太原科技大学",
+    "logo": "svg/太原科技大学-logo.svg",
+    "logoVersion": 1779743254719
+  },
+  {
+    "id": "太原理工大学",
+    "name": "太原理工大学",
+    "displayName": "太原理工大学",
+    "shareName": "太原理工大学",
+    "logo": "svg/太原理工大学-logo.svg",
+    "logoVersion": 1779743258168
+  },
+  {
+    "id": "太原师范学院",
+    "name": "太原师范学院",
+    "displayName": "太原师范学院",
+    "shareName": "太原师范学院",
+    "logo": "svg/太原师范学院-logo.svg",
+    "logoVersion": 1779743267019
+  },
+  {
+    "id": "太原学院",
+    "name": "太原学院",
+    "displayName": "太原学院",
+    "shareName": "太原学院",
+    "logo": "svg/太原学院-logo.svg",
+    "logoVersion": 1779743287444
+  },
+  {
+    "id": "泰州学院",
+    "name": "泰州学院",
+    "displayName": "泰州学院",
+    "shareName": "泰州学院",
+    "logo": "svg/泰州学院-logo.svg",
+    "logoVersion": 1779743809061
+  },
+  {
+    "id": "唐山师范学院",
+    "name": "唐山师范学院",
+    "displayName": "唐山师范学院",
+    "shareName": "唐山师范学院",
+    "logo": "svg/唐山师范学院-logo.svg",
+    "logoVersion": 1779743205781
+  },
+  {
+    "id": "唐山学院",
+    "name": "唐山学院",
+    "displayName": "唐山学院",
+    "shareName": "唐山学院",
+    "logo": "svg/唐山学院-logo.svg",
+    "logoVersion": 1779743223698
+  },
+  {
+    "id": "天津财经大学",
+    "name": "天津财经大学",
+    "displayName": "天津财经大学",
+    "shareName": "天津财经大学",
+    "logo": "svg/天津财经大学-logo.svg",
+    "logoVersion": 1779743133629
+  },
+  {
+    "id": "天津城建大学",
+    "name": "天津城建大学",
+    "displayName": "天津城建大学",
+    "shareName": "天津城建大学",
+    "logo": "svg/天津城建大学-logo.svg",
+    "logoVersion": 1779743149388
+  },
+  {
+    "id": "天津大学",
+    "name": "天津大学",
+    "displayName": "天津大学",
+    "shareName": "天津大学",
+    "logo": "svg/天津大学-logo.svg",
+    "logoVersion": 1779743093441
+  },
+  {
+    "id": "天津工业大学",
+    "name": "天津工业大学",
+    "displayName": "天津工业大学",
+    "shareName": "天津工业大学",
+    "logo": "svg/天津工业大学-logo.svg",
+    "logoVersion": 1779743097985
+  },
+  {
+    "id": "天津科技大学",
+    "name": "天津科技大学",
+    "displayName": "天津科技大学",
+    "shareName": "天津科技大学",
+    "logo": "svg/天津科技大学-logo.svg",
+    "logoVersion": 1779743095649
+  },
+  {
+    "id": "天津理工大学",
+    "name": "天津理工大学",
+    "displayName": "天津理工大学",
+    "shareName": "天津理工大学",
+    "logo": "svg/天津理工大学-logo.svg",
+    "logoVersion": 1779743101690
+  },
+  {
+    "id": "天津美术学院",
+    "name": "天津美术学院",
+    "displayName": "天津美术学院",
+    "shareName": "天津美术学院",
+    "logo": "svg/天津美术学院-logo.svg",
+    "logoVersion": 1779743145151
+  },
+  {
+    "id": "天津农学院",
+    "name": "天津农学院",
+    "displayName": "天津农学院",
+    "shareName": "天津农学院",
+    "logo": "svg/天津农学院-logo.svg",
+    "logoVersion": 1779743103237
+  },
+  {
+    "id": "天津商业大学",
+    "name": "天津商业大学",
+    "displayName": "天津商业大学",
+    "shareName": "天津商业大学",
+    "logo": "svg/天津商业大学-logo.svg",
+    "logoVersion": 1779743130654
+  },
+  {
+    "id": "天津师范大学",
+    "name": "天津师范大学",
+    "displayName": "天津师范大学",
+    "shareName": "天津师范大学",
+    "logo": "svg/天津师范大学-logo.svg",
+    "logoVersion": 1779743124330
+  },
+  {
+    "id": "天津市职业大学",
+    "name": "天津市职业大学",
+    "displayName": "天津市职业大学",
+    "shareName": "天津市职业大学",
+    "logo": "svg/天津市职业大学-logo.svg",
+    "logoVersion": 1779743152408
+  },
+  {
+    "id": "天津体育学院",
+    "name": "天津体育学院",
+    "displayName": "天津体育学院",
+    "shareName": "天津体育学院",
+    "logo": "svg/天津体育学院-logo.svg",
+    "logoVersion": 1779743139969
+  },
+  {
+    "id": "天津医科大学",
+    "name": "天津医科大学",
+    "displayName": "天津医科大学",
+    "shareName": "天津医科大学",
+    "logo": "svg/天津医科大学-logo.svg",
+    "logoVersion": 1779743105711
+  },
+  {
+    "id": "天津音乐学院",
+    "name": "天津音乐学院",
+    "displayName": "天津音乐学院",
+    "shareName": "天津音乐学院",
+    "logo": "svg/天津音乐学院-logo.svg",
+    "logoVersion": 1779743142580
+  },
+  {
+    "id": "天津职业技术师范大学",
+    "name": "天津职业技术师范大学",
+    "displayName": "天津职业技术师范大学",
+    "shareName": "天津职业技术师范大学",
+    "logo": "svg/天津职业技术师范大学-logo.svg",
+    "logoVersion": 1779743126684
+  },
+  {
+    "id": "天津中医药大学",
+    "name": "天津中医药大学",
+    "displayName": "天津中医药大学",
+    "shareName": "天津中医药大学",
+    "logo": "svg/天津中医药大学-logo.svg",
+    "logoVersion": 1779743111468
+  },
+  {
+    "id": "通化师范学院",
+    "name": "通化师范学院",
+    "displayName": "通化师范学院",
+    "shareName": "通化师范学院",
+    "logo": "svg/通化师范学院-logo.svg",
+    "logoVersion": 1779743453240
+  },
+  {
+    "id": "同济大学",
+    "name": "同济大学",
+    "displayName": "同济大学",
+    "shareName": "同济大学",
+    "logo": "svg/同济大学-logo.svg",
+    "logoVersion": 1779743544767
+  },
+  {
+    "id": "外交学院",
+    "name": "外交学院",
+    "displayName": "外交学院",
+    "shareName": "外交学院",
+    "logo": "svg/外交学院-logo.svg",
+    "logoVersion": 1779742966696
+  },
+  {
+    "id": "皖西学院",
+    "name": "皖西学院",
+    "displayName": "皖西学院",
+    "shareName": "皖西学院",
+    "logo": "svg/皖西学院-logo.svg",
+    "logoVersion": 1779744020898
+  },
+  {
+    "id": "潍坊学院",
+    "name": "潍坊学院",
+    "displayName": "潍坊学院",
+    "shareName": "潍坊学院",
+    "logo": "svg/潍坊学院-logo.svg",
+    "logoVersion": 1779744266685
+  },
+  {
+    "id": "潍坊职业学院",
+    "name": "潍坊职业学院",
+    "displayName": "潍坊职业学院",
+    "shareName": "潍坊职业学院",
+    "logo": "svg/潍坊职业学院-logo.svg",
+    "logoVersion": 1779744273428
+  },
+  {
+    "id": "温州大学",
+    "name": "温州大学",
+    "displayName": "温州大学",
+    "shareName": "温州大学",
+    "logo": "svg/温州大学-logo.svg",
+    "logoVersion": 1779743861385
+  },
+  {
+    "id": "温州肯恩大学",
+    "name": "温州肯恩大学",
+    "displayName": "温州肯恩大学",
+    "shareName": "温州肯恩大学",
+    "logo": "svg/温州肯恩大学-logo.svg",
+    "logoVersion": 1779743950031
+  },
+  {
+    "id": "温州理工学院",
+    "name": "温州理工学院",
+    "displayName": "温州理工学院",
+    "shareName": "温州理工学院",
+    "logo": "svg/温州理工学院-logo.svg",
+    "logoVersion": 1779743928262
+  },
+  {
+    "id": "温州商学院",
+    "name": "温州商学院",
+    "displayName": "温州商学院",
+    "shareName": "温州商学院",
+    "logo": "svg/温州商学院-logo.svg",
+    "logoVersion": 1779743939584
+  },
+  {
+    "id": "温州医科大学",
+    "name": "温州医科大学",
+    "displayName": "温州医科大学",
+    "shareName": "温州医科大学",
+    "logo": "svg/温州医科大学-logo.svg",
+    "logoVersion": 1779743846311
+  },
+  {
+    "id": "无锡科技职业学院",
+    "name": "无锡科技职业学院",
+    "displayName": "无锡科技职业学院",
+    "shareName": "无锡科技职业学院",
+    "logo": "svg/无锡科技职业学院-logo.svg",
+    "logoVersion": 1779743797042
+  },
+  {
+    "id": "无锡学院",
+    "name": "无锡学院",
+    "displayName": "无锡学院",
+    "shareName": "无锡学院",
+    "logo": "svg/无锡学院-logo.svg",
+    "logoVersion": 1779743818879
+  },
+  {
+    "id": "芜湖学院",
+    "name": "芜湖学院",
+    "displayName": "芜湖学院",
+    "shareName": "芜湖学院",
+    "logo": "svg/芜湖学院-logo.svg",
+    "logoVersion": 1779744049574
+  },
+  {
+    "id": "梧州学院",
+    "name": "梧州学院",
+    "displayName": "梧州学院",
+    "shareName": "梧州学院",
+    "logo": "svg/梧州学院-logo.svg",
+    "logoVersion": 1779744771815
+  },
+  {
+    "id": "五邑大学",
+    "name": "五邑大学",
+    "displayName": "五邑大学",
+    "shareName": "五邑大学",
+    "logo": "svg/五邑大学-logo.svg",
+    "logoVersion": 1779748994876
+  },
+  {
+    "id": "武昌工学院",
+    "name": "武昌工学院",
+    "displayName": "武昌工学院",
+    "shareName": "武昌工学院",
+    "logo": "svg/武昌工学院-logo.svg",
+    "logoVersion": 1779744442531
+  },
+  {
+    "id": "武汉大学",
+    "name": "武汉大学",
+    "displayName": "武汉大学",
+    "shareName": "武汉大学",
+    "logo": "svg/武汉大学-logo.svg",
+    "logoVersion": 1779744369940
+  },
+  {
+    "id": "武汉纺织大学",
+    "name": "武汉纺织大学",
+    "displayName": "武汉纺织大学",
+    "shareName": "武汉纺织大学",
+    "logo": "svg/武汉纺织大学-logo.svg",
+    "logoVersion": 1779744384483
+  },
+  {
+    "id": "武汉工程大学",
+    "name": "武汉工程大学",
+    "displayName": "武汉工程大学",
+    "shareName": "武汉工程大学",
+    "logo": "svg/武汉工程大学-logo.svg",
+    "logoVersion": 1779744380197
+  },
+  {
+    "id": "武汉工商学院",
+    "name": "武汉工商学院",
+    "displayName": "武汉工商学院",
+    "shareName": "武汉工商学院",
+    "logo": "svg/武汉工商学院-logo.svg",
+    "logoVersion": 1779744445648
+  },
+  {
+    "id": "武汉科技大学",
+    "name": "武汉科技大学",
+    "displayName": "武汉科技大学",
+    "shareName": "武汉科技大学",
+    "logo": "svg/武汉科技大学-logo.svg",
+    "logoVersion": 1779744374891
+  },
+  {
+    "id": "武汉理工大学",
+    "name": "武汉理工大学",
+    "displayName": "武汉理工大学",
+    "shareName": "武汉理工大学",
+    "logo": "svg/武汉理工大学-logo.svg",
+    "logoVersion": 1779744390636
+  },
+  {
+    "id": "武汉轻工大学",
+    "name": "武汉轻工大学",
+    "displayName": "武汉轻工大学",
+    "shareName": "武汉轻工大学",
+    "logo": "svg/武汉轻工大学-logo.svg",
+    "logoVersion": 1779744387735
+  },
+  {
+    "id": "武汉商贸职业学院",
+    "name": "武汉商贸职业学院",
+    "displayName": "武汉商贸职业学院",
+    "shareName": "武汉商贸职业学院",
+    "logo": "svg/武汉商贸职业学院-logo.svg",
+    "logoVersion": 1779744440366
+  },
+  {
+    "id": "武汉体育学院",
+    "name": "武汉体育学院",
+    "displayName": "武汉体育学院",
+    "shareName": "武汉体育学院",
+    "logo": "svg/武汉体育学院-logo.svg",
+    "logoVersion": 1779744414874
+  },
+  {
+    "id": "武汉学院",
+    "name": "武汉学院",
+    "displayName": "武汉学院",
+    "shareName": "武汉学院",
+    "logo": "svg/武汉学院-logo.svg",
+    "logoVersion": 1779744446788
+  },
+  {
+    "id": "武夷学院",
+    "name": "武夷学院",
+    "displayName": "武夷学院",
+    "shareName": "武夷学院",
+    "logo": "svg/武夷学院-logo.svg",
+    "logoVersion": 1779744075438
+  },
+  {
+    "id": "西安财经大学",
+    "name": "西安财经大学",
+    "displayName": "西安财经大学",
+    "shareName": "西安财经大学",
+    "logo": "svg/西安财经大学-logo.svg",
+    "logoVersion": 1779745089630
+  },
+  {
+    "id": "西安财经大学行知学院",
+    "name": "西安财经大学行知学院",
+    "displayName": "西安财经大学行知学院",
+    "shareName": "西安财经大学行知学院",
+    "logo": "svg/西安财经大学行知学院-logo.svg",
+    "logoVersion": 1779745102019
+  },
+  {
+    "id": "西安电子科技大学",
+    "name": "西安电子科技大学",
+    "displayName": "西安电子科技大学",
+    "shareName": "西安电子科技大学",
+    "logo": "svg/西安电子科技大学-logo.svg",
+    "logoVersion": 1779745040294
+  },
+  {
+    "id": "西安工程大学",
+    "name": "西安工程大学",
+    "displayName": "西安工程大学",
+    "shareName": "西安工程大学",
+    "logo": "svg/西安工程大学-logo.svg",
+    "logoVersion": 1779745054442
+  },
+  {
+    "id": "西安工业大学",
+    "name": "西安工业大学",
+    "displayName": "西安工业大学",
+    "shareName": "西安工业大学",
+    "logo": "svg/西安工业大学-logo.svg",
+    "logoVersion": 1779745041954
+  },
+  {
+    "id": "西安航空学院",
+    "name": "西安航空学院",
+    "displayName": "西安航空学院",
+    "shareName": "西安航空学院",
+    "logo": "svg/西安航空学院-logo.svg",
+    "logoVersion": 1779745093743
+  },
+  {
+    "id": "西安建筑科技大学",
+    "name": "西安建筑科技大学",
+    "displayName": "西安建筑科技大学",
+    "shareName": "西安建筑科技大学",
+    "logo": "svg/西安建筑科技大学-logo.svg",
+    "logoVersion": 1779745044333
+  },
+  {
+    "id": "西安交通大学",
+    "name": "西安交通大学",
+    "displayName": "西安交通大学",
+    "shareName": "西安交通大学",
+    "logo": "svg/西安交通大学-logo.svg",
+    "logoVersion": 1779745032888
+  },
+  {
+    "id": "西安科技大学",
+    "name": "西安科技大学",
+    "displayName": "西安科技大学",
+    "shareName": "西安科技大学",
+    "logo": "svg/西安科技大学-logo.svg",
+    "logoVersion": 1779745046760
+  },
+  {
+    "id": "西安理工大学",
+    "name": "西安理工大学",
+    "displayName": "西安理工大学",
+    "shareName": "西安理工大学",
+    "logo": "svg/西安理工大学-logo.svg",
+    "logoVersion": 1779745037536
+  },
+  {
+    "id": "西安美术学院",
+    "name": "西安美术学院",
+    "displayName": "西安美术学院",
+    "shareName": "西安美术学院",
+    "logo": "svg/西安美术学院-logo.svg",
+    "logoVersion": 1779745077397
+  },
+  {
+    "id": "西安欧亚学院",
+    "name": "西安欧亚学院",
+    "displayName": "西安欧亚学院",
+    "shareName": "西安欧亚学院",
+    "logo": "svg/西安欧亚学院-logo.svg",
+    "logoVersion": 1779745096955
+  },
+  {
+    "id": "西安石油大学",
+    "name": "西安石油大学",
+    "displayName": "西安石油大学",
+    "shareName": "西安石油大学",
+    "logo": "svg/西安石油大学-logo.svg",
+    "logoVersion": 1779745049382
+  },
+  {
+    "id": "西安外国语大学",
+    "name": "西安外国语大学",
+    "displayName": "西安外国语大学",
+    "shareName": "西安外国语大学",
+    "logo": "svg/西安外国语大学-logo.svg",
+    "logoVersion": 1779745073697
+  },
+  {
+    "id": "西安文理学院",
+    "name": "西安文理学院",
+    "displayName": "西安文理学院",
+    "shareName": "西安文理学院",
+    "logo": "svg/西安文理学院-logo.svg",
+    "logoVersion": 1779745080875
+  },
+  {
+    "id": "西安医学院",
+    "name": "西安医学院",
+    "displayName": "西安医学院",
+    "shareName": "西安医学院",
+    "logo": "svg/西安医学院-logo.svg",
+    "logoVersion": 1779745095954
+  },
+  {
+    "id": "西安邮电大学",
+    "name": "西安邮电大学",
+    "displayName": "西安邮电大学",
+    "shareName": "西安邮电大学",
+    "logo": "svg/西安邮电大学-logo.svg",
+    "logoVersion": 1779745091641
+  },
+  {
+    "id": "西安职业技术学院",
+    "name": "西安职业技术学院",
+    "displayName": "西安职业技术学院",
+    "shareName": "西安职业技术学院",
+    "logo": "svg/西安职业技术学院-logo.svg",
+    "logoVersion": 1779745104631
+  },
+  {
+    "id": "西北大学",
+    "name": "西北大学",
+    "displayName": "西北大学",
+    "shareName": "西北大学",
+    "logo": "svg/西北大学-logo.svg",
+    "logoVersion": 1779747720175
+  },
+  {
+    "id": "西北工业大学",
+    "name": "西北工业大学",
+    "displayName": "西北工业大学",
+    "shareName": "西北工业大学",
+    "logo": "svg/西北工业大学-logo.svg",
+    "logoVersion": 1779745035828
+  },
+  {
+    "id": "西北农林科技大学",
+    "name": "西北农林科技大学",
+    "displayName": "西北农林科技大学",
+    "shareName": "西北农林科技大学",
+    "logo": "svg/西北农林科技大学-logo.svg",
+    "logoVersion": 1779745060143
+  },
+  {
+    "id": "西北政法大学",
+    "name": "西北政法大学",
+    "displayName": "西北政法大学",
+    "shareName": "西北政法大学",
+    "logo": "svg/西北政法大学-logo.svg",
+    "logoVersion": 1779745076286
+  },
+  {
+    "id": "西藏民族大学",
+    "name": "西藏民族大学",
+    "displayName": "西藏民族大学",
+    "shareName": "西藏民族大学",
+    "logo": "svg/西藏民族大学-logo.svg",
+    "logoVersion": 1779745028719
+  },
+  {
+    "id": "西华大学",
+    "name": "西华大学",
+    "displayName": "西华大学",
+    "shareName": "西华大学",
+    "logo": "svg/西华大学-logo.svg",
+    "logoVersion": 1779744874902
+  },
+  {
+    "id": "西京学院",
+    "name": "西京学院",
+    "displayName": "西京学院",
+    "shareName": "西京学院",
+    "logo": "svg/西京学院-logo.svg",
+    "logoVersion": 1779745099318
+  },
+  {
+    "id": "西南财经大学",
+    "name": "西南财经大学",
+    "displayName": "西南财经大学",
+    "shareName": "西南财经大学",
+    "logo": "svg/西南财经大学-logo.svg",
+    "logoVersion": 1779744904394
+  },
+  {
+    "id": "西南财经大学天府学院",
+    "name": "西南财经大学天府学院",
+    "displayName": "西南财经大学天府学院",
+    "shareName": "西南财经大学天府学院",
+    "logo": "svg/西南财经大学天府学院-logo.svg",
+    "logoVersion": 1779744953587
+  },
+  {
+    "id": "西南交通大学",
+    "name": "西南交通大学",
+    "displayName": "西南交通大学",
+    "shareName": "西南交通大学",
+    "logo": "svg/西南交通大学-logo.svg",
+    "logoVersion": 1779744856098
+  },
+  {
+    "id": "西南科技大学",
+    "name": "西南科技大学",
+    "displayName": "西南科技大学",
+    "shareName": "西南科技大学",
+    "logo": "svg/西南科技大学-logo.svg",
+    "logoVersion": 1779744867205
+  },
+  {
+    "id": "西南林业大学",
+    "name": "西南林业大学",
+    "displayName": "西南林业大学",
+    "shareName": "西南林业大学",
+    "logo": "svg/西南林业大学-logo.svg",
+    "logoVersion": 1779744993129
+  },
+  {
+    "id": "西南民族大学",
+    "name": "西南民族大学",
+    "displayName": "西南民族大学",
+    "shareName": "西南民族大学",
+    "logo": "svg/西南民族大学-logo.svg",
+    "logoVersion": 1779744909415
+  },
+  {
+    "id": "西南石油大学",
+    "name": "西南石油大学",
+    "displayName": "西南石油大学",
+    "shareName": "西南石油大学",
+    "logo": "svg/西南石油大学-logo.svg",
+    "logoVersion": 1779744861541
+  },
+  {
+    "id": "西南医科大学",
+    "name": "西南医科大学",
+    "displayName": "西南医科大学",
+    "shareName": "西南医科大学",
+    "logo": "svg/西南医科大学-logo.svg",
+    "logoVersion": 1779744885311
+  },
+  {
+    "id": "西南政法大学",
+    "name": "西南政法大学",
+    "displayName": "西南政法大学",
+    "shareName": "西南政法大学",
+    "logo": "svg/西南政法大学-logo.svg",
+    "logoVersion": 1779744824452
+  },
+  {
+    "id": "香港城市大学-东莞",
+    "name": "香港城市大学（东莞）",
+    "displayName": "香港城市大学（东莞）",
+    "shareName": "香港城市大学（东莞）",
+    "logo": "svg/香港城市大学（东莞）-logo.svg",
+    "logoVersion": 1779745309700
+  },
+  {
+    "id": "香港科技大学-广州",
+    "name": "香港科技大学（广州）",
+    "displayName": "香港科技大学（广州）",
+    "shareName": "香港科技大学（广州）",
+    "logo": "svg/香港科技大学（广州）-logo.svg",
+    "logoVersion": 1779749197864
+  },
+  {
+    "id": "湘南学院",
+    "name": "湘南学院",
+    "displayName": "湘南学院",
+    "shareName": "湘南学院",
+    "logo": "svg/湘南学院-logo.svg",
+    "logoVersion": 1779744477644
+  },
+  {
+    "id": "湘潭大学",
+    "name": "湘潭大学",
+    "displayName": "湘潭大学",
+    "shareName": "湘潭大学",
+    "logo": "svg/湘潭大学-logo.svg",
+    "logoVersion": 1779744455718
+  },
+  {
+    "id": "忻州师范学院",
+    "name": "忻州师范学院",
+    "displayName": "忻州师范学院",
+    "shareName": "忻州师范学院",
+    "logo": "svg/忻州师范学院-logo.svg",
+    "logoVersion": 1779743279200
+  },
+  {
+    "id": "新疆第二医学院",
+    "name": "新疆第二医学院",
+    "displayName": "新疆第二医学院",
+    "shareName": "新疆第二医学院",
+    "logo": "svg/新疆第二医学院-logo.svg",
+    "logoVersion": 1779745165171
+  },
+  {
+    "id": "新乡学院",
+    "name": "新乡学院",
+    "displayName": "新乡学院",
+    "shareName": "新乡学院",
+    "logo": "svg/新乡学院-logo.svg",
+    "logoVersion": 1779744343160
+  },
+  {
+    "id": "新余学院",
+    "name": "新余学院",
+    "displayName": "新余学院",
+    "shareName": "新余学院",
+    "logo": "svg/新余学院-logo.svg",
+    "logoVersion": 1779744148685
+  },
+  {
+    "id": "信阳农林学院",
+    "name": "信阳农林学院",
+    "displayName": "信阳农林学院",
+    "shareName": "信阳农林学院",
+    "logo": "svg/信阳农林学院-logo.svg",
+    "logoVersion": 1779744345309
+  },
+  {
+    "id": "星海音乐学院",
+    "name": "星海音乐学院",
+    "displayName": "星海音乐学院",
+    "shareName": "星海音乐学院",
+    "logo": "svg/星海音乐学院-logo.svg",
+    "logoVersion": 1779744565014
+  },
+  {
+    "id": "邢台学院",
+    "name": "邢台学院",
+    "displayName": "邢台学院",
+    "shareName": "邢台学院",
+    "logo": "svg/邢台学院-logo.svg",
+    "logoVersion": 1779743214883
+  },
+  {
+    "id": "徐州医科大学",
+    "name": "徐州医科大学",
+    "displayName": "徐州医科大学",
+    "shareName": "徐州医科大学",
+    "logo": "svg/徐州医科大学-logo.svg",
+    "logoVersion": 1779743738349
+  },
+  {
+    "id": "许昌学院",
+    "name": "许昌学院",
+    "displayName": "许昌学院",
+    "shareName": "许昌学院",
+    "logo": "svg/许昌学院-logo.svg",
+    "logoVersion": 1779744319429
+  },
+  {
+    "id": "烟台大学",
+    "name": "烟台大学",
+    "displayName": "烟台大学",
+    "shareName": "烟台大学",
+    "logo": "svg/烟台大学-logo.svg",
+    "logoVersion": 1779744264931
+  },
+  {
+    "id": "烟台理工学院",
+    "name": "烟台理工学院",
+    "displayName": "烟台理工学院",
+    "shareName": "烟台理工学院",
+    "logo": "svg/烟台理工学院-logo.svg",
+    "logoVersion": 1779744281940
+  },
+  {
+    "id": "延安大学",
+    "name": "延安大学",
+    "displayName": "延安大学",
+    "shareName": "延安大学",
+    "logo": "svg/延安大学-logo.svg",
+    "logoVersion": 1779745068085
+  },
+  {
+    "id": "延边大学",
+    "name": "延边大学",
+    "displayName": "延边大学",
+    "shareName": "延边大学",
+    "logo": "svg/延边大学-logo.svg",
+    "logoVersion": 1779743429527
+  },
+  {
+    "id": "盐城工学院",
+    "name": "盐城工学院",
+    "displayName": "盐城工学院",
+    "shareName": "盐城工学院",
+    "logo": "svg/盐城工学院-logo.svg",
+    "logoVersion": 1779743725214
+  },
+  {
+    "id": "盐城师范学院",
+    "name": "盐城师范学院",
+    "displayName": "盐城师范学院",
+    "shareName": "盐城师范学院",
+    "logo": "svg/盐城师范学院-logo.svg",
+    "logoVersion": 1779743750341
+  },
+  {
+    "id": "燕京理工学院",
+    "name": "燕京理工学院",
+    "displayName": "燕京理工学院",
+    "shareName": "燕京理工学院",
+    "logo": "svg/燕京理工学院-logo.svg",
+    "logoVersion": 1779743245367
+  },
+  {
+    "id": "燕山大学",
+    "name": "燕山大学",
+    "displayName": "燕山大学",
+    "shareName": "燕山大学",
+    "logo": "svg/燕山大学-logo.svg",
+    "logoVersion": 1779743220261
+  },
+  {
+    "id": "扬州大学",
+    "name": "扬州大学",
+    "displayName": "扬州大学",
+    "shareName": "扬州大学",
+    "logo": "svg/扬州大学-logo.svg",
+    "logoVersion": 1779743767044
+  },
+  {
+    "id": "扬州工业职业技术学院",
+    "name": "扬州工业职业技术学院",
+    "displayName": "扬州工业职业技术学院",
+    "shareName": "扬州工业职业技术学院",
+    "logo": "svg/扬州工业职业技术学院-logo.svg",
+    "logoVersion": 1779743816642
+  },
+  {
+    "id": "仰恩大学",
+    "name": "仰恩大学",
+    "displayName": "仰恩大学",
+    "shareName": "仰恩大学",
+    "logo": "svg/仰恩大学-logo.svg",
+    "logoVersion": 1779744097792
+  },
+  {
+    "id": "宜宾学院",
+    "name": "宜宾学院",
+    "displayName": "宜宾学院",
+    "shareName": "宜宾学院",
+    "logo": "svg/宜宾学院-logo.svg",
+    "logoVersion": 1779748996054
+  },
+  {
+    "id": "宜春学院",
+    "name": "宜春学院",
+    "displayName": "宜春学院",
+    "shareName": "宜春学院",
+    "logo": "svg/宜春学院-logo.svg",
+    "logoVersion": 1779744124741
+  },
+  {
+    "id": "义乌工商职业技术学院",
+    "name": "义乌工商职业技术学院",
+    "displayName": "义乌工商职业技术学院",
+    "shareName": "义乌工商职业技术学院",
+    "logo": "svg/义乌工商职业技术学院-logo.svg",
+    "logoVersion": 1779743911381
+  },
+  {
+    "id": "榆林学院",
+    "name": "榆林学院",
+    "displayName": "榆林学院",
+    "shareName": "榆林学院",
+    "logo": "svg/榆林学院-logo.svg",
+    "logoVersion": 1779745082983
+  },
+  {
+    "id": "玉溪师范学院",
+    "name": "玉溪师范学院",
+    "displayName": "玉溪师范学院",
+    "shareName": "玉溪师范学院",
+    "logo": "svg/玉溪师范学院-logo.svg",
+    "logoVersion": 1779745015952
+  },
+  {
+    "id": "豫北医学院",
+    "name": "豫北医学院",
+    "displayName": "豫北医学院",
+    "shareName": "豫北医学院",
+    "logo": "svg/豫北医学院-logo.svg",
+    "logoVersion": 1779744363619
+  },
+  {
+    "id": "豫章师范学院",
+    "name": "豫章师范学院",
+    "displayName": "豫章师范学院",
+    "shareName": "豫章师范学院",
+    "logo": "svg/豫章师范学院-logo.svg",
+    "logoVersion": 1779744166049
+  },
+  {
+    "id": "云南财经大学",
+    "name": "云南财经大学",
+    "displayName": "云南财经大学",
+    "shareName": "云南财经大学",
+    "logo": "svg/云南财经大学-logo.svg",
+    "logoVersion": 1779745013409
+  },
+  {
+    "id": "云南大学",
+    "name": "云南大学",
+    "displayName": "云南大学",
+    "shareName": "云南大学",
+    "logo": "svg/云南大学-logo.svg",
+    "logoVersion": 1779744985408
+  },
+  {
+    "id": "云南农业大学",
+    "name": "云南农业大学",
+    "displayName": "云南农业大学",
+    "shareName": "云南农业大学",
+    "logo": "svg/云南农业大学-logo.svg",
+    "logoVersion": 1779744991041
+  },
+  {
+    "id": "云南师范大学",
+    "name": "云南师范大学",
+    "displayName": "云南师范大学",
+    "shareName": "云南师范大学",
+    "logo": "svg/云南师范大学-logo.svg",
+    "logoVersion": 1779745005125
+  },
+  {
+    "id": "云南中医药大学",
+    "name": "云南中医药大学",
+    "displayName": "云南中医药大学",
+    "shareName": "云南中医药大学",
+    "logo": "svg/云南中医药大学-logo.svg",
+    "logoVersion": 1779745002710
+  },
+  {
+    "id": "运城学院",
+    "name": "运城学院",
+    "displayName": "运城学院",
+    "shareName": "运城学院",
+    "logo": "svg/运城学院-logo.svg",
+    "logoVersion": 1779743277263
+  },
+  {
+    "id": "运城职业技术大学",
+    "name": "运城职业技术大学",
+    "displayName": "运城职业技术大学",
+    "shareName": "运城职业技术大学",
+    "logo": "svg/运城职业技术大学-logo.svg",
+    "logoVersion": 1779743295089
+  },
+  {
+    "id": "枣庄学院",
+    "name": "枣庄学院",
+    "displayName": "枣庄学院",
+    "shareName": "枣庄学院",
+    "logo": "svg/枣庄学院-logo.svg",
+    "logoVersion": 1779744260596
+  },
+  {
+    "id": "张家口学院",
+    "name": "张家口学院",
+    "displayName": "张家口学院",
+    "shareName": "张家口学院",
+    "logo": "svg/张家口学院-logo.svg",
+    "logoVersion": 1779743246540
+  },
+  {
+    "id": "长安大学",
+    "name": "长安大学",
+    "displayName": "长安大学",
+    "shareName": "长安大学",
+    "logo": "svg/长安大学-logo.svg",
+    "logoVersion": 1779745057117
+  },
+  {
+    "id": "长春大学",
+    "name": "长春大学",
+    "displayName": "长春大学",
+    "shareName": "长春大学",
+    "logo": "svg/长春大学-logo.svg",
+    "logoVersion": 1779743476313
+  },
+  {
+    "id": "长春电子科技学院",
+    "name": "长春电子科技学院",
+    "displayName": "长春电子科技学院",
+    "shareName": "长春电子科技学院",
+    "logo": "svg/长春电子科技学院-logo.svg",
+    "logoVersion": 1779743478600
+  },
+  {
+    "id": "长春工程学院",
+    "name": "长春工程学院",
+    "displayName": "长春工程学院",
+    "shareName": "长春工程学院",
+    "logo": "svg/长春工程学院-logo.svg",
+    "logoVersion": 1779743473148
+  },
+  {
+    "id": "长春工业大学",
+    "name": "长春工业大学",
+    "displayName": "长春工业大学",
+    "shareName": "长春工业大学",
+    "logo": "svg/长春工业大学-logo.svg",
+    "logoVersion": 1779743440287
+  },
+  {
+    "id": "长春金融高等专科学校",
+    "name": "长春金融高等专科学校",
+    "displayName": "长春金融高等专科学校",
+    "shareName": "长春金融高等专科学校",
+    "logo": "svg/长春金融高等专科学校-logo.svg",
+    "logoVersion": 1779743474825
+  },
+  {
+    "id": "长春理工大学",
+    "name": "长春理工大学",
+    "displayName": "长春理工大学",
+    "shareName": "长春理工大学",
+    "logo": "svg/长春理工大学-logo.svg",
+    "logoVersion": 1779743434441
+  },
+  {
+    "id": "长春师范大学",
+    "name": "长春师范大学",
+    "displayName": "长春师范大学",
+    "shareName": "长春师范大学",
+    "logo": "svg/长春师范大学-logo.svg",
+    "logoVersion": 1779743459202
+  },
+  {
+    "id": "长春中医药大学",
+    "name": "长春中医药大学",
+    "displayName": "长春中医药大学",
+    "shareName": "长春中医药大学",
+    "logo": "svg/长春中医药大学-logo.svg",
+    "logoVersion": 1779743445228
+  },
+  {
+    "id": "长江大学",
+    "name": "长江大学",
+    "displayName": "长江大学",
+    "shareName": "长江大学",
+    "logo": "svg/长江大学-logo.svg",
+    "logoVersion": 1779744377246
+  },
+  {
+    "id": "长江师范学院",
+    "name": "长江师范学院",
+    "displayName": "长江师范学院",
+    "shareName": "长江师范学院",
+    "logo": "svg/长江师范学院-logo.svg",
+    "logoVersion": 1779744818854
+  },
+  {
+    "id": "长沙理工大学",
+    "name": "长沙理工大学",
+    "displayName": "长沙理工大学",
+    "shareName": "长沙理工大学",
+    "logo": "svg/长沙理工大学-logo.svg",
+    "logoVersion": 1779744465471
+  },
+  {
+    "id": "长沙师范学院",
+    "name": "长沙师范学院",
+    "displayName": "长沙师范学院",
+    "shareName": "长沙师范学院",
+    "logo": "svg/长沙师范学院-logo.svg",
+    "logoVersion": 1779744513132
+  },
+  {
+    "id": "长沙学院",
+    "name": "长沙学院",
+    "displayName": "长沙学院",
+    "shareName": "长沙学院",
+    "logo": "svg/长沙学院-logo.svg",
+    "logoVersion": 1779744491534
+  },
+  {
+    "id": "长沙职业技术学院",
+    "name": "长沙职业技术学院",
+    "displayName": "长沙职业技术学院",
+    "shareName": "长沙职业技术学院",
+    "logo": "svg/长沙职业技术学院-logo.svg",
+    "logoVersion": 1779744510164
+  },
+  {
+    "id": "长治学院",
+    "name": "长治学院",
+    "displayName": "长治学院",
+    "shareName": "长治学院",
+    "logo": "svg/长治学院-logo.svg",
+    "logoVersion": 1779743276017
+  },
+  {
+    "id": "长治医学院",
+    "name": "长治医学院",
+    "displayName": "长治医学院",
+    "shareName": "长治医学院",
+    "logo": "svg/长治医学院-logo.svg",
+    "logoVersion": 1779743263640
+  },
+  {
+    "id": "肇庆学院",
+    "name": "肇庆学院",
+    "displayName": "肇庆学院",
+    "shareName": "肇庆学院",
+    "logo": "svg/肇庆学院-logo.svg",
+    "logoVersion": 1779744557063
+  },
+  {
+    "id": "肇庆医学院",
+    "name": "肇庆医学院",
+    "displayName": "肇庆医学院",
+    "shareName": "肇庆医学院",
+    "logo": "svg/肇庆医学院-logo.svg",
+    "logoVersion": 1779744705639
+  },
+  {
+    "id": "浙大城市学院",
+    "name": "浙大城市学院",
+    "displayName": "浙大城市学院",
+    "shareName": "浙大城市学院",
+    "logo": "svg/浙大城市学院-logo.svg",
+    "logoVersion": 1779743913581
+  },
+  {
+    "id": "浙大宁波理工学院",
+    "name": "浙大宁波理工学院",
+    "displayName": "浙大宁波理工学院",
+    "shareName": "浙大宁波理工学院",
+    "logo": "svg/浙大宁波理工学院-logo.svg",
+    "logoVersion": 1779743915923
+  },
+  {
+    "id": "浙江财经大学",
+    "name": "浙江财经大学",
+    "displayName": "浙江财经大学",
+    "shareName": "浙江财经大学",
+    "logo": "svg/浙江财经大学-logo.svg",
+    "logoVersion": 1779743880585
+  },
+  {
+    "id": "浙江财经大学东方学院",
+    "name": "浙江财经大学东方学院",
+    "displayName": "浙江财经大学东方学院",
+    "shareName": "浙江财经大学东方学院",
+    "logo": "svg/浙江财经大学东方学院-logo.svg",
+    "logoVersion": 1779743936831
+  },
+  {
+    "id": "浙江传媒学院",
+    "name": "浙江传媒学院",
+    "displayName": "浙江传媒学院",
+    "shareName": "浙江传媒学院",
+    "logo": "svg/浙江传媒学院-logo.svg",
+    "logoVersion": 1779743887256
+  },
+  {
+    "id": "浙江大学",
+    "name": "浙江大学",
+    "displayName": "浙江大学",
+    "shareName": "浙江大学",
+    "logo": "svg/浙江大学-logo.svg",
+    "logoVersion": 1779743830509
+  },
+  {
+    "id": "浙江纺织服装职业技术学院",
+    "name": "浙江纺织服装职业技术学院",
+    "displayName": "浙江纺织服装职业技术学院",
+    "shareName": "浙江纺织服装职业技术学院",
+    "logo": "svg/浙江纺织服装职业技术学院-logo.svg",
+    "logoVersion": 1779743920606
+  },
+  {
+    "id": "浙江工商大学",
+    "name": "浙江工商大学",
+    "displayName": "浙江工商大学",
+    "shareName": "浙江工商大学",
+    "logo": "svg/浙江工商大学-logo.svg",
+    "logoVersion": 1779743865135
+  },
+  {
+    "id": "浙江工商大学杭州商学院",
+    "name": "浙江工商大学杭州商学院",
+    "displayName": "浙江工商大学杭州商学院",
+    "shareName": "浙江工商大学杭州商学院",
+    "logo": "svg/浙江工商大学杭州商学院-logo.svg",
+    "logoVersion": 1779743929744
+  },
+  {
+    "id": "浙江工商职业技术学院",
+    "name": "浙江工商职业技术学院",
+    "displayName": "浙江工商职业技术学院",
+    "shareName": "浙江工商职业技术学院",
+    "logo": "svg/浙江工商职业技术学院-logo.svg",
+    "logoVersion": 1779743895304
+  },
+  {
+    "id": "浙江工业大学",
+    "name": "浙江工业大学",
+    "displayName": "浙江工业大学",
+    "shareName": "浙江工业大学",
+    "logo": "svg/浙江工业大学-logo.svg",
+    "logoVersion": 1779743835808
+  },
+  {
+    "id": "浙江海洋大学",
+    "name": "浙江海洋大学",
+    "displayName": "浙江海洋大学",
+    "shareName": "浙江海洋大学",
+    "logo": "svg/浙江海洋大学-logo.svg",
+    "logoVersion": 1779743841585
+  },
+  {
+    "id": "浙江金融职业学院",
+    "name": "浙江金融职业学院",
+    "displayName": "浙江金融职业学院",
+    "shareName": "浙江金融职业学院",
+    "logo": "svg/浙江金融职业学院-logo.svg",
+    "logoVersion": 1779743904327
+  },
+  {
+    "id": "浙江经贸职业技术学院",
+    "name": "浙江经贸职业技术学院",
+    "displayName": "浙江经贸职业技术学院",
+    "shareName": "浙江经贸职业技术学院",
+    "logo": "svg/浙江经贸职业技术学院-logo.svg",
+    "logoVersion": 1779743901732
+  },
+  {
+    "id": "浙江警察学院",
+    "name": "浙江警察学院",
+    "displayName": "浙江警察学院",
+    "shareName": "浙江警察学院",
+    "logo": "svg/浙江警察学院-logo.svg",
+    "logoVersion": 1779743882330
+  },
+  {
+    "id": "浙江科技大学",
+    "name": "浙江科技大学",
+    "displayName": "浙江科技大学",
+    "shareName": "浙江科技大学",
+    "logo": "svg/浙江科技大学-logo.svg",
+    "logoVersion": 1779743871515
+  },
+  {
+    "id": "浙江理工大学",
+    "name": "浙江理工大学",
+    "displayName": "浙江理工大学",
+    "shareName": "浙江理工大学",
+    "logo": "svg/浙江理工大学-logo.svg",
+    "logoVersion": 1779743838467
+  },
+  {
+    "id": "浙江农林大学",
+    "name": "浙江农林大学",
+    "displayName": "浙江农林大学",
+    "shareName": "浙江农林大学",
+    "logo": "svg/浙江农林大学-logo.svg",
+    "logoVersion": 1779743844237
+  },
+  {
+    "id": "浙江师范大学",
+    "name": "浙江师范大学",
+    "displayName": "浙江师范大学",
+    "shareName": "浙江师范大学",
+    "logo": "svg/浙江师范大学-logo.svg",
+    "logoVersion": 1779743850324
+  },
+  {
+    "id": "浙江树人学院",
+    "name": "浙江树人学院",
+    "displayName": "浙江树人学院",
+    "shareName": "浙江树人学院",
+    "logo": "svg/浙江树人学院-logo.svg",
+    "logoVersion": 1779743889477
+  },
+  {
+    "id": "浙江水利水电学院",
+    "name": "浙江水利水电学院",
+    "displayName": "浙江水利水电学院",
+    "shareName": "浙江水利水电学院",
+    "logo": "svg/浙江水利水电学院-logo.svg",
+    "logoVersion": 1779743877333
+  },
+  {
+    "id": "浙江外国语学院",
+    "name": "浙江外国语学院",
+    "displayName": "浙江外国语学院",
+    "shareName": "浙江外国语学院",
+    "logo": "svg/浙江外国语学院-logo.svg",
+    "logoVersion": 1779743943225
+  },
+  {
+    "id": "浙江艺术职业学院",
+    "name": "浙江艺术职业学院",
+    "displayName": "浙江艺术职业学院",
+    "shareName": "浙江艺术职业学院",
+    "logo": "svg/浙江艺术职业学院-logo.svg",
+    "logoVersion": 1779743897404
+  },
+  {
+    "id": "浙江音乐学院",
+    "name": "浙江音乐学院",
+    "displayName": "浙江音乐学院",
+    "shareName": "浙江音乐学院",
+    "logo": "svg/浙江音乐学院-logo.svg",
+    "logoVersion": 1779743946357
+  },
+  {
+    "id": "郑州大学",
+    "name": "郑州大学",
+    "displayName": "郑州大学",
+    "shareName": "郑州大学",
+    "logo": "svg/郑州大学-logo.svg",
+    "logoVersion": 1779744293351
+  },
+  {
+    "id": "郑州经贸学院",
+    "name": "郑州经贸学院",
+    "displayName": "郑州经贸学院",
+    "shareName": "郑州经贸学院",
+    "logo": "svg/郑州经贸学院-logo.svg",
+    "logoVersion": 1779744367138
+  },
+  {
+    "id": "郑州科技学院",
+    "name": "郑州科技学院",
+    "displayName": "郑州科技学院",
+    "shareName": "郑州科技学院",
+    "logo": "svg/郑州科技学院-logo.svg",
+    "logoVersion": 1779744355832
+  },
+  {
+    "id": "郑州轻工业大学",
+    "name": "郑州轻工业大学",
+    "displayName": "郑州轻工业大学",
+    "shareName": "郑州轻工业大学",
+    "logo": "svg/郑州轻工业大学-logo.svg",
+    "logoVersion": 1779744297347
+  },
+  {
+    "id": "中北大学",
+    "name": "中北大学",
+    "displayName": "中北大学",
+    "shareName": "中北大学",
+    "logo": "svg/中北大学-logo.svg",
+    "logoVersion": 1779743256525
+  },
+  {
+    "id": "中国传媒大学",
+    "name": "中国传媒大学",
+    "displayName": "中国传媒大学",
+    "shareName": "中国传媒大学",
+    "logo": "svg/中国传媒大学-logo.svg",
+    "logoVersion": 1779742952415
+  },
+  {
+    "id": "中国地质大学-北京",
+    "name": "中国地质大学（北京）",
+    "displayName": "中国地质大学（北京）",
+    "shareName": "中国地质大学（北京）",
+    "logo": "svg/中国地质大学（北京）-logo.svg",
+    "logoVersion": 1779743019845
+  },
+  {
+    "id": "中国地质大学-武汉",
+    "name": "中国地质大学（武汉）",
+    "displayName": "中国地质大学（武汉）",
+    "shareName": "中国地质大学（武汉）",
+    "logo": "svg/中国地质大学（武汉）-logo.svg",
+    "logoVersion": 1779744381957
+  },
+  {
+    "id": "中国海洋大学",
+    "name": "中国海洋大学",
+    "displayName": "中国海洋大学",
+    "shareName": "中国海洋大学",
+    "logo": "svg/中国海洋大学-logo.svg",
+    "logoVersion": 1779744170349
+  },
+  {
+    "id": "中国计量大学",
+    "name": "中国计量大学",
+    "displayName": "中国计量大学",
+    "shareName": "中国计量大学",
+    "logo": "svg/中国计量大学-logo.svg",
+    "logoVersion": 1779743870237
+  },
+  {
+    "id": "中国科学技术大学",
+    "name": "中国科学技术大学",
+    "displayName": "中国科学技术大学",
+    "shareName": "中国科学技术大学",
+    "logo": "svg/中国科学技术大学-logo.svg",
+    "logoVersion": 1779743954133
+  },
+  {
+    "id": "中国科学院大学",
+    "name": "中国科学院大学",
+    "displayName": "中国科学院大学",
+    "shareName": "中国科学院大学",
+    "logo": "svg/中国科学院大学-logo.svg",
+    "logoVersion": 1779743084078
+  },
+  {
+    "id": "中国矿业大学",
+    "name": "中国矿业大学",
+    "displayName": "中国矿业大学",
+    "shareName": "中国矿业大学",
+    "logo": "svg/中国矿业大学-logo.svg",
+    "logoVersion": 1779743700575
+  },
+  {
+    "id": "中国矿业大学-北京",
+    "name": "中国矿业大学（北京）",
+    "displayName": "中国矿业大学（北京）",
+    "shareName": "中国矿业大学（北京）",
+    "logo": "svg/中国矿业大学（北京）-logo.svg",
+    "logoVersion": 1779743013264
+  },
+  {
+    "id": "中国劳动关系学院",
+    "name": "中国劳动关系学院",
+    "displayName": "中国劳动关系学院",
+    "shareName": "中国劳动关系学院",
+    "logo": "svg/中国劳动关系学院-logo.svg",
+    "logoVersion": 1779743040084
+  },
+  {
+    "id": "中国美术学院",
+    "name": "中国美术学院",
+    "displayName": "中国美术学院",
+    "shareName": "中国美术学院",
+    "logo": "svg/中国美术学院-logo.svg",
+    "logoVersion": 1779743868535
+  },
+  {
+    "id": "中国民航大学",
+    "name": "中国民航大学",
+    "displayName": "中国民航大学",
+    "shareName": "中国民航大学",
+    "logo": "svg/中国民航大学-logo.svg",
+    "logoVersion": 1779743099707
+  },
+  {
+    "id": "中国民用航空飞行学院",
+    "name": "中国民用航空飞行学院",
+    "displayName": "中国民用航空飞行学院",
+    "shareName": "中国民用航空飞行学院",
+    "logo": "svg/中国民用航空飞行学院-logo.svg",
+    "logoVersion": 1779744879196
+  },
+  {
+    "id": "中国农业大学",
+    "name": "中国农业大学",
+    "displayName": "中国农业大学",
+    "shareName": "中国农业大学",
+    "logo": "svg/中国农业大学-logo.svg",
+    "logoVersion": 1779742768708
+  },
+  {
+    "id": "中国青年政治学院",
+    "name": "中国青年政治学院",
+    "displayName": "中国青年政治学院",
+    "shareName": "中国青年政治学院",
+    "logo": "svg/中国青年政治学院-logo.svg",
+    "logoVersion": 1779743030106
+  },
+  {
+    "id": "中国人民大学",
+    "name": "中国人民大学",
+    "displayName": "中国人民大学",
+    "shareName": "中国人民大学",
+    "logo": "svg/中国人民大学-logo.svg",
+    "logoVersion": 1779742731740
+  },
+  {
+    "id": "中国人民公安大学",
+    "name": "中国人民公安大学",
+    "displayName": "中国人民公安大学",
+    "shareName": "中国人民公安大学",
+    "logo": "svg/中国人民公安大学-logo.svg",
+    "logoVersion": 1779745419051
+  },
+  {
+    "id": "中国人民解放军国防科技大学",
+    "name": "中国人民解放军国防科技大学",
+    "displayName": "中国人民解放军国防科技大学",
+    "shareName": "中国人民解放军国防科技大学",
+    "logo": "svg/中国人民解放军国防科技大学-logo.svg",
+    "logoVersion": 1779744516357
+  },
+  {
+    "id": "中国社会科学院大学",
+    "name": "中国社会科学院大学",
+    "displayName": "中国社会科学院大学",
+    "shareName": "中国社会科学院大学",
+    "logo": "svg/中国社会科学院大学-logo.svg",
+    "logoVersion": 1779743088875
+  },
+  {
+    "id": "中国石油大学-北京",
+    "name": "中国石油大学（北京）",
+    "displayName": "中国石油大学（北京）",
+    "shareName": "中国石油大学（北京）",
+    "logo": "svg/中国石油大学（北京）-logo.svg",
+    "logoVersion": 1779743016263
+  },
+  {
+    "id": "中国石油大学-华东",
+    "name": "中国石油大学（华东）",
+    "displayName": "中国石油大学（华东）",
+    "shareName": "中国石油大学（华东）",
+    "logo": "svg/中国石油大学（华东）-logo.svg",
+    "logoVersion": 1779744175493
+  },
+  {
+    "id": "中国药科大学",
+    "name": "中国药科大学",
+    "displayName": "中国药科大学",
+    "shareName": "中国药科大学",
+    "logo": "svg/中国药科大学-logo.svg",
+    "logoVersion": 1779743743407
+  },
+  {
+    "id": "中国医科大学",
+    "name": "中国医科大学",
+    "displayName": "中国医科大学",
+    "shareName": "中国医科大学",
+    "logo": "svg/中国医科大学-logo.svg",
+    "logoVersion": 1779743362264
+  },
+  {
+    "id": "中国政法大学",
+    "name": "中国政法大学",
+    "displayName": "中国政法大学",
+    "shareName": "中国政法大学",
+    "logo": "svg/中国政法大学-logo.svg",
+    "logoVersion": 1779742997825
+  },
+  {
+    "id": "中华女子学院",
+    "name": "中华女子学院",
+    "displayName": "中华女子学院",
+    "shareName": "中华女子学院",
+    "logo": "svg/中华女子学院-logo.svg",
+    "logoVersion": 1779743008214
+  },
+  {
+    "id": "中南大学",
+    "name": "中南大学",
+    "displayName": "中南大学",
+    "shareName": "中南大学",
+    "logo": "svg/中南大学-logo.svg",
+    "logoVersion": 1779744461423
+  },
+  {
+    "id": "中南民族大学",
+    "name": "中南民族大学",
+    "displayName": "中南民族大学",
+    "shareName": "中南民族大学",
+    "logo": "svg/中南民族大学-logo.svg",
+    "logoVersion": 1779744419706
+  },
+  {
+    "id": "中山大学",
+    "name": "中山大学",
+    "displayName": "中山大学",
+    "shareName": "中山大学",
+    "logo": "svg/中山大学-logo.svg",
+    "logoVersion": 1779744519018
+  },
+  {
+    "id": "中央财经大学",
+    "name": "中央财经大学",
+    "displayName": "中央财经大学",
+    "shareName": "中央财经大学",
+    "logo": "svg/中央财经大学-logo.svg",
+    "logoVersion": 1779742956492
+  },
+  {
+    "id": "中央美术学院",
+    "name": "中央美术学院",
+    "displayName": "中央美术学院",
+    "shareName": "中央美术学院",
+    "logo": "svg/中央美术学院-logo.svg",
+    "logoVersion": 1779742976896
+  },
+  {
+    "id": "中央民族大学",
+    "name": "中央民族大学",
+    "displayName": "中央民族大学",
+    "shareName": "中央民族大学",
+    "logo": "svg/中央民族大学-logo.svg",
+    "logoVersion": 1779742995716
+  },
+  {
+    "id": "中央戏剧学院",
+    "name": "中央戏剧学院",
+    "displayName": "中央戏剧学院",
+    "shareName": "中央戏剧学院",
+    "logo": "svg/中央戏剧学院-logo.svg",
+    "logoVersion": 1779742978746
+  },
+  {
+    "id": "中央音乐学院",
+    "name": "中央音乐学院",
+    "displayName": "中央音乐学院",
+    "shareName": "中央音乐学院",
+    "logo": "svg/中央音乐学院-logo.svg",
+    "logoVersion": 1779742974755
+  },
+  {
+    "id": "中原工学院",
+    "name": "中原工学院",
+    "displayName": "中原工学院",
+    "shareName": "中原工学院",
+    "logo": "svg/中原工学院-logo.svg",
+    "logoVersion": 1779744300952
+  },
+  {
+    "id": "中原科技学院",
+    "name": "中原科技学院",
+    "displayName": "中原科技学院",
+    "shareName": "中原科技学院",
+    "logo": "svg/中原科技学院-logo.svg",
+    "logoVersion": 1779744360643
+  },
+  {
+    "id": "仲恺农业工程学院",
+    "name": "仲恺农业工程学院",
+    "displayName": "仲恺农业工程学院",
+    "shareName": "仲恺农业工程学院",
+    "logo": "svg/仲恺农业工程学院-logo.svg",
+    "logoVersion": 1779744600588
+  },
+  {
+    "id": "周口师范学院",
+    "name": "周口师范学院",
+    "displayName": "周口师范学院",
+    "shareName": "周口师范学院",
+    "logo": "svg/周口师范学院-logo.svg",
+    "logoVersion": 1779744313615
+  },
+  {
+    "id": "珠海科技学院",
+    "name": "珠海科技学院",
+    "displayName": "珠海科技学院",
+    "shareName": "珠海科技学院",
+    "logo": "svg/珠海科技学院-logo.svg",
+    "logoVersion": 1779744669697
+  },
+  {
+    "id": "淄博师范高等专科学校",
+    "name": "淄博师范高等专科学校",
+    "displayName": "淄博师范高等专科学校",
+    "shareName": "淄博师范高等专科学校",
+    "logo": "svg/淄博师范高等专科学校-logo.svg",
+    "logoVersion": 1779744286313
+  },
+  {
+    "id": "淄博职业技术大学",
+    "name": "淄博职业技术大学",
+    "displayName": "淄博职业技术大学",
+    "shareName": "淄博职业技术大学",
+    "logo": "svg/淄博职业技术大学-logo.svg",
+    "logoVersion": 1779744276436
+  },
+  {
+    "id": "遵义师范学院",
+    "name": "遵义师范学院",
+    "displayName": "遵义师范学院",
+    "shareName": "遵义师范学院",
+    "logo": "svg/遵义师范学院-logo.svg",
+    "logoVersion": 1779744971029
+  },
+  {
+    "id": "遵义医科大学",
+    "name": "遵义医科大学",
+    "displayName": "遵义医科大学",
+    "shareName": "遵义医科大学",
+    "logo": "svg/遵义医科大学-logo.svg",
+    "logoVersion": 1779744963546
+  }
+]
