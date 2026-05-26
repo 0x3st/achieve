@@ -825,7 +825,10 @@ function initHome() {
 async function createShareImage(achievements, result, school) {
   const unlockedIds = new Set(result?.unlockedIds || []);
   const unlockedAchievements = achievements.filter((item) => unlockedIds.has(item.id));
-  const list = sortAchievementsForDisplay(achievements, unlockedIds);
+  const sortedAchievements = sortAchievementsForDisplay(achievements, unlockedIds);
+  const unlockedList = sortedAchievements.filter((item) => item.unlocked);
+  const minShareAchievements = Math.min(6, sortedAchievements.length);
+  const list = unlockedList.length >= minShareAchievements ? unlockedList : sortedAchievements.slice(0, minShareAchievements);
   const nickname = result?.nickname || "你";
   const percent = achievements.length ? Math.round((unlockedAchievements.length / achievements.length) * 100) : 0;
   const canvas = document.createElement("canvas");
@@ -833,7 +836,8 @@ async function createShareImage(achievements, result, school) {
   const listStartY = 650;
   const rowHeight = 132;
   const footerSpace = 190;
-  const height = Math.max(1920, listStartY + list.length * rowHeight + footerSpace);
+  const minShareHeight = list.length ? 1280 : 1120;
+  const height = Math.max(minShareHeight, listStartY + list.length * rowHeight + footerSpace);
   const scale = window.devicePixelRatio || 1;
   canvas.width = width * scale;
   canvas.height = height * scale;
